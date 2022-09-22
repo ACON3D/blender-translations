@@ -92500,6 +92500,6 @@ msgid "Hide Low Version Warning"
 msgstr "하위 버전 경고 숨기기"
 
 
-msgid "Don’t show this message again."
+msgid "Don’t show this message again"
 msgstr "이 메시지를 다시 표시하지 않습니다."
 
