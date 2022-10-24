@@ -92533,3 +92533,23 @@ msgstr "화면을 이동합니다."
 
 msgid "Drag to rotate the view"
 msgstr "화면을 회전합니다."
+
+
+msgid "Render selected scenes?"
+msgstr "선택된 씬을 렌더하시겠습니까?"
+
+
+msgid "High quality render may take a long time to be finished."
+msgstr "고급 렌더는 씬에 포함된 내용에 따라 렌더 시간이 오래 소요될 수 있습니다."
+
+
+msgid "Render can be canceled after starting."
+msgstr "렌더는 시작 후 취소가 가능합니다."
+
+
+msgid "Selected Scenes : "
+msgstr "선택된 씬 : "
+
+
+msgid "Save and Render"
+msgstr "저장 후 렌더"
