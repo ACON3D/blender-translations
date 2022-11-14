@@ -2623,6 +2623,7 @@ msgid "Ignore parent scaling without compensating for parent shear. Replicates t
 msgstr "부모 전단을 보정하지 않고 부모 배율을 무시합니다. 원래 상속 스케일 확인란을 비활성화 한 효과를 복제합니다"
 
 
+msgctxt "abler"
 msgid "Layers"
 msgstr "레이어"
 
@@ -62748,6 +62749,10 @@ msgstr "셰이드"
 msgid "Styles"
 msgstr "스타일"
 
+
+msgctxt "abler"
+msgid "Style"
+msgstr "스타일"
 
 msgid "Menu"
 msgstr "메뉴"
