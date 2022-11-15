@@ -92697,8 +92697,8 @@ msgid "Focal Length"
 msgstr "초점 거리"
 
 
-msgid "Adjust perspective camera lens value in millimeters (Range: 1~5000)"
-msgstr "초점의 길이가 짧아지면 촬영 범위가 넓어지고, 길어지면 촬영 범위가 좁아지며 피사체는 커지게 됩니다 (범위: 1~5000)"
+msgid "Adjust perspective camera lens value in millimeters (Range: 1~100)"
+msgstr "초점의 길이가 짧아지면 촬영 범위가 넓어지고, 길어지면 촬영 범위가 좁아지며 피사체는 커지게 됩니다 (범위: 1~100)"
 
 
 msgctxt "abler"
