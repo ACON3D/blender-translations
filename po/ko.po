@@ -93771,3 +93771,10 @@ msgid "Apply snap setting when scaling object"
 msgstr "오브젝트 크기 조정 시 스냅합니다"
 
 
+msgctxt "abler"
+msgid "Save Copy..."
+msgstr "사본으로 저장"
+
+
+msgid "Save the current file in the desired location but do not make the saved file active"
+msgstr "현재의 파일을 지정한 위치에 복사하여 저장합니다."
