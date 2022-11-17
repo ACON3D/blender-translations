@@ -65802,7 +65802,7 @@ msgstr "번역에 사용된 언어"
 
 
 msgid "Automatic (Automatic)"
-msgstr "자동 (Automatic)"
+msgstr "자동 (자동)"
 
 
 msgid "Automatically choose system's defined language if available, or fall-back to English"
