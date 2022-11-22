@@ -92883,6 +92883,11 @@ msgstr "배경 이미지를 상하로 반전시킵니다"
 
 
 msgctxt "abler"
+msgid "Scene"
+msgstr "씬"
+
+
+msgctxt "abler"
 msgid "Scenes"
 msgstr "씬"
 
