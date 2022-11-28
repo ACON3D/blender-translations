@@ -93783,3 +93783,12 @@ msgstr "사본으로 저장"
 
 msgid "Save the current file in the desired location but do not make the saved file active"
 msgstr "현재의 파일을 지정한 위치에 복사하여 저장합니다."
+
+
+msgctxt "abler"
+msgid "Cancel"
+msgstr "취소"
+
+
+msgid "Import selected file"
+msgstr "선택된 파일을 뷰포트에 가져옵니다"
