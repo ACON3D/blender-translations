@@ -62124,7 +62124,7 @@ msgstr "커서 위치를 설정하고 드래그하여 변형시킵니다"
 
 msgctxt "Operator"
 msgid "Scale"
-msgstr "스케일"
+msgstr "크기 조정"
 
 
 msgctxt "Operator"
@@ -92154,6 +92154,7 @@ msgid "Open a window with information about ABLER"
 msgstr "ABLER에 대한 정보창을 엽니다"
 
 
+msgctxt "abler"
 msgid "Camera View"
 msgstr "카메라 뷰"
 
@@ -92643,7 +92644,7 @@ msgid "Automatic (Automatic)"
 msgstr "자동 (자동)"
 
 
-msgid "Automatically choose system's defined language if available, or fall back to English"
+msgid "Automatically choose system's defined language if available, or fall-back to English"
 msgstr "자동으로 OS 언어로 설정되거나, 기본 언어인 영어로 설정됩니다"
 
 
@@ -92668,7 +92669,7 @@ msgstr "플라이 모드 (WASD)"
 
 
 msgid "Move around the scene using WASD, QE, and mouse like FPS games"
-msgstr "Scene 을 WASD 키를 이용해서 움직입니다"
+msgstr "화면을 WASD 키를 이용해서 움직입니다"
 
 
 msgctxt "abler"
@@ -92703,7 +92704,7 @@ msgid "Use this object to define the depth of field focal point"
 msgstr "스포이드로 선택한 오브젝트에 초점을 맞춥니다. 해제하려면 우측의 X표시를 눌러주세요"
 
 
-msgctxt "abler"
+msgctxt "Operator"
 msgid "Object Picker"
 msgstr "오브젝트 피커"
 
@@ -92717,12 +92718,10 @@ msgid "Focus Distance"
 msgstr "초점 거리"
 
 
-msgctxt "abler"
 msgid "Adjust distance to the focus point for depth of field"
 msgstr "피사계심도를 적용할 거리를 조절합니다"
 
 
-msgctxt "abler"
 msgid "Adjust F-stop ratio (lower numbers give more defocus, higher numbers give a sharper image)"
 msgstr "조리개 조정을 통해, 아웃포커스 정도를 조정합니다. 낮을수록 흐려집니다"
 
@@ -92751,11 +92750,11 @@ msgid "Not Set"
 msgstr "선택되지 않음"
 
 
+msgctxt "abler"
 msgid "Remove background image"
 msgstr "삭제"
 
 
-msgctxt "abler"
 msgid "Remove current background image"
 msgstr "현재 배경 이미지를 삭제합니다"
 
@@ -92897,7 +92896,7 @@ msgstr "클릭 시 씬이 적용되며, 더블클릭 시 이름을 변경합니�
 
 
 msgctxt "abler"
-msgid "Add New Scene"
+msgid "Add new scene"
 msgstr "씬 추가"
 
 
@@ -93182,7 +93181,6 @@ msgid "Exclude line of selected object"
 msgstr "선택된 오브젝트의 선를 제외합니다"
 
 
-msgctxt "abler"
 msgid "Active Material List"
 msgstr "선택 오브젝트의 재질 목록"
 
@@ -93196,11 +93194,10 @@ msgid "Material Type"
 msgstr "재질 종류"
 
 
-msgid "Select material type: $(material type)"
-msgstr "재질의 종류를 선택합니다: $(재질 종류)"
+msgid "Select material type"
+msgstr "재질의 종류를 선택합니다"
 
 
-msgctxt "abler"
 msgid "Material Type Strength"
 msgstr "재질 종류의 강도"
 
@@ -93227,11 +93224,10 @@ msgid "Number of Users"
 msgstr "재질 사용 횟수"
 
 
-msgid "Display number of users of selected material (click to make a single-user copy)"
+msgid "Display number of users of this data (click to make a single-user copy)"
 msgstr "선택된 재질이 몇 번 사용되었는지 표시합니다 (클릭 시 선택한 재질을 복사합니다)"
 
 
-msgctxt "abler"
 msgid "Fake User"
 msgstr "적용 오브젝트 없이 재질 저장"
 
@@ -93240,7 +93236,6 @@ msgid "Save material even if it has no users"
 msgstr "재질을 적용한 오브젝트가 없을 시에도, 재질을 저장합니다"
 
 
-msgctxt "abler"
 msgid "Clone Material"
 msgstr "재질 복사"
 
@@ -93467,6 +93462,10 @@ msgid "Render only shadow according to the set pixel"
 msgstr "설정한 픽셀에 맞추어 그림자만 렌더합니다"
 
 
+msgid "Scene List"
+msgstr "씬 리스트"
+
+
 msgid "Select scene to render"
 msgstr "렌더할 씬을 선택합니다"
 
@@ -93489,7 +93488,7 @@ msgid "Render Selected Scenes"
 msgstr "선택된 씬 렌더"
 
 
-msgid "Render with high quality according th the set pixel"
+msgid "Render with high quality according to the set pixel"
 msgstr "설정한 픽셀에 맞추어 렌더합니다"
 
 
@@ -93584,7 +93583,7 @@ msgid "Transform"
 msgstr "변환"
 
 
-msgid "Support any combination of grab, rotate, and scale at once"
+msgid "Supports any combination of grab, rotate, and scale at once"
 msgstr "선택된 오브젝트를 변환(이동, 회전, 크기조정) 합니다"
 
 
