@@ -93591,6 +93591,10 @@ msgid "Display active workspace showing in the window"
 msgstr "현재 작업중인 워크스페이스를 표시합니다"
 
 
+msgid "Add new workspace"
+msgstr "새로운 워크스페이스를 추가합니다"
+
+
 msgid "Snap"
 msgstr "스냅"
 
