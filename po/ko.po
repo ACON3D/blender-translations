@@ -92807,17 +92807,9 @@ msgid "Stretch"
 msgstr "늘이기"
 
 
-msgid "Select how image fits in the camera frame: Stretch"
-msgstr "배경 이미지를 늘여 카메라 영역을 채웁니다"
-
-
 msgctxt "abler"
 msgid "Fit"
 msgstr "맞추기"
-
-
-msgid "Select how image fits in the camera frame: Fit"
-msgstr "배경 이미지를 카메라 영역에 맞춥니다"
 
 
 msgctxt "abler"
@@ -92825,8 +92817,8 @@ msgid "Crop"
 msgstr "자르기"
 
 
-msgid "Select how image fits in the camera frame: Crop"
-msgstr "배경 이미지를 잘라서 카메라 영역에 맞춥니다"
+msgid "Select how image fits in the camera frame"
+msgstr "배경 이미지를 카메라 영역에 맞추는 방법을 선택합니다"
 
 
 msgctxt "abler"
@@ -92894,7 +92886,7 @@ msgstr "클릭 시 씬이 적용되며, 더블클릭 시 이름을 변경합니�
 
 
 msgctxt "abler"
-msgid "Add new scene"
+msgid "Add New Scene"
 msgstr "씬 추가"
 
 
@@ -92921,7 +92913,7 @@ msgstr "프리셋을 선택합니다"
 
 
 msgctxt "abler"
-msgid "Remove scene"
+msgid "Remove Scene"
 msgstr "씬 삭제"
 
 
@@ -93009,11 +93001,11 @@ msgstr "선택된 레이어 내의 오브젝트를 보여주거나 숨깁니다"
 
 msgctxt "abler"
 msgid "Layer Lock"
-msgstr "레이어 잠금"
+msgstr "레이어 잠금/해제"
 
 
 msgid "Choose if the objects in the current layer lock in the viewport or not"
-msgstr "선택된 레이어 내의 오브젝트를 잠급니다"
+msgstr "선택된 레이어 내의 오브젝트를 잠그거나 해제합니다"
 
 
 msgctxt "abler"
@@ -93223,7 +93215,7 @@ msgstr "재질 사용 횟수"
 
 
 msgid "Display number of users of this data (click to make a single-user copy)"
-msgstr "선택된 재질이 몇 번 사용되었는지 표시합니다 (클릭 시 선택한 재질을 복사합니다)"
+msgstr "선택된 데이터가 몇 번 사용되었는지 표시합니다 (클릭 시 선택한 데이터를 복사합니다)"
 
 
 msgid "Fake User"
@@ -93234,6 +93226,7 @@ msgid "Save material even if it has no users"
 msgstr "재질을 적용한 오브젝트가 없을 시에도, 재질을 저장합니다"
 
 
+msgctxt "abler"
 msgid "Clone Material"
 msgstr "재질 복사"
 
@@ -93581,7 +93574,7 @@ msgid "Transform"
 msgstr "변환"
 
 
-msgid "Supports any combination of grab, rotate, and scale at once"
+msgid "Support any combination of grab, rotate, and scale at once"
 msgstr "선택된 오브젝트를 변환(이동, 회전, 크기조정) 합니다"
 
 
