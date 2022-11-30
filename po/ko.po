@@ -93599,12 +93599,10 @@ msgid "Snap"
 msgstr "스냅"
 
 
-msgctxt "abler"
 msgid "Snap selected element to another"
 msgstr "선택한 요소를 다른 요소에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Snap To"
 msgstr "스냅 위치"
 
@@ -93613,7 +93611,6 @@ msgid "Select how and where to snap"
 msgstr "어디에 어떻게 스냅할 지 선택합니다"
 
 
-msgctxt "abler"
 msgid "Increment"
 msgstr "격자"
 
@@ -93622,7 +93619,6 @@ msgid "Snap to increment of grid"
 msgstr "격자 단위에 오브젝트를 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Vertex"
 msgstr "꼭지점"
 
@@ -93631,7 +93627,6 @@ msgid "Snap to vertex"
 msgstr "오브젝트의 꼭지점에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Edge"
 msgstr "윤곽선"
 
@@ -93640,7 +93635,6 @@ msgid "Snap to edge"
 msgstr "오브젝트의 윤곽선에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Face"
 msgstr "면"
 
@@ -93649,7 +93643,6 @@ msgid "Snap to face"
 msgstr "오브젝트의 면 위에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Volume"
 msgstr "볼륨"
 
@@ -93658,7 +93651,6 @@ msgid "Snap to volume"
 msgstr "오브젝트의 볼륨에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Edge Center"
 msgstr "윤곽선 중앙"
 
@@ -93667,7 +93659,6 @@ msgid "Snap to the middle of edge"
 msgstr "윤곽선의 중앙에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Edge Perpendicular"
 msgstr "윤곽선에 수직"
 
@@ -93676,7 +93667,6 @@ msgid "Snap to the nearest point of edge"
 msgstr "윤곽선에 수직으로 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Absolute Grid Snap"
 msgstr "절대 좌표계의 격자로 스냅"
 
@@ -93685,21 +93675,18 @@ msgid "Snap to increment of absolute grid"
 msgstr "절대 좌표계 중심을 기준으로 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Snap With"
 msgstr "스냅 방식"
 
 
-msgctxt "abler"
 msgid "Closest"
-msgstr ""
+msgstr "근접"
 
 
 msgid "Snap closest point onto target"
 msgstr "가장 가까운 포인트를 대상에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Center"
 msgstr "중심"
 
@@ -93708,7 +93695,6 @@ msgid "Snap transformation center onto target"
 msgstr "중심을 대상에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Median"
 msgstr "평균"
 
@@ -93717,7 +93703,6 @@ msgid "Snap median onto target"
 msgstr "평균점을 대상에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Active"
 msgstr "활성"
 
@@ -93726,7 +93711,6 @@ msgid "Snap active onto target"
 msgstr "활성화된 부분을 대상에 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Backface Culling"
 msgstr "뒷면 배제"
 
@@ -93735,7 +93719,6 @@ msgid "Exclude back facing geometry from snapping"
 msgstr "스냅 대상의 뒷면을 스냅 대상에서 제외합니다"
 
 
-msgctxt "abler"
 msgid "Align Rotation to Target"
 msgstr "스냅 대상과 회전 정렬"
 
@@ -93744,7 +93727,6 @@ msgid "Align rotation with the snapping target"
 msgstr "스냅 대상과 스냅할 오브젝트의 회전을 정렬합니다"
 
 
-msgctxt "abler"
 msgid "Project Individual Elements"
 msgstr "모든 요소 스냅"
 
@@ -93753,7 +93735,6 @@ msgid "Project individual elements on the surface of other objects"
 msgstr "선택한 오브젝트의 모든 요소를 스냅합니다"
 
 
-msgctxt "abler"
 msgid "Snap Peel Object"
 msgstr "오브젝트 집합 스냅"
 
@@ -93762,7 +93743,6 @@ msgid "Consider objects as whole when finding volume center"
 msgstr "선택된 오브젝트들을 하나의 오브젝트처럼 인식하여 중심을 지정합니다"
 
 
-msgctxt "abler"
 msgid "Affect"
 msgstr "스냅 범위"
 
