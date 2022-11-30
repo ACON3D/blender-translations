@@ -92882,7 +92882,7 @@ msgstr "클릭 시 적용되며, 더블클릭 시 이름을 변경합니다"
 
 
 msgctxt "abler"
-msgid "Add new scene"
+msgid "Add New Scene"
 msgstr "씬 추가"
 
 
@@ -93222,6 +93222,7 @@ msgid "Save material even if it has no users"
 msgstr "재질을 적용한 오브젝트가 없을 시에도, 재질을 저장합니다"
 
 
+msgctxt "abler"
 msgid "Clone Material"
 msgstr "재질 복사"
 
@@ -93596,7 +93597,7 @@ msgid "Transform"
 msgstr "변환"
 
 
-msgid "Supports any combination of grab, rotate, and scale at once"
+msgid "Support any combination of grab, rotate, and scale at once"
 msgstr "선택된 오브젝트를 변환(이동, 회전, 크기조정) 합니다"
 
 
