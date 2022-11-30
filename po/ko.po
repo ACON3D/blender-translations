@@ -18446,7 +18446,7 @@ msgstr "프로브 영향이 얼마나 빨리 감소하는지 제어합니다"
 
 
 msgid "Resolution X"
-msgstr "해상도 X"
+msgstr "렌더 사이즈 X"
 
 
 msgid "Number of sample along the x axis of the volume"
@@ -18454,7 +18454,7 @@ msgstr "볼륨의 x 축을 따른 샘플 수"
 
 
 msgid "Resolution Y"
-msgstr "해상도 Y"
+msgstr "렌더 사이즈 Y"
 
 
 msgid "Number of sample along the y axis of the volume"
@@ -92786,7 +92786,6 @@ msgid "Adjust image opacity to blend the image against the background color"
 msgstr "배경 이미지의 투명도를 조절합니다"
 
 
-msgctxt "abler"
 msgid "Back"
 msgstr "뒤"
 
@@ -92795,7 +92794,6 @@ msgid "Display image under or over everything: Back"
 msgstr "배경 이미지를 모델 뒤에 배치합니다"
 
 
-msgctxt "abler"
 msgid "Front"
 msgstr "앞"
 
