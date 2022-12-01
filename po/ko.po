@@ -93809,7 +93809,6 @@ msgid "Insert password"
 msgstr "비밀번호를 입력하세요"
 
 
-msgctxt "abler"
 msgid "Show Password"
 msgstr "비밀번호 표시"
 
@@ -93896,13 +93895,12 @@ msgid "Close tutorial guide"
 msgstr "조작 안내를 종료합니다"
 
 
-msgctxt "abler"
 msgid "Always Show"
 msgstr "에이블러 실행 시 노출"
 
 
-msgid "Always show tutorial guide when starting ABLER"
-msgstr "에이블러 실행 시 항상 노출합니다"
+msgid "Always show tutorial guide when starting ABLER."
+msgstr "에이블러 실행 시 항상 노출합니다."
 
 
 msgctxt "abler"
