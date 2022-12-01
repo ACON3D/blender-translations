@@ -93479,6 +93479,29 @@ msgid "Render with high quality according to the set pixel"
 msgstr "설정한 픽셀에 맞추어 렌더합니다"
 
 
+msgid "Total Rendering Progress"
+msgstr "전체 렌더 진행률"
+
+
+msgctxt "abler"
+msgid "Start"
+msgstr "렌더 시작"
+
+
+msgctxt "abler"
+msgid "Finish"
+msgstr "렌더 완료"
+
+
+msgctxt "abler"
+msgid "Time Span"
+msgstr "렌더 소요 시간"
+
+
+msgid "Finish render and close render progress module"
+msgstr "렌더를 완료하고 렌더 진행률 모듈을 닫습니다"
+
+
 msgid "Save and render with high quality according to the set pixel"
 msgstr "저장 후 설정한 픽셀에 맞추어 렌더합니다"
 
@@ -93797,7 +93820,7 @@ msgid "Cancel"
 msgstr "취소"
 
 
-msgid "Render Selected Scenes?"
+msgid "Render selected scenes?"
 msgstr "선택된 씬을 렌더하시겠습니까?"
 
 
