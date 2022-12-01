@@ -92561,10 +92561,6 @@ msgid "Open Files"
 msgstr "파일 열기"
 
 
-msgid "Import Files"
-msgstr "파일 불러오기"
-
-
 msgid "Save .blend Files"
 msgstr ".blend 파일 저장하기"
 
@@ -93874,3 +93870,76 @@ msgstr "현재 버전($(clientVer))에서 파일을 저장할 경우, 이전 버
 
 msgid "Don't show this message again"
 msgstr "이 메시지를 다시 표시하지 않습니다."
+
+
+msgid "Cancel loading of selected file"
+msgstr "선택된 파일의 불러오기를 취소합니다"
+
+
+msgid "Import Files"
+msgstr "파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "가져오기"
+
+
+msgctxt "abler"
+msgid "Save .blend Files"
+msgstr ".blend 파일 저장하기"
+
+
+msgctxt "abler"
+msgid "Save As..."
+msgstr "다른 이름으로 저장"
+
+
+msgctxt "abler"
+msgid "Open Image Files"
+msgstr "이미지 파일 열기"
+
+
+msgctxt "abler"
+msgid "Default Image"
+msgstr "기본 이미지"
+
+
+msgctxt "abler"
+msgid "Custom Image"
+msgstr "사용자 이미지"
+
+
+msgctxt "abler"
+msgid "Save Image Files"
+msgstr "이미지 파일 저장하기"
+
+
+msgctxt "abler"
+msgid "Render"
+msgstr "렌더"
+
+
+msgctxt "abler"
+msgid "Save"
+msgstr "저장"
+
+
+msgctxt "abler"
+msgid "Save Copy..."
+msgstr "사본으로 저장"
+
+
+msgctxt "abler"
+msgid "Import SKP"
+msgstr "skp 파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import FBX"
+msgstr "fbx 파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import BLEND"
+msgstr "blend 파일 가져오기"
