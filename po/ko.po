@@ -93828,17 +93828,10 @@ msgid "Render Queue Finished"
 msgstr "렌더 작업이 모두 완료되었습니다."
 
 
-msgctxt "abler"
-msgid "Rendered images are saved in :"
-msgstr "다음 경로에 저장되었습니다:"
-
-
-msgctxt "abler"
 msgid "Latest version found for ABLER. Do you want to update?"
 msgstr "최신 버전의 에이블러가 있습니다. 업데이트 하시겠습니까?"
 
 
-msgctxt "abler"
 msgid "When using an older version of ABLER, some features may not work properly."
 msgstr "이전 버전의 에이블러 사용 시, 일부 기능이 작동하지 않을 수 있습니다. "
 
@@ -93850,6 +93843,10 @@ msgstr "ABLER 업데이트"
 
 msgid "Update ABLER with ABLER Launcher"
 msgstr "에이블러를 업데이트합니다"
+
+
+msgid "Close"
+msgstr "닫기"
 
 
 msgctxt "abler"
@@ -93867,16 +93864,13 @@ msgid "update ABLER"
 msgstr "ABLER 업데이트"
 
 
-msgctxt "abler"
 msgid "This file was created in a older version of ABLER ($(fileVer))"
 msgstr "이 파일은 현재 설치된 에이블러 버전보다 하위 버전에서 작성되었습니다. (버전 : $(fileVer))"
 
 
-msgctxt "abler"
 msgid "If you save in the current version ($(clientVer)), you will not be able to load this file from older version of ABLER."
 msgstr "현재 버전($(clientVer))에서 파일을 저장할 경우, 이전 버전의 ABLER 에서 이 파일을 로드할 수 없습니다."
 
 
-msgctxt "abler"
 msgid "Don't show this message again"
 msgstr "이 메시지를 다시 표시하지 않습니다."
