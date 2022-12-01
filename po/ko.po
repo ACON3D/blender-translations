@@ -92156,7 +92156,7 @@ msgstr "ABLER에 대한 정보창을 엽니다"
 
 msgctxt "abler"
 msgid "Camera View"
-msgstr "카메라 뷰"
+msgstr "렌더 영역 맞춤"
 
 
 msgid "Fit render region to viewport"
@@ -93820,7 +93820,7 @@ msgid "Cancel"
 msgstr "취소"
 
 
-msgid "Render selected scenes?"
+msgid "Render Selected Scenes?"
 msgstr "선택된 씬을 렌더하시겠습니까?"
 
 
@@ -93828,8 +93828,8 @@ msgid "High quality render may take a long time to be finished."
 msgstr "고급 렌더는 씬에 포함된 내용에 따라 렌더 시간이 오래 소요될 수 있습니다."
 
 
-msgid "Selected Scenes:"
-msgstr "선택된 씬:"
+msgid "Selected Scenes: $(sceneCount)"
+msgstr "선택된 씬: $(sceneCount)"
 
 
 msgctxt "abler"
