@@ -1604,7 +1604,7 @@ msgstr "버전"
 
 
 msgid "Volumes"
-msgstr "볼륨 리스트"
+msgstr "볼륨"
 
 
 msgid "Window Managers"
@@ -27018,7 +27018,7 @@ msgstr "블렌더"
 
 
 msgid "System"
-msgstr "시스템 리스트"
+msgstr "시스템"
 
 
 msgctxt "Operator"
@@ -28356,7 +28356,7 @@ msgstr "페이스 강도를 설정하지 마십시오"
 
 
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgid "Set face strength on new faces only"
@@ -36736,7 +36736,7 @@ msgstr "첫 번째로 선택한 마커를 기준점으로 사용하여 선택한
 
 msgctxt "Operator"
 msgid "New Action"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Operator"
@@ -62026,11 +62026,11 @@ msgstr "고급 필터"
 
 
 msgid "Bookmarks"
-msgstr "북마크 리스트"
+msgstr "북마크"
 
 
 msgid "Recent"
-msgstr "최근 폴더 리스트"
+msgstr "최근 폴더"
 
 
 msgid "Directory Path"
@@ -71950,6 +71950,7 @@ msgid "Show red channel in the frame"
 msgstr "프레임에서 레드 채널을 표시"
 
 
+msgctxt "Operator"
 msgid "Adjust Last Operation"
 msgstr "마지막 작업을 조정"
 
@@ -78979,7 +78980,7 @@ msgstr "[{}]: \"{}\" ({})"
 
 msgctxt "Operator"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgid "API Defined"
@@ -86189,127 +86190,127 @@ msgstr "연결할 ID 데이터를 찾아보기"
 
 msgctxt "Scene"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Object"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Mesh"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Curve"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Metaball"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Material"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Texture"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Image"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Lattice"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Light"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Camera"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "World"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Screen"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Text"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Speaker"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Sound"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Armature"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Action"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "NodeTree"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Brush"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "ParticleSettings"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "GPencil"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "FreestyleLineStyle"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "WorkSpace"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "LightProbe"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgid "%d items"
@@ -91978,14 +91979,6 @@ msgid "Don't have an ACON3D account?"
 msgstr "에이콘3D 계정이 없으신가요?"
 
 
-msgid "Link to ACON3D"
-msgstr "에이콘3D 보러가기"
-
-
-msgid "Sign up for ACON3D"
-msgstr "에이콘3D 회원가입"
-
-
 msgid "ABLER Service Notice"
 msgstr "에이블러 서비스 공지사항"
 
@@ -92640,7 +92633,7 @@ msgstr "현재 블렌더 파일을 저장합니다"
 
 
 msgctxt "abler"
-msgid "Save As..."
+msgid "Save As"
 msgstr "다른 이름으로 저장"
 
 
@@ -93796,7 +93789,7 @@ msgstr "오브젝트 크기 조정 시 스냅합니다"
 
 
 msgctxt "abler"
-msgid "Save Copy..."
+msgid "Save Copy"
 msgstr "사본으로 저장"
 
 
@@ -93869,7 +93862,7 @@ msgid "Link to Blender Foundation and check release notes"
 msgstr "블랜더 파운데이션으로 연결하여 릴리즈 노트를 확인합니다"
 
 
-msgid "Link to Blender development donation program to support maintenance and imporvements"
+msgid "Link to Blender development donation program to support maintenance and improvements"
 msgstr "블랜더 파운데이션을 후원하고 블랜더의 유지보수를 지원합니다"
 
 
