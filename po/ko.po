@@ -1604,7 +1604,7 @@ msgstr "버전"
 
 
 msgid "Volumes"
-msgstr "볼륨"
+msgstr "볼륨 리스트"
 
 
 msgid "Window Managers"
@@ -10799,7 +10799,7 @@ msgstr "표시 모드"
 
 
 msgid "Display mode for the file list"
-msgstr "파일 목록에 대한 모드를 표시"
+msgstr "파일 목록에 대한 모드를 표시합니다"
 
 
 msgid "Vertical List"
@@ -10847,7 +10847,7 @@ msgstr "ID 유형을 필터"
 
 
 msgid "Filter by name, supports '*' wildcard"
-msgstr "이름으로 필터, '*' 미지수를 지원"
+msgstr "이름으로 필터합니다. (와일드카드 문자 '*'을 지원)"
 
 
 msgid "Recursion"
@@ -10943,7 +10943,7 @@ msgstr "파일 브라우저 타이틀"
 
 
 msgid "Filter Files"
-msgstr "파일를 필터"
+msgstr "파일 필터"
 
 
 msgid "Enable filtering of files"
@@ -26813,7 +26813,7 @@ msgstr "스냅"
 
 
 msgid "Bookmarks Specials"
-msgstr "북마크 지정"
+msgstr "북마크 이동 메뉴"
 
 
 msgid "Files Context Menu"
@@ -27018,7 +27018,7 @@ msgstr "블렌더"
 
 
 msgid "System"
-msgstr "시스템"
+msgstr "시스템 리스트"
 
 
 msgctxt "Operator"
@@ -41631,34 +41631,34 @@ msgstr "자동으로 모든 외부 파일을 .blend 파일에 포장합니다"
 
 msgctxt "Operator"
 msgid "Add Bookmark"
-msgstr "북마크를 추가"
+msgstr "북마크 추가"
 
 
 msgid "Add a bookmark for the selected/active directory"
-msgstr "선택된/활성 디렉토리에 대한 북마크를 추가"
+msgstr "선택된/활성 디렉토리에 대한 북마크를 추가합니다"
 
 
 msgctxt "Operator"
 msgid "Cleanup Bookmarks"
-msgstr "북마크를 정리"
+msgstr "북마크 정리"
 
 
 msgid "Delete all invalid bookmarks"
-msgstr "모든 잘못된 북마크를 삭제"
+msgstr "삭제된 북마크를 모두 지웁니다"
 
 
 msgctxt "Operator"
 msgid "Delete Bookmark"
-msgstr "북마크를 삭제"
+msgstr "북마크 삭제"
 
 
 msgid "Delete selected bookmark"
-msgstr "선택된 북마크를 삭제"
+msgstr "선택된 북마크를 삭제합니다"
 
 
 msgctxt "Operator"
 msgid "Move Bookmark"
-msgstr "북마크를 이동"
+msgstr "북마크 이동"
 
 
 msgid "Move the active bookmark up/down in the list"
@@ -41837,7 +41837,7 @@ msgstr "모든 누락된 외부 파일을 보고"
 
 msgctxt "Operator"
 msgid "Reset Recent"
-msgstr "최근 재설정"
+msgstr "최근 폴더 재설정"
 
 
 msgid "Handle mouse clicks to select and activate items"
@@ -55272,11 +55272,11 @@ msgstr "선택한 영역을 스케일 조정"
 
 msgctxt "Operator"
 msgid "Toggle Region"
-msgstr "지역을 토글"
+msgstr "우측 패널 토글"
 
 
 msgid "Hide or unhide the region"
-msgstr "지역 숨기기 또는 숨기기를 해제"
+msgstr "우측 패널을 숨기거나 노출합니다"
 
 
 msgid "Type of the region to toggle"
@@ -62026,7 +62026,11 @@ msgstr "고급 필터"
 
 
 msgid "Bookmarks"
-msgstr "북마크"
+msgstr "북마크 리스트"
+
+
+msgid "Recent"
+msgstr "최근 폴더 리스트"
 
 
 msgid "Directory Path"
@@ -92600,6 +92604,11 @@ msgid "Open"
 msgstr "열기"
 
 
+msgctxt "abler"
+msgid "Open..."
+msgstr "열기..."
+
+
 msgid "Open new file"
 msgstr "새로운 파일을 엽니다"
 
@@ -92886,8 +92895,8 @@ msgid "Scenes"
 msgstr "씬"
 
 
-msgid "Click to apply scene and double click to rename"
-msgstr "클릭 시 씬이 적용되며, 더블클릭 시 이름을 변경합니다"
+msgid "Click to apply and double click to rename"
+msgstr "클릭 시 적용되며, 더블클릭 시 이름을 변경합니다"
 
 
 msgctxt "abler"
@@ -93953,11 +93962,6 @@ msgid "Delete selected bookmark"
 msgstr "선택된 북마크를 삭제합니다"
 
 
-msgctxt "abler"
-msgid "Bookmarks Specials"
-msgstr "북마크 이동 메뉴"
-
-
 msgid "Show menu for bookmark"
 msgstr "북마크 이동 메뉴를 표시합니다"
 
@@ -94021,7 +94025,7 @@ msgid "Move to parent directory"
 msgstr "상위 디렉토리로 이동합니다"
 
 
-msgctxt "abler"
+msgctxt "Operator"
 msgid "Refresh File List"
 msgstr "새로 고침"
 
@@ -94062,36 +94066,16 @@ msgid "Display Mode"
 msgstr "표시 모드"
 
 
-msgid "Display mode for the file list : $(Display Mode)"
-msgstr "파일 목록에 대한 모드를 표시합니다: "
-
-
-msgctxt "abler"
 msgid "Display Settings"
 msgstr "파일 보기 설정"
-
-
-msgctxt "abler"
-msgid "Filter Files"
-msgstr "파일 필터"
 
 
 msgid "Enable filtering of files"
 msgstr "파일의 필터링을 사용합니다"
 
 
-msgctxt "abler"
 msgid "Filter Settings"
 msgstr "필터 설정"
-
-
-msgctxt "abler"
-msgid "Toggle Region"
-msgstr "우측 패널 토글"
-
-
-msgid "Hide or unhide the region"
-msgstr "우측 패널을 숨기거나 노출합니다"
 
 
 msgctxt "abler"
@@ -94106,11 +94090,6 @@ msgstr "파일 이름을 입력합니다"
 msgctxt "abler"
 msgid "Open Files"
 msgstr "파일 열기"
-
-
-msgctxt "abler"
-msgid "Open"
-msgstr "열기"
 
 
 msgid "Execute selected file"
