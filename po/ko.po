@@ -60839,8 +60839,8 @@ msgid "Reload Start-Up File"
 msgstr "스타트업 파일을 다시 불러오기"
 
 
-msgid "Open the default file (doesn't save the current file)"
-msgstr "기본 파일을 열기 (현재 파일을 저장하지 않음)"
+msgid "Open default file (Do not save current file)"
+msgstr "기본 파일을 엽니다 (현재 파일을 저장하지 않습니다)"
 
 
 msgid "Path to an alternative start-up file"
@@ -60865,8 +60865,8 @@ msgid "Recover Auto Save"
 msgstr "자동 저장을 복구"
 
 
-msgid "Open an automatically saved file to recover it"
-msgstr "자동으로 저장된 파일을 열어 복구"
+msgid "Open automatically saved file to recover"
+msgstr "자동으로 저장된 파일을 열어 복구합니다"
 
 
 msgctxt "Operator"
@@ -60874,8 +60874,8 @@ msgid "Recover Last Session"
 msgstr "마지막 세션을 복구"
 
 
-msgid "Open the last closed file (\"quit.blend\")"
-msgstr "마지막으로 닫힌 파일을 열기 (\"quit.blend\")"
+msgid "Open the last closed file"
+msgstr "마지막으로 닫힌 파일을 엽니다"
 
 
 msgctxt "Operator"
@@ -89080,7 +89080,7 @@ msgstr "최근 파일이 없음"
 
 
 msgid "Open Recent"
-msgstr "최근 파일을 열기"
+msgstr "최근 파일 열기"
 
 
 msgid "Control Point:"
@@ -92046,16 +92046,16 @@ msgid "Import files onto the viewport."
 msgstr "파일을 대지 위에 불러옵니다."
 
 
-msgid "ㅁ Sketchup File (.skp)"
-msgstr "ㅁ 스케치업 파일 (.skp)"
+msgid "Sketchup File (.skp)"
+msgstr "스케치업 파일 (.skp)"
 
 
-msgid "ㅁ FBX File (.fbx)"
-msgstr "ㅁ FBX 파일 (.fbx)"
+msgid "FBX File (.fbx)"
+msgstr "FBX 파일 (.fbx)"
 
 
-msgid "ㅁ Blender File (.blend)"
-msgstr "ㅁ 블렌더 파일 (.blend)"
+msgid "Blender File (.blend)"
+msgstr "블렌더 파일 (.blend)"
 
 
 msgid "Import Blender file according to the current settings"
@@ -94292,4 +94292,38 @@ msgstr "메뉴 검색..."
 
 msgid "Pop-up a search over all menus in the current context"
 msgstr "현재 상태에서 사용 가능한 모든 메뉴를 검색합니다"
+
+
+msgctxt "Operator"
+msgid "Unused Data-Blocks"
+msgstr "사용하지 않는 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Data-Blocks"
+msgstr "사용하지 않는 복사된 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Unused Linked Data-Blocks"
+msgstr "사용하지 않는 연결된 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Linked Data-Blocks"
+msgstr "입력 예정"
+
+
+msgctxt "Operator"
+msgid "Unused Local Data-Blocks"
+msgstr "입력 예정"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Local Data-Blocks"
+msgstr "입력 예정"
+
+
+msgid "File Not Found"
+msgstr "파일을 찾을 수 없습니다"
 
