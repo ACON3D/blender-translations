@@ -22819,7 +22819,7 @@ msgid "Support"
 msgstr "문의하기"
 
 
-msgid "Open local ACON3D support website in the web browser"
+msgid "Open ACON3D web support"
 msgstr "ACON3D 1:1 문의하기 사이트로 이동합니다"
 
 
@@ -40533,7 +40533,7 @@ msgstr "다시 실행"
 
 
 msgid "Redo previous action"
-msgstr "이전 작업을 다시 실행"
+msgstr "이전 작업을 다시 실행합니다"
 
 
 msgctxt "Operator"
@@ -40542,7 +40542,7 @@ msgstr "실행 취소"
 
 
 msgid "Undo previous action"
-msgstr "이전 작업을 실행 취소"
+msgstr "이전 작업을 실행 취소합니다"
 
 
 msgctxt "Operator"
@@ -40551,7 +40551,7 @@ msgstr "실행 취소 기록"
 
 
 msgid "Redo specific action in history"
-msgstr "기록에서 특정 작업을 다시 실행합니다"
+msgstr "작업 내역 중 특정 작업을 다시 실행합니다"
 
 
 msgid "Item"
@@ -52311,8 +52311,8 @@ msgid "Purge All"
 msgstr "모두 퍼지"
 
 
-msgid "Clear all orphaned data-blocks without any users from the file"
-msgstr "파일의 사용자가없는 고아가된 모든 데이터 블록을 지우기"
+msgid "Clear all data-blocks that are existing in file but not used"
+msgstr "파일 내에 포함되어 있지만 사용되지 않는 모든 데이터 블록을 지웁니다"
 
 
 msgid "Drag to clear parent in Outliner"
@@ -55226,7 +55226,7 @@ msgstr "마지막 다시 실행"
 
 
 msgid "Display parameters for last action performed"
-msgstr "마지막으로 수행한 작업에 대한 매개 변수를 표시합니다"
+msgstr "마지막으로 수행한 작업에 대한 조정 값을 표시합니다"
 
 
 msgctxt "Operator"
@@ -55289,16 +55289,16 @@ msgstr "기록을 반복"
 
 
 msgid "Display menu for previous actions performed"
-msgstr "실행된 이전 작업에 대한 메뉴를 표시"
+msgstr "마지막 작업을 다시 실행하기 위한 메뉴를 노출합니다"
 
 
 msgctxt "Operator"
 msgid "Repeat Last"
-msgstr "마지막을 반복"
+msgstr "다시 실행"
 
 
 msgid "Repeat last action"
-msgstr "마지막 작업을 반복"
+msgstr "마지막 작업을 다시 실행합니다"
 
 
 msgctxt "Operator"
@@ -55355,7 +55355,7 @@ msgstr "보이지 않는 에디터에 대해 사용하지 않은 설정을 제�
 
 
 msgid "Edit user preferences and system settings"
-msgstr "사용자 환경 설정 및 시스템 설정을 편집"
+msgstr "사용자 환경 및 시스템을 설정합니다"
 
 
 msgid "Themes"
@@ -57044,11 +57044,6 @@ msgstr "저장"
 
 msgid "Save active text data-block"
 msgstr "활성 텍스트 데이터 블록을 저장"
-
-
-msgctxt "Operator"
-msgid "Save As"
-msgstr "다른 이름으로 저장"
 
 
 msgid "Save active text file with options"
@@ -60715,11 +60710,11 @@ msgstr "내부 사용 (data_path를 속성 편집)"
 
 msgctxt "Operator"
 msgid "Quit Blender"
-msgstr "블렌더를 끝내기"
+msgstr "블렌더를 종료합니다"
 
 
 msgid "Quit Blender"
-msgstr "블렌더를 끝내기"
+msgstr "블렌더를 종료합니다"
 
 
 msgctxt "Operator"
@@ -60928,8 +60923,8 @@ msgid "Write compressed .blend file"
 msgstr "압축된 .blend 파일을 작성"
 
 
-msgid "Save Copy"
-msgstr "사본으로 저장"
+msgid "Save Copy..."
+msgstr "사본으로 저장..."
 
 
 msgid "Save a copy of the actual working state but does not make saved file active"
@@ -61080,11 +61075,11 @@ msgstr "릴리즈 정보와 함께 스플래시 화면을 엽니다"
 
 msgctxt "Operator"
 msgid "Save System Info"
-msgstr "시스템 정보를 저장"
+msgstr "시스템 정보 저장"
 
 
 msgid "Generate system information, saved into a text file"
-msgstr "시스템 정보를 생성, 텍스트 파일에 저장됨"
+msgstr "시스템 정보를 생성, 텍스트 파일에 저장합니다"
 
 
 msgid "Set the tool by name (for keymaps)"
@@ -71950,11 +71945,6 @@ msgid "Show red channel in the frame"
 msgstr "프레임에서 레드 채널을 표시"
 
 
-msgctxt "Operator"
-msgid "Adjust Last Operation"
-msgstr "마지막 작업을 조정"
-
-
 msgid "Toolbar"
 msgstr "툴바"
 
@@ -82038,17 +82028,17 @@ msgstr "에니메이션을 보기"
 
 msgctxt "Operator"
 msgid "Undo History..."
-msgstr "실행 취소 기록..."
+msgstr "작업 내역..."
 
 
 msgctxt "Operator"
 msgid "Repeat History..."
-msgstr "기록을 반복..."
+msgstr "반복 실행..."
 
 
 msgctxt "Operator"
 msgid "Adjust Last Operation..."
-msgstr "마지막 작업 조정..."
+msgstr "마지막 조정 값..."
 
 
 msgctxt "Operator"
@@ -92434,8 +92424,8 @@ msgid "Quick Start Guide"
 msgstr "조작 안내 보기"
 
 
-msgid "Open a website in the web browser"
-msgstr "에이블러 가이드 사이트로 이동합니다"
+msgid "Open ABLER Guide"
+msgstr "에이블러 가이드를 실행합니다"
 
 
 msgid "Close Tutorial Guide"
@@ -92630,11 +92620,6 @@ msgstr "저장"
 
 msgid "Save the current Blender file"
 msgstr "현재 블렌더 파일을 저장합니다"
-
-
-msgctxt "abler"
-msgid "Save As"
-msgstr "다른 이름으로 저장"
 
 
 msgid "Save the current file in the desired location"
@@ -93788,11 +93773,6 @@ msgid "Apply snap setting when scaling object"
 msgstr "오브젝트 크기 조정 시 스냅합니다"
 
 
-msgctxt "abler"
-msgid "Save Copy"
-msgstr "사본으로 저장"
-
-
 msgid "Save the current file in the desired location but do not make the saved file active"
 msgstr "현재의 파일을 지정한 위치에 복사하여 저장합니다"
 
@@ -94119,7 +94099,7 @@ msgstr ".blend 파일 저장하기"
 
 msgctxt "abler"
 msgid "Save As..."
-msgstr "다른 이름으로 저장"
+msgstr "다른 이름으로 저장..."
 
 
 msgctxt "abler"
@@ -94154,7 +94134,7 @@ msgstr "저장"
 
 msgctxt "abler"
 msgid "Save Copy..."
-msgstr "사본으로 저장"
+msgstr "사본으로 저장..."
 
 
 msgctxt "abler"
@@ -94291,7 +94271,7 @@ msgstr "메뉴 검색..."
 
 
 msgid "Pop-up a search over all menus in the current context"
-msgstr "현재 상태에서 사용 가능한 모든 메뉴를 검색합니다"
+msgstr "실행할 수 있는 모든 메뉴를 검색합니다"
 
 
 msgctxt "Operator"
@@ -94311,19 +94291,19 @@ msgstr "사용하지 않는 연결된 데이터 지우기"
 
 msgctxt "Operator"
 msgid "Recursive Unused Linked Data-Blocks"
-msgstr "입력 예정"
+msgstr "사용하지 않는 복사 및 연결된 데이터 지우기"
 
 
 msgctxt "Operator"
 msgid "Unused Local Data-Blocks"
-msgstr "입력 예정"
+msgstr "사용하지 않는 로컬 데이터 지우기"
 
 
 msgctxt "Operator"
 msgid "Recursive Unused Local Data-Blocks"
-msgstr "입력 예정"
+msgstr "사용하지 않는 복사 및 연결된 데이터 지우기"
 
 
-msgid "File Not Found"
+msgid "File not found"
 msgstr "파일을 찾을 수 없습니다"
 
