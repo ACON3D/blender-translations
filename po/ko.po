@@ -94458,3 +94458,10 @@ msgid "Show hidden folders or files"
 msgstr "숨겨진 폴더나 파일을 표시합니다"
 
 
+msgid "$(filepath)\n\nFile not found"
+msgstr "$(filepath)\n\n파일을 찾을 수 없습니다"
+
+
+msgid "$(filepath)\n\nModified: $(modified_time)\nSize: $(size) MB"
+msgstr "$(filepath)\n\n마지막 수정: $(modified_time)\n사이즈: $(size) MB"
+
