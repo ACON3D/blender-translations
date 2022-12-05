@@ -1076,7 +1076,7 @@ msgstr "활성 배이킹 패스에 포함하는 패스"
 
 
 msgid "None"
-msgstr "None"
+msgstr "없음"
 
 
 msgid "Emit"
@@ -1604,7 +1604,7 @@ msgstr "버전"
 
 
 msgid "Volumes"
-msgstr "볼륨 리스트"
+msgstr "볼륨"
 
 
 msgid "Window Managers"
@@ -10771,7 +10771,7 @@ msgstr "파일 브라우저에서 표시된 디렉토리"
 
 
 msgid "Display Size"
-msgstr "표시 크기"
+msgstr "아이콘 크기"
 
 
 msgid "Change the size of the display (width of columns or thumbnails size)"
@@ -10787,7 +10787,7 @@ msgstr "작은"
 
 
 msgid "Regular"
-msgstr "정규"
+msgstr "보통"
 
 
 msgid "Large"
@@ -10862,6 +10862,10 @@ msgid "Only list current directory's content, with no recursion"
 msgstr "현재 디렉토리의 내용 나열 만, 반복 없음"
 
 
+msgid "List only current directory's content, with no recursion"
+msgstr "현재 디렉토리의 내용만을 나열합니다"
+
+
 msgid "Blend File"
 msgstr "Blend 파일"
 
@@ -10871,27 +10875,27 @@ msgstr ".blend 파일들의 내용 목록"
 
 
 msgid "One Level"
-msgstr "1 레벨"
+msgstr "1 단계"
 
 
 msgid "List all sub-directories' content, one level of recursion"
-msgstr "모든 하위 디렉토리의 내용을 나열, 반복 1 레벨"
+msgstr "1단계 하위 레벨 디렉토리의 내용까지 나열합니다"
 
 
 msgid "Two Levels"
-msgstr "2 레벨"
+msgstr "2 단계"
 
 
 msgid "List all sub-directories' content, two levels of recursion"
-msgstr "모든 하위 디렉토리의 내용을 나열, 반복 2 레벨"
+msgstr "2단계 하위 레벨 디렉토리의 내용까지 나열합니다"
 
 
 msgid "Three Levels"
-msgstr "3 레벨"
+msgstr "3 단계"
 
 
 msgid "List all sub-directories' content, three levels of recursion"
-msgstr "모든 하위 디렉토리의 내용을 나열, 반복 3 레벨"
+msgstr "3단계 하위 레벨 디렉토리의 내용까지 나열합니다"
 
 
 msgid "File Modification Date"
@@ -10911,7 +10915,7 @@ msgstr "분류"
 
 
 msgid "Sort the file list alphabetically"
-msgstr "알파벳순으로 파일 목록을 분류"
+msgstr "이름 순으로 파일 목록을 정렬합니다"
 
 
 msgid "Extension"
@@ -10919,19 +10923,19 @@ msgstr "확장자"
 
 
 msgid "Sort the file list by extension/type"
-msgstr "확장자/유형 별로 파일 목록을 분류"
+msgstr "확장자/유형 별로 파일 목록을 정렬합니다"
 
 
 msgid "Modified Date"
-msgstr "수정된 날짜"
+msgstr "수정한 날짜"
 
 
-msgid "Sort files by modification time"
-msgstr "수정 시간으로 파일을 분류"
+msgid "Sort the file list by modification time"
+msgstr "수정 시간 순서로 파일 목록을 정렬합니다"
 
 
-msgid "Sort files by size"
-msgstr "크기로 파일을 분류"
+msgid "Sort the file list by size"
+msgstr "크기 순서로 파일 목록을 정렬합니다"
 
 
 msgid "Title"
@@ -10979,7 +10983,7 @@ msgstr "폴더를 필터"
 
 
 msgid "Show folders"
-msgstr "폴더를 표시"
+msgstr "폴더를 표시합니다"
 
 
 msgid "Filter Fonts"
@@ -11039,7 +11043,11 @@ msgstr "블렌더 파일의 내용을 검색할지 여부"
 
 
 msgid "Reverse Sorting"
-msgstr "분류를 반전"
+msgstr "반대로 정렬"
+
+
+msgid "Reverse the order of the list"
+msgstr "항목의 순서를 반대로 정렬합니다"
 
 
 msgid "Sort items descending, from highest value to lowest"
@@ -22819,7 +22827,7 @@ msgid "Support"
 msgstr "문의하기"
 
 
-msgid "Open local ACON3D support website in the web browser"
+msgid "Open ACON3D web support"
 msgstr "ACON3D 1:1 문의하기 사이트로 이동합니다"
 
 
@@ -27018,7 +27026,7 @@ msgstr "블렌더"
 
 
 msgid "System"
-msgstr "시스템 리스트"
+msgstr "시스템"
 
 
 msgctxt "Operator"
@@ -28356,7 +28364,7 @@ msgstr "페이스 강도를 설정하지 마십시오"
 
 
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgid "Set face strength on new faces only"
@@ -36736,7 +36744,7 @@ msgstr "첫 번째로 선택한 마커를 기준점으로 사용하여 선택한
 
 msgctxt "Operator"
 msgid "New Action"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Operator"
@@ -40533,7 +40541,7 @@ msgstr "다시 실행"
 
 
 msgid "Redo previous action"
-msgstr "이전 작업을 다시 실행"
+msgstr "이전 작업을 다시 실행합니다"
 
 
 msgctxt "Operator"
@@ -40542,7 +40550,7 @@ msgstr "실행 취소"
 
 
 msgid "Undo previous action"
-msgstr "이전 작업을 실행 취소"
+msgstr "이전 작업을 실행 취소합니다"
 
 
 msgctxt "Operator"
@@ -40551,7 +40559,7 @@ msgstr "실행 취소 기록"
 
 
 msgid "Redo specific action in history"
-msgstr "기록에서 특정 작업을 다시 실행합니다"
+msgstr "작업 내역 중 특정 작업을 다시 실행합니다"
 
 
 msgid "Item"
@@ -52311,8 +52319,8 @@ msgid "Purge All"
 msgstr "모두 퍼지"
 
 
-msgid "Clear all orphaned data-blocks without any users from the file"
-msgstr "파일의 사용자가없는 고아가된 모든 데이터 블록을 지우기"
+msgid "Clear all data-blocks that are existing in file but not used"
+msgstr "파일 내에 포함되어 있지만 사용되지 않는 모든 데이터 블록을 지웁니다"
 
 
 msgid "Drag to clear parent in Outliner"
@@ -55226,7 +55234,7 @@ msgstr "마지막 다시 실행"
 
 
 msgid "Display parameters for last action performed"
-msgstr "마지막으로 수행한 작업에 대한 매개 변수를 표시합니다"
+msgstr "마지막으로 수행한 작업에 대한 조정 값을 표시합니다"
 
 
 msgctxt "Operator"
@@ -55289,16 +55297,16 @@ msgstr "기록을 반복"
 
 
 msgid "Display menu for previous actions performed"
-msgstr "실행된 이전 작업에 대한 메뉴를 표시"
+msgstr "마지막 작업을 다시 실행하기 위한 메뉴를 노출합니다"
 
 
 msgctxt "Operator"
 msgid "Repeat Last"
-msgstr "마지막을 반복"
+msgstr "다시 실행"
 
 
 msgid "Repeat last action"
-msgstr "마지막 작업을 반복"
+msgstr "마지막 작업을 다시 실행합니다"
 
 
 msgctxt "Operator"
@@ -55355,7 +55363,7 @@ msgstr "보이지 않는 에디터에 대해 사용하지 않은 설정을 제�
 
 
 msgid "Edit user preferences and system settings"
-msgstr "사용자 환경 설정 및 시스템 설정을 편집"
+msgstr "사용자 환경 및 시스템을 설정합니다"
 
 
 msgid "Themes"
@@ -57044,11 +57052,6 @@ msgstr "저장"
 
 msgid "Save active text data-block"
 msgstr "활성 텍스트 데이터 블록을 저장"
-
-
-msgctxt "Operator"
-msgid "Save As"
-msgstr "다른 이름으로 저장"
 
 
 msgid "Save active text file with options"
@@ -60715,11 +60718,11 @@ msgstr "내부 사용 (data_path를 속성 편집)"
 
 msgctxt "Operator"
 msgid "Quit Blender"
-msgstr "블렌더를 끝내기"
+msgstr "블렌더를 종료합니다"
 
 
 msgid "Quit Blender"
-msgstr "블렌더를 끝내기"
+msgstr "블렌더를 종료합니다"
 
 
 msgctxt "Operator"
@@ -60839,8 +60842,8 @@ msgid "Reload Start-Up File"
 msgstr "스타트업 파일을 다시 불러오기"
 
 
-msgid "Open the default file (doesn't save the current file)"
-msgstr "기본 파일을 열기 (현재 파일을 저장하지 않음)"
+msgid "Open default file (Do not save current file)"
+msgstr "기본 파일을 엽니다 (현재 파일을 저장하지 않습니다)"
 
 
 msgid "Path to an alternative start-up file"
@@ -60865,8 +60868,8 @@ msgid "Recover Auto Save"
 msgstr "자동 저장을 복구"
 
 
-msgid "Open an automatically saved file to recover it"
-msgstr "자동으로 저장된 파일을 열어 복구"
+msgid "Open automatically saved file to recover"
+msgstr "자동으로 저장된 파일을 열어 복구합니다"
 
 
 msgctxt "Operator"
@@ -60874,8 +60877,8 @@ msgid "Recover Last Session"
 msgstr "마지막 세션을 복구"
 
 
-msgid "Open the last closed file (\"quit.blend\")"
-msgstr "마지막으로 닫힌 파일을 열기 (\"quit.blend\")"
+msgid "Open the last closed file"
+msgstr "마지막으로 닫힌 파일을 엽니다"
 
 
 msgctxt "Operator"
@@ -60928,8 +60931,8 @@ msgid "Write compressed .blend file"
 msgstr "압축된 .blend 파일을 작성"
 
 
-msgid "Save Copy"
-msgstr "사본으로 저장"
+msgid "Save Copy..."
+msgstr "사본으로 저장..."
 
 
 msgid "Save a copy of the actual working state but does not make saved file active"
@@ -61080,11 +61083,11 @@ msgstr "릴리즈 정보와 함께 스플래시 화면을 엽니다"
 
 msgctxt "Operator"
 msgid "Save System Info"
-msgstr "시스템 정보를 저장"
+msgstr "시스템 정보 저장"
 
 
 msgid "Generate system information, saved into a text file"
-msgstr "시스템 정보를 생성, 텍스트 파일에 저장됨"
+msgstr "시스템 정보를 생성, 텍스트 파일에 저장합니다"
 
 
 msgid "Set the tool by name (for keymaps)"
@@ -62026,11 +62029,11 @@ msgstr "고급 필터"
 
 
 msgid "Bookmarks"
-msgstr "북마크 리스트"
+msgstr "북마크"
 
 
 msgid "Recent"
-msgstr "최근 폴더 리스트"
+msgstr "최근 사용"
 
 
 msgid "Directory Path"
@@ -71950,10 +71953,6 @@ msgid "Show red channel in the frame"
 msgstr "프레임에서 레드 채널을 표시"
 
 
-msgid "Adjust Last Operation"
-msgstr "마지막 작업을 조정"
-
-
 msgid "Toolbar"
 msgstr "툴바"
 
@@ -78979,7 +78978,7 @@ msgstr "[{}]: \"{}\" ({})"
 
 msgctxt "Operator"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgid "API Defined"
@@ -82002,7 +82001,7 @@ msgstr "어플리케이션 템플릿을 설치 ..."
 
 msgctxt "Operator"
 msgid "Quit"
-msgstr "끝내기"
+msgstr "종료"
 
 
 msgctxt "Operator"
@@ -82037,17 +82036,17 @@ msgstr "에니메이션을 보기"
 
 msgctxt "Operator"
 msgid "Undo History..."
-msgstr "실행 취소 기록..."
+msgstr "작업 내역..."
 
 
 msgctxt "Operator"
 msgid "Repeat History..."
-msgstr "기록을 반복..."
+msgstr "반복 실행..."
 
 
 msgctxt "Operator"
 msgid "Adjust Last Operation..."
-msgstr "마지막 작업 조정..."
+msgstr "마지막 조정 값..."
 
 
 msgctxt "Operator"
@@ -86189,127 +86188,127 @@ msgstr "연결할 ID 데이터를 찾아보기"
 
 msgctxt "Scene"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Object"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Mesh"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Curve"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Metaball"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Material"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Texture"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Image"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Lattice"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Light"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Camera"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "World"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Screen"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Text"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Speaker"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Sound"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Armature"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Action"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "NodeTree"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "Brush"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "ParticleSettings"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "GPencil"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "FreestyleLineStyle"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "WorkSpace"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgctxt "LightProbe"
 msgid "New"
-msgstr "새로운"
+msgstr "새로 만들기"
 
 
 msgid "%d items"
@@ -89079,7 +89078,7 @@ msgstr "최근 파일이 없음"
 
 
 msgid "Open Recent"
-msgstr "최근 파일을 열기"
+msgstr "최근 파일 열기"
 
 
 msgid "Control Point:"
@@ -91978,14 +91977,6 @@ msgid "Don't have an ACON3D account?"
 msgstr "에이콘3D 계정이 없으신가요?"
 
 
-msgid "Link to ACON3D"
-msgstr "에이콘3D 보러가기"
-
-
-msgid "Sign up for ACON3D"
-msgstr "에이콘3D 회원가입"
-
-
 msgid "ABLER Service Notice"
 msgstr "에이블러 서비스 공지사항"
 
@@ -92053,16 +92044,31 @@ msgid "Import files onto the viewport."
 msgstr "파일을 대지 위에 불러옵니다."
 
 
-msgid "ㅁ Sketchup File (.skp)"
-msgstr "ㅁ 스케치업 파일 (.skp)"
+msgid "Sketchup File (.skp)"
+msgstr "스케치업 파일 (.skp)"
 
 
-msgid "ㅁ FBX File (.fbx)"
-msgstr "ㅁ FBX 파일 (.fbx)"
+msgctxt "abler"
+msgid "SKP (.skp)"
+msgstr "SKP 파일 (.skp)"
 
 
-msgid "ㅁ Blender File (.blend)"
-msgstr "ㅁ 블렌더 파일 (.blend)"
+msgid "FBX File (.fbx)"
+msgstr "FBX 파일 (.fbx)"
+
+
+msgctxt "abler"
+msgid "FBX (.fbx)"
+msgstr "FBX 파일 (.fbx)"
+
+
+msgid "Blender File (.blend)"
+msgstr "블렌더 파일 (.blend)"
+
+
+msgctxt "abler"
+msgid "Blender (.blend)"
+msgstr "Blender 파일 (.blend)"
 
 
 msgid "Import Blender file according to the current settings"
@@ -92441,8 +92447,8 @@ msgid "Quick Start Guide"
 msgstr "조작 안내 보기"
 
 
-msgid "Open a website in the web browser"
-msgstr "에이블러 가이드 사이트로 이동합니다"
+msgid "Open ABLER Guide"
+msgstr "에이블러 가이드를 실행합니다"
 
 
 msgid "Close Tutorial Guide"
@@ -92637,11 +92643,6 @@ msgstr "저장"
 
 msgid "Save the current Blender file"
 msgstr "현재 블렌더 파일을 저장합니다"
-
-
-msgctxt "abler"
-msgid "Save As..."
-msgstr "다른 이름으로 저장"
 
 
 msgid "Save the current file in the desired location"
@@ -93795,11 +93796,6 @@ msgid "Apply snap setting when scaling object"
 msgstr "오브젝트 크기 조정 시 스냅합니다"
 
 
-msgctxt "abler"
-msgid "Save Copy..."
-msgstr "사본으로 저장"
-
-
 msgid "Save the current file in the desired location but do not make the saved file active"
 msgstr "현재의 파일을 지정한 위치에 복사하여 저장합니다"
 
@@ -93869,7 +93865,7 @@ msgid "Link to Blender Foundation and check release notes"
 msgstr "블랜더 파운데이션으로 연결하여 릴리즈 노트를 확인합니다"
 
 
-msgid "Link to Blender development donation program to support maintenance and imporvements"
+msgid "Link to Blender development donation program to support maintenance and improvements"
 msgstr "블랜더 파운데이션을 후원하고 블랜더의 유지보수를 지원합니다"
 
 
@@ -94126,6 +94122,261 @@ msgstr ".blend 파일 저장하기"
 
 msgctxt "abler"
 msgid "Save As..."
+msgstr "다른 이름으로 저장..."
+
+
+msgctxt "abler"
+msgid "Open Image Files"
+msgstr "이미지 파일 열기"
+
+
+msgctxt "abler"
+msgid "Default Image"
+msgstr "기본 이미지"
+
+
+msgctxt "abler"
+msgid "Custom Image"
+msgstr "사용자 이미지"
+
+
+msgctxt "abler"
+msgid "Save Image Files"
+msgstr "이미지 파일 저장하기"
+
+
+msgctxt "abler"
+msgid "Render"
+msgstr "렌더"
+
+
+msgctxt "abler"
+msgid "Save"
+msgstr "저장"
+
+
+msgctxt "abler"
+msgid "Save Copy..."
+msgstr "사본으로 저장..."
+
+
+msgctxt "abler"
+msgid "Import SKP"
+msgstr "skp 파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import FBX"
+msgstr "fbx 파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import BLEND"
+msgstr "blend 파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import Failure"
+msgstr "가져오기 실패"
+
+
+msgctxt "abler"
+msgid "Cannot import the exact same file from the same directory."
+msgstr "같은 경로의 동일한 파일을 불러올 수 없습니다."
+
+
+msgctxt "abler"
+msgid "Import Selected File"
+msgstr "선택된 파일을 뷰포트에 가져옵니다"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "가져오기"
+
+
+msgid "Import selected file"
+msgstr "선택된 파일을 뷰포트에 가져옵니다"
+
+
+msgctxt "abler"
+msgid "Import Failure"
+msgstr "가져오기 실패"
+
+
+msgctxt "abler"
+msgid "Cannot import the exact same file from the same directory."
+msgstr "같은 경로의 동일한 파일을 불러올 수 없습니다."
+
+
+msgctxt "abler"
+msgid "Import Selected File"
+msgstr "선택된 파일을 뷰포트에 가져옵니다"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "가져오기"
+
+
+msgid "Import selected file"
+msgstr "선택된 파일을 뷰포트에 가져옵니다"
+
+
+msgctxt "abler"
+msgid "Cancel"
+msgstr "취소"
+
+
+msgid "Cancel executing selected file"
+msgstr "선택된 파일의 실행을 취소합니다"
+
+
+msgid "Render Selected Scenes?"
+msgstr "선택된 씬을 렌더하시겠습니까?"
+
+
+msgid "High quality render may take a long time to be finished."
+msgstr "고급 렌더는 씬에 포함된 내용에 따라 렌더 시간이 오래 소요될 수 있습니다."
+
+
+msgid "Selected Scenes: $(sceneCount)"
+msgstr "선택된 씬: $(sceneCount)"
+
+
+msgctxt "abler"
+msgid "Save and Render"
+msgstr "저장 후 렌더"
+
+
+msgctxt "abler"
+msgid "Render"
+msgstr "렌더"
+
+
+msgctxt "abler"
+msgid "Render Queue Finished"
+msgstr "렌더 작업이 모두 완료되었습니다."
+
+
+msgctxt "abler"
+msgid "Rendered images are saved in :"
+msgstr "다음 경로에 저장되었습니다:"
+
+
+msgctxt "abler"
+msgid "Latest version found for ABLER. Do you want to update?"
+msgstr "최신 버전의 에이블러가 있습니다. 업데이트 하시겠습니까?"
+
+
+msgctxt "abler"
+msgid "When using an older version of ABLER, some features may not work properly."
+msgstr "이전 버전의 에이블러 사용 시, 일부 기능이 작동하지 않을 수 있습니다. "
+
+
+msgctxt "abler"
+msgid "Update ABLER"
+msgstr "ABLER 업데이트"
+
+
+msgid "Update ABLER with ABLER Launcher"
+msgstr "에이블러를 업데이트합니다"
+
+
+msgid "Close"
+msgstr "닫기"
+
+
+msgctxt "abler"
+msgid "Close"
+msgstr "닫기"
+
+
+msgctxt "abler"
+msgid "The file was created in a newer version of ABLER. You have ABLER version $(clientVer) You need ABLER version $(fileVer)"
+msgstr "이 파일은 현재 설치된 에이블러 버전보다 상위 버전에서 작성되었습니다. 현재 설치된 에이블러 버전: $(clientVer) 필요한 에이블러 버전: $(fileVer)"
+
+
+msgctxt "abler"
+msgid "update ABLER"
+msgstr "ABLER 업데이트"
+
+
+msgid "This file was created in a older version of ABLER ($(fileVer))"
+msgstr "이 파일은 현재 설치된 에이블러 버전보다 하위 버전에서 작성되었습니다. (버전 : $(fileVer))"
+
+
+msgid "If you save in the current version ($(clientVer)), you will not be able to load this file from older version of ABLER."
+msgstr "현재 버전($(clientVer))에서 파일을 저장할 경우, 이전 버전의 ABLER 에서 이 파일을 로드할 수 없습니다."
+
+
+msgid "Don't show this message again"
+msgstr "이 메시지를 다시 표시하지 않습니다."
+
+
+msgctxt "Operator"
+msgid "Menu Search..."
+msgstr "메뉴 검색..."
+
+
+msgid "Pop-up a search over all menus in the current context"
+msgstr "실행할 수 있는 모든 메뉴를 검색합니다"
+
+
+msgctxt "Operator"
+msgid "Unused Data-Blocks"
+msgstr "사용하지 않는 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Data-Blocks"
+msgstr "사용하지 않는 복사된 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Unused Linked Data-Blocks"
+msgstr "사용하지 않는 연결된 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Linked Data-Blocks"
+msgstr "사용하지 않는 복사 및 연결된 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Unused Local Data-Blocks"
+msgstr "사용하지 않는 로컬 데이터 지우기"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Local Data-Blocks"
+msgstr "사용하지 않는 복사된 로컬 데이터 지우기"
+
+
+msgid "File not found"
+msgstr "파일을 찾을 수 없습니다"
+
+
+msgid "Cancel loading of selected file"
+msgstr "선택된 파일의 불러오기를 취소합니다"
+
+
+msgid "Import Files"
+msgstr "파일 가져오기"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "가져오기"
+
+
+msgctxt "abler"
+msgid "Save .blend Files"
+msgstr ".blend 파일 저장하기"
+
+
+msgctxt "abler"
+msgid "Save As..."
 msgstr "다른 이름으로 저장"
 
 
@@ -94179,124 +94430,38 @@ msgid "Import BLEND"
 msgstr "blend 파일 가져오기"
 
 
-msgctxt "abler"
-msgid "Import Failure"
-msgstr "가져오기 실패"
+msgid "Columns"
+msgstr "항목"
 
 
-msgctxt "abler"
-msgid "Cannot import the exact same file from the same directory."
-msgstr "같은 경로의 동일한 파일을 불러올 수 없습니다."
+msgid "Show a column listing the size of each file"
+msgstr "파일의 사이즈 열을 추가합니다"
 
 
-msgctxt "abler"
-msgid "Import Selected File"
-msgstr "선택된 파일을 뷰포트에 가져옵니다"
+msgid "Show a column listing the date and time of modification for each file"
+msgstr "파일의 수정 날짜와 시간 열을 추가합니다"
 
 
-msgctxt "abler"
-msgid "Import"
-msgstr "가져오기"
+msgid "Recursions"
+msgstr "폴더 나열 방식"
 
 
-msgid "Import selected file"
-msgstr "선택된 파일을 뷰포트에 가져옵니다"
+msgid "Number of depth levels to show simultaneously"
+msgstr "동시에 표시하는 디렉토리 레벨의 수"
 
 
-msgctxt "abler"
-msgid "Cancel"
-msgstr "취소"
+msgid "Sort By"
+msgstr "정렬 기준"
 
 
-msgctxt "abler"
-msgid "Render Selected Scenes?"
-msgstr "선택된 씬을 렌더하시겠습니까?"
+msgid "Show hidden folders or files"
+msgstr "숨겨진 폴더나 파일을 표시합니다"
 
 
-msgctxt "abler"
-msgid "High quality render may take a long time to be finished."
-msgstr "고급 렌더는 씬에 포함된 내용에 따라 렌더 시간이 오래 소요될 수 있습니다."
+msgid "$(filepath)\n\nFile not found"
+msgstr "$(filepath)\n\n파일을 찾을 수 없습니다"
 
 
-msgctxt "abler"
-msgid "Selected Scenes:"
-msgstr "선택된 씬:"
-
-
-msgctxt "abler"
-msgid "Save and Render"
-msgstr "저장 후 렌더"
-
-
-msgctxt "abler"
-msgid "Render"
-msgstr "렌더"
-
-
-msgctxt "abler"
-msgid "Render Queue Finished"
-msgstr "렌더 작업이 모두 완료되었습니다."
-
-
-msgctxt "abler"
-msgid "Rendered images are saved in :"
-msgstr "다음 경로에 저장되었습니다:"
-
-
-msgctxt "abler"
-msgid "Latest version found for ABLER. Do you want to update?"
-msgstr "최신 버전의 에이블러가 있습니다. 업데이트 하시겠습니까?"
-
-
-msgctxt "abler"
-msgid "When using an older version of ABLER, some features may not work properly."
-msgstr "이전 버전의 에이블러 사용 시, 일부 기능이 작동하지 않을 수 있습니다. "
-
-
-msgctxt "abler"
-msgid "Update ABLER"
-msgstr "ABLER 업데이트"
-
-
-msgid "Update ABLER with ABLER Launcher"
-msgstr "에이블러를 업데이트합니다"
-
-
-msgctxt "abler"
-msgid "Close"
-msgstr "닫기"
-
-
-msgctxt "abler"
-msgid "The file was created in a newer version of ABLER. You have ABLER version $(clientVer) You need ABLER version $(fileVer)"
-msgstr "이 파일은 현재 설치된 에이블러 버전보다 상위 버전에서 작성되었습니다. 현재 설치된 에이블러 버전: $(clientVer) 필요한 에이블러 버전: $(fileVer)"
-
-
-msgctxt "abler"
-msgid "update ABLER"
-msgstr "ABLER 업데이트"
-
-
-msgctxt "abler"
-msgid "This file was created in a older version of ABLER ($(fileVer))"
-msgstr "이 파일은 현재 설치된 에이블러 버전보다 하위 버전에서 작성되었습니다. (버전 : $(fileVer))"
-
-
-msgctxt "abler"
-msgid "If you save in the current version ($(clientVer)), you will not be able to load this file from older version of ABLER."
-msgstr "현재 버전($(clientVer))에서 파일을 저장할 경우, 이전 버전의 ABLER 에서 이 파일을 로드할 수 없습니다."
-
-
-msgctxt "abler"
-msgid "Don't show this message again"
-msgstr "이 메시지를 다시 표시하지 않습니다."
-
-
-msgctxt "Operator"
-msgid "Menu Search..."
-msgstr "메뉴 검색..."
-
-
-msgid "Pop-up a search over all menus in the current context"
-msgstr "현재 상태에서 사용 가능한 모든 메뉴를 검색합니다"
+msgid "$(filepath)\n\nModified: $(modified_time)\nSize: $(size) MB"
+msgstr "$(filepath)\n\n마지막 수정: $(modified_time)\n사이즈: $(size) MB"
 
