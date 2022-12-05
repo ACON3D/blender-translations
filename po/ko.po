@@ -1076,7 +1076,7 @@ msgstr "활성 배이킹 패스에 포함하는 패스"
 
 
 msgid "None"
-msgstr "None"
+msgstr "없음"
 
 
 msgid "Emit"
@@ -10771,7 +10771,7 @@ msgstr "파일 브라우저에서 표시된 디렉토리"
 
 
 msgid "Display Size"
-msgstr "표시 크기"
+msgstr "아이콘 크기"
 
 
 msgid "Change the size of the display (width of columns or thumbnails size)"
@@ -10787,7 +10787,7 @@ msgstr "작은"
 
 
 msgid "Regular"
-msgstr "정규"
+msgstr "보통"
 
 
 msgid "Large"
@@ -10862,6 +10862,10 @@ msgid "Only list current directory's content, with no recursion"
 msgstr "현재 디렉토리의 내용 나열 만, 반복 없음"
 
 
+msgid "List only current directory's content, with no recursion"
+msgstr "현재 디렉토리의 내용만을 나열합니다"
+
+
 msgid "Blend File"
 msgstr "Blend 파일"
 
@@ -10871,27 +10875,27 @@ msgstr ".blend 파일들의 내용 목록"
 
 
 msgid "One Level"
-msgstr "1 레벨"
+msgstr "1 단계"
 
 
 msgid "List all sub-directories' content, one level of recursion"
-msgstr "모든 하위 디렉토리의 내용을 나열, 반복 1 레벨"
+msgstr "1단계 하위 레벨 디렉토리의 내용까지 나열합니다"
 
 
 msgid "Two Levels"
-msgstr "2 레벨"
+msgstr "2 단계"
 
 
 msgid "List all sub-directories' content, two levels of recursion"
-msgstr "모든 하위 디렉토리의 내용을 나열, 반복 2 레벨"
+msgstr "2단계 하위 레벨 디렉토리의 내용까지 나열합니다"
 
 
 msgid "Three Levels"
-msgstr "3 레벨"
+msgstr "3 단계"
 
 
 msgid "List all sub-directories' content, three levels of recursion"
-msgstr "모든 하위 디렉토리의 내용을 나열, 반복 3 레벨"
+msgstr "3단계 하위 레벨 디렉토리의 내용까지 나열합니다"
 
 
 msgid "File Modification Date"
@@ -10911,7 +10915,7 @@ msgstr "분류"
 
 
 msgid "Sort the file list alphabetically"
-msgstr "알파벳순으로 파일 목록을 분류"
+msgstr "이름 순으로 파일 목록을 정렬합니다"
 
 
 msgid "Extension"
@@ -10919,19 +10923,19 @@ msgstr "확장자"
 
 
 msgid "Sort the file list by extension/type"
-msgstr "확장자/유형 별로 파일 목록을 분류"
+msgstr "확장자/유형 별로 파일 목록을 정렬합니다"
 
 
 msgid "Modified Date"
-msgstr "수정된 날짜"
+msgstr "수정한 날짜"
 
 
-msgid "Sort files by modification time"
-msgstr "수정 시간으로 파일을 분류"
+msgid "Sort the file list by modification time"
+msgstr "수정 시간 순서로 파일 목록을 정렬합니다"
 
 
-msgid "Sort files by size"
-msgstr "크기로 파일을 분류"
+msgid "Sort the file list by size"
+msgstr "크기 순서로 파일 목록을 정렬합니다"
 
 
 msgid "Title"
@@ -10979,7 +10983,7 @@ msgstr "폴더를 필터"
 
 
 msgid "Show folders"
-msgstr "폴더를 표시"
+msgstr "폴더를 표시합니다"
 
 
 msgid "Filter Fonts"
@@ -11039,7 +11043,11 @@ msgstr "블렌더 파일의 내용을 검색할지 여부"
 
 
 msgid "Reverse Sorting"
-msgstr "분류를 반전"
+msgstr "반대로 정렬"
+
+
+msgid "Reverse the order of the list"
+msgstr "항목의 순서를 반대로 정렬합니다"
 
 
 msgid "Sort items descending, from highest value to lowest"
@@ -62025,7 +62033,7 @@ msgstr "북마크"
 
 
 msgid "Recent"
-msgstr "최근 폴더"
+msgstr "최근 사용"
 
 
 msgid "Directory Path"
@@ -81993,7 +82001,7 @@ msgstr "어플리케이션 템플릿을 설치 ..."
 
 msgctxt "Operator"
 msgid "Quit"
-msgstr "끝내기"
+msgstr "종료"
 
 
 msgctxt "Operator"
@@ -92040,12 +92048,27 @@ msgid "Sketchup File (.skp)"
 msgstr "스케치업 파일 (.skp)"
 
 
+msgctxt "abler"
+msgid "SKP (.skp)"
+msgstr "SKP 파일 (.skp)"
+
+
 msgid "FBX File (.fbx)"
+msgstr "FBX 파일 (.fbx)"
+
+
+msgctxt "abler"
+msgid "FBX (.fbx)"
 msgstr "FBX 파일 (.fbx)"
 
 
 msgid "Blender File (.blend)"
 msgstr "블렌더 파일 (.blend)"
+
+
+msgctxt "abler"
+msgid "Blender (.blend)"
+msgstr "Blender 파일 (.blend)"
 
 
 msgid "Import Blender file according to the current settings"
@@ -94327,7 +94350,7 @@ msgstr "사용하지 않는 로컬 데이터 지우기"
 
 msgctxt "Operator"
 msgid "Recursive Unused Local Data-Blocks"
-msgstr "사용하지 않는 복사 및 연결된 데이터 지우기"
+msgstr "사용하지 않는 복사된 로컬 데이터 지우기"
 
 
 msgid "File not found"
@@ -94405,3 +94428,33 @@ msgstr "fbx 파일 가져오기"
 msgctxt "abler"
 msgid "Import BLEND"
 msgstr "blend 파일 가져오기"
+
+
+msgid "Columns"
+msgstr "항목"
+
+
+msgid "Show a column listing the size of each file"
+msgstr "파일의 사이즈 열을 추가합니다"
+
+
+msgid "Show a column listing the date and time of modification for each file"
+msgstr "파일의 수정 날짜와 시간 열을 추가합니다"
+
+
+msgid "Recursions"
+msgstr "폴더 나열 방식"
+
+
+msgid "Number of depth levels to show simultaneously"
+msgstr "동시에 표시하는 디렉토리 레벨의 수"
+
+
+msgid "Sort By"
+msgstr "정렬 기준"
+
+
+msgid "Show hidden folders or files"
+msgstr "숨겨진 폴더나 파일을 표시합니다"
+
+
