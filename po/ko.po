@@ -3097,7 +3097,7 @@ msgstr "단순화 단계 수 (큰 값은 채우기 정확도 감소)"
 
 
 msgid "Threshold"
-msgstr "임계 값"
+msgstr "임계값"
 
 
 msgid "Threshold to consider color transparent for filling"
@@ -3533,7 +3533,7 @@ msgstr "배경 이미지를 회전시킵니다 (정사 보기 전용)"
 
 
 msgid "Scale"
-msgstr "스케일"
+msgstr "크기 조정"
 
 
 msgid "Scale the background image"
@@ -61203,7 +61203,7 @@ msgstr "자체 작업 공간 및 씬 선택으로 새 기본 창을 생성"
 
 msgctxt "Operator"
 msgid "Add Workspace"
-msgstr "작업공간을 추가"
+msgstr "워크스페이스 추가"
 
 
 msgid "Add a new workspace by duplicating the current one or appending one from the user configuration"
@@ -62907,7 +62907,7 @@ msgstr "SSAO 설정"
 
 msgctxt "Operator"
 msgid "Scale Cage"
-msgstr "스케일 케이지"
+msgstr "케이지 조정"
 
 
 msgctxt "Operator"
@@ -92863,8 +92863,7 @@ msgid "Flip"
 msgstr "뒤집기"
 
 
-msgctxt "abler"
-msgid "Flip_X-axis"
+msgid "Flip X-axis"
 msgstr "좌우 반전"
 
 
@@ -92872,8 +92871,7 @@ msgid "Flip the background image horizontally"
 msgstr "배경 이미지를 좌우로 반전시킵니다"
 
 
-msgctxt "abler"
-msgid "Flip_Y-axis"
+msgid "Flip Y-axis"
 msgstr "상하 반전"
 
 
@@ -93054,7 +93052,6 @@ msgid "Adjust the thickness of maximum depth edges (Range: 0 ~ 5)"
 msgstr "심도가 가장 높은 선의 굵기를 조정합니다 (범위: 0 ~ 5)"
 
 
-msgctxt "abler"
 msgid "Line Detail"
 msgstr "선 디테일"
 
@@ -93154,27 +93151,12 @@ msgid "Object Properties"
 msgstr "오브젝트 속성"
 
 
-msgctxt "abler"
-msgid "Exclude Shadow"
-msgstr "그림자"
-
-
 msgid "Exclude shadow of selected object"
 msgstr "선택된 오브젝트의 그림자를 제외합니다"
 
 
-msgctxt "abler"
-msgid "Exclude Shading"
-msgstr "음영"
-
-
 msgid "Exclude shading of selected object"
 msgstr "선택된 오브젝트의 음영을 제외합니다"
-
-
-msgctxt "abler"
-msgid "Exclude Line"
-msgstr "윤곽선"
 
 
 msgid "Exclude line of selected object"
@@ -93216,7 +93198,7 @@ msgstr "재질 찾기"
 
 
 msgid "Show name of selected material or search another material"
-msgstr "현재 선택된 재질의 이름을 보여주거나 다른 재질을 선택합니다."
+msgstr "현재 선택된 재질의 이름을 보여주거나 다른 재질을 선택합니다"
 
 
 msgctxt "abler"
@@ -93252,11 +93234,6 @@ msgstr "블룸 효과"
 
 msgid "Create a shining effect with high luminance pixels"
 msgstr "블룸 효과를 적용합니다"
-
-
-msgctxt "abler"
-msgid "Threshold"
-msgstr "임계값"
 
 
 msgid "Filter out pixels under this level of brightness (Range: 0 ~ 10)"
@@ -93599,11 +93576,6 @@ msgstr "선택한 항목을 회전합니다"
 
 msgid "Scale (resize) selected items"
 msgstr "선택한 항목의 크기를 조정합니다"
-
-
-msgctxt "abler"
-msgid "Scale Cage"
-msgstr "케이지 조정"
 
 
 msgctxt "abler"
