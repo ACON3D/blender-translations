@@ -7610,7 +7610,7 @@ msgstr "오브젝트 지오메트리가 업데이트되었습니다"
 
 
 msgid "Shading"
-msgstr "셰이딩"
+msgstr "음영"
 
 
 msgid "Transform"
@@ -94451,4 +94451,14 @@ msgstr "파일을 저장할 위치를 선택해주세요."
 
 msgid "Please select the path in which the rendered images will be saved."
 msgstr "렌더링 이미지를 저장할 위치를 선택해주세요."
+
+
+msgctxt "abler"
+msgid "Import Progress"
+msgstr "가져오기 진행률"
+
+
+msgctxt "abler"
+msgid "Render Progress"
+msgstr "렌더 진행률"
 
