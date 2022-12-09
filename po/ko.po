@@ -94445,16 +94445,20 @@ msgid "Import Look at me"
 msgstr "오브젝트 나만 바라보기 포함"
 
 
-msgid "This file has never been saved before."
-msgstr "이 파일은 저장 이력이 없는 파일입니다."
+msgid "This file has never been saved"
+msgstr "이 파일은 저장 이력이 없는"
 
 
-msgid "Saving file before rendering is required."
-msgstr "렌더 시작 전 반드시 저장해주세요."
+msgid "before. Saving file before rendering is"
+msgstr "파일입니다. 렌더 시작 전 반드시"
 
 
-msgid "Please select the folder in which the file will be saved."
-msgstr "파일을 저장할 위치를 선택해주세요."
+msgid "required. Please select the folder in"
+msgstr "저장해주세요. 파일을 저장할"
+
+
+msgid "which the file will be saved."
+msgstr "위치를 선택해주세요."
 
 
 msgid "Please select the path in"
