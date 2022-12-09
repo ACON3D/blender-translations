@@ -94478,3 +94478,7 @@ msgctxt "abler"
 msgid "Render Progress"
 msgstr "렌더 진행률"
 
+
+msgid "Choose %s data-block to be assigned to this user"
+msgstr "선택한 오브젝트에 할당할 재질을 선택합니다"
+
