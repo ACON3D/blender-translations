@@ -92222,7 +92222,7 @@ msgid "Incorrect username or password."
 msgstr "사용자 이름 혹은 패스워드가 올바르지 않습니다."
 
 
-msgid "The number of consecutive password error count exceeded."
+msgid "Login error count exceeded."
 msgstr "비밀번호 오류 횟수 초과로 인해 로그인이 불가합니다."
 
 
