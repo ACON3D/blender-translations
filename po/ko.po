@@ -11102,6 +11102,14 @@ msgid "Start"
 msgstr "시작"
 
 
+msgid "Finish"
+msgstr "완료"
+
+
+msgid "Time Span"
+msgstr "소요 시간"
+
+
 msgid "Select the file format to be used for caching surface data"
 msgstr "표면 데이터 캐싱에 사용할 파일 형식을 선택"
 
@@ -94449,8 +94457,16 @@ msgid "Please select the folder in which the file will be saved."
 msgstr "파일을 저장할 위치를 선택해주세요."
 
 
-msgid "Please select the path in which the rendered images will be saved."
-msgstr "렌더링 이미지를 저장할 위치를 선택해주세요."
+msgid "Please select the path in"
+msgstr "렌더링 이미지를 저장할"
+
+
+msgid "which the rendered images"
+msgstr "        위치를 선택해주세요."
+
+
+msgid "will be saved."
+msgstr " "
 
 
 msgctxt "abler"
