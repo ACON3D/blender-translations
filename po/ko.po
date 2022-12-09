@@ -1092,7 +1092,7 @@ msgstr "간접"
 
 
 msgid "Diffuse"
-msgstr "난반사(Diffuse)"
+msgstr "난반사"
 
 
 msgid "Glossy"
@@ -3097,7 +3097,7 @@ msgstr "단순화 단계 수 (큰 값은 채우기 정확도 감소)"
 
 
 msgid "Threshold"
-msgstr "임계 값"
+msgstr "임계값"
 
 
 msgid "Threshold to consider color transparent for filling"
@@ -3533,7 +3533,7 @@ msgstr "배경 이미지를 회전시킵니다 (정사 보기 전용)"
 
 
 msgid "Scale"
-msgstr "스케일"
+msgstr "크기 조정"
 
 
 msgid "Scale the background image"
@@ -7610,7 +7610,7 @@ msgstr "오브젝트 지오메트리가 업데이트되었습니다"
 
 
 msgid "Shading"
-msgstr "셰이딩"
+msgstr "음영"
 
 
 msgid "Transform"
@@ -11100,6 +11100,14 @@ msgstr "종료"
 
 msgid "Start"
 msgstr "시작"
+
+
+msgid "Finish"
+msgstr "완료"
+
+
+msgid "Time Span"
+msgstr "소요 시간"
 
 
 msgid "Select the file format to be used for caching surface data"
@@ -35290,7 +35298,7 @@ msgstr "변위는 월드 공간에 있으며 오브젝트의 크기에 영향을
 
 
 msgid "Emission"
-msgstr "발광(Emission)"
+msgstr "발광"
 
 
 msgid "Fresnel"
@@ -41701,11 +41709,6 @@ msgstr "선택된 파일을 삭제함"
 
 msgid "Move selected files to the trash or recycle bin"
 msgstr "선택한 파일을 쓰레기 또는 휴지통으로 이동"
-
-
-msgctxt "Operator"
-msgid "Create New Directory"
-msgstr "새로운 디렉토리를 생성"
 
 
 msgid "Create a new directory"
@@ -61208,7 +61211,7 @@ msgstr "자체 작업 공간 및 씬 선택으로 새 기본 창을 생성"
 
 msgctxt "Operator"
 msgid "Add Workspace"
-msgstr "작업공간을 추가"
+msgstr "워크스페이스 추가"
 
 
 msgid "Add a new workspace by duplicating the current one or appending one from the user configuration"
@@ -62912,7 +62915,7 @@ msgstr "SSAO 설정"
 
 msgctxt "Operator"
 msgid "Scale Cage"
-msgstr "스케일 케이지"
+msgstr "케이지 조정"
 
 
 msgctxt "Operator"
@@ -91977,8 +91980,8 @@ msgid "Don't have an ACON3D account?"
 msgstr "에이콘3D 계정이 없으신가요?"
 
 
-msgid "ABLER Service Notice"
-msgstr "에이블러 서비스 공지사항"
+msgid "Link to ABLER service notice"
+msgstr "에이블러의 공지사항을 확인합니다"
 
 
 msgid "Blender Release Notes"
@@ -92275,7 +92278,7 @@ msgstr "렌더 작업이 모두 완료되었습니다."
 
 
 msgid "Rendered images are saved in:"
-msgstr "다음 경로에 저장되었습니다."
+msgstr "다음 경로에 저장되었습니다:"
 
 
 msgid "Render All Scenes"
@@ -92564,10 +92567,6 @@ msgid "Hide Low Version Warning"
 msgstr "하위 버전 경고 숨기기"
 
 
-msgid "Don't show this message again"
-msgstr "이 메시지를 다시 표시하지 않습니다."
-
-
 msgid "Click and drag to zoom in/out in the view"
 msgstr "화면을 확대/축소합니다."
 
@@ -92698,7 +92697,7 @@ msgstr "카메라 설정"
 
 msgctxt "abler"
 msgid "Focal Length"
-msgstr "초점 거리"
+msgstr "초점의 길이"
 
 
 msgid "Adjust perspective camera lens value in millimeters (Range: 1~100)"
@@ -92872,8 +92871,7 @@ msgid "Flip"
 msgstr "뒤집기"
 
 
-msgctxt "abler"
-msgid "Flip_X-axis"
+msgid "Flip X-axis"
 msgstr "좌우 반전"
 
 
@@ -92881,8 +92879,7 @@ msgid "Flip the background image horizontally"
 msgstr "배경 이미지를 좌우로 반전시킵니다"
 
 
-msgctxt "abler"
-msgid "Flip_Y-axis"
+msgid "Flip Y-axis"
 msgstr "상하 반전"
 
 
@@ -93063,7 +93060,6 @@ msgid "Adjust the thickness of maximum depth edges (Range: 0 ~ 5)"
 msgstr "심도가 가장 높은 선의 굵기를 조정합니다 (범위: 0 ~ 5)"
 
 
-msgctxt "abler"
 msgid "Line Detail"
 msgstr "선 디테일"
 
@@ -93163,27 +93159,12 @@ msgid "Object Properties"
 msgstr "오브젝트 속성"
 
 
-msgctxt "abler"
-msgid "Exclude Shadow"
-msgstr "그림자"
-
-
 msgid "Exclude shadow of selected object"
 msgstr "선택된 오브젝트의 그림자를 제외합니다"
 
 
-msgctxt "abler"
-msgid "Exclude Shading"
-msgstr "음영"
-
-
 msgid "Exclude shading of selected object"
 msgstr "선택된 오브젝트의 음영을 제외합니다"
-
-
-msgctxt "abler"
-msgid "Exclude Line"
-msgstr "윤곽선"
 
 
 msgid "Exclude line of selected object"
@@ -93225,7 +93206,7 @@ msgstr "재질 찾기"
 
 
 msgid "Show name of selected material or search another material"
-msgstr "현재 선택된 재질의 이름을 보여주거나 다른 재질을 선택합니다."
+msgstr "현재 선택된 재질의 이름을 보여주거나 다른 재질을 선택합니다"
 
 
 msgctxt "abler"
@@ -93261,11 +93242,6 @@ msgstr "블룸 효과"
 
 msgid "Create a shining effect with high luminance pixels"
 msgstr "블룸 효과를 적용합니다"
-
-
-msgctxt "abler"
-msgid "Threshold"
-msgstr "임계값"
 
 
 msgid "Filter out pixels under this level of brightness (Range: 0 ~ 10)"
@@ -93608,11 +93584,6 @@ msgstr "선택한 항목을 회전합니다"
 
 msgid "Scale (resize) selected items"
 msgstr "선택한 항목의 크기를 조정합니다"
-
-
-msgctxt "abler"
-msgid "Scale Cage"
-msgstr "케이지 조정"
 
 
 msgctxt "abler"
@@ -94016,7 +93987,6 @@ msgid "Move to next folder"
 msgstr "다음 폴더로 이동합니다"
 
 
-msgctxt "abler"
 msgid "Parent File"
 msgstr "상위 디렉토리"
 
@@ -94034,7 +94004,7 @@ msgid "Refresh the file list"
 msgstr "파일 목록을 새로 고침합니다"
 
 
-msgctxt "abler"
+msgctxt "Operator"
 msgid "Create New Directory"
 msgstr "새로운 디렉토리 생성"
 
@@ -94311,7 +94281,7 @@ msgstr "현재 버전($(clientVer))에서 파일을 저장할 경우, 이전 버
 
 
 msgid "Don't show this message again"
-msgstr "이 메시지를 다시 표시하지 않습니다."
+msgstr "이 메시지를 다시 표시하지 않습니다"
 
 
 msgctxt "Operator"
@@ -94464,4 +94434,55 @@ msgstr "$(filepath)\n\n파일을 찾을 수 없습니다"
 
 msgid "$(filepath)\n\nModified: $(modified_time)\nSize: $(size) MB"
 msgstr "$(filepath)\n\n마지막 수정: $(modified_time)\n사이즈: $(size) MB"
+
+
+msgctxt "abler"
+msgid "F-stop"
+msgstr "흐려짐 정도"
+
+
+msgid "Import Look at me"
+msgstr "오브젝트 나만 바라보기 포함"
+
+
+msgid "This file has never been saved"
+msgstr "이 파일은 저장 이력이 없는"
+
+
+msgid "before. Saving file before rendering is"
+msgstr "파일입니다. 렌더 시작 전 반드시"
+
+
+msgid "required. Please select the folder in"
+msgstr "저장해주세요. 파일을 저장할"
+
+
+msgid "which the file will be saved."
+msgstr "위치를 선택해주세요."
+
+
+msgid "Please select the path in"
+msgstr "렌더링 이미지를 저장할"
+
+
+msgid "which the rendered images"
+msgstr "        위치를 선택해주세요."
+
+
+msgid "will be saved."
+msgstr " "
+
+
+msgctxt "abler"
+msgid "Import Progress"
+msgstr "가져오기 진행률"
+
+
+msgctxt "abler"
+msgid "Render Progress"
+msgstr "렌더 진행률"
+
+
+msgid "Choose %s data-block to be assigned to this user"
+msgstr "선택한 오브젝트에 할당할 재질을 선택합니다"
 
