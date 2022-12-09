@@ -1092,7 +1092,7 @@ msgstr "간접"
 
 
 msgid "Diffuse"
-msgstr "난반사(Diffuse)"
+msgstr "난반사"
 
 
 msgid "Glossy"
@@ -35290,7 +35290,7 @@ msgstr "변위는 월드 공간에 있으며 오브젝트의 크기에 영향을
 
 
 msgid "Emission"
-msgstr "발광(Emission)"
+msgstr "발광"
 
 
 msgid "Fresnel"
@@ -92270,7 +92270,7 @@ msgstr "렌더 작업이 모두 완료되었습니다."
 
 
 msgid "Rendered images are saved in:"
-msgstr "다음 경로에 저장되었습니다."
+msgstr "다음 경로에 저장되었습니다:"
 
 
 msgid "Render All Scenes"
@@ -92689,7 +92689,7 @@ msgstr "카메라 설정"
 
 msgctxt "abler"
 msgid "Focal Length"
-msgstr "초점 거리"
+msgstr "초점의 길이"
 
 
 msgid "Adjust perspective camera lens value in millimeters (Range: 1~100)"
@@ -94426,4 +94426,29 @@ msgstr "$(filepath)\n\n파일을 찾을 수 없습니다"
 
 msgid "$(filepath)\n\nModified: $(modified_time)\nSize: $(size) MB"
 msgstr "$(filepath)\n\n마지막 수정: $(modified_time)\n사이즈: $(size) MB"
+
+
+msgctxt "abler"
+msgid "F-stop"
+msgstr "흐려짐 정도"
+
+
+msgid "Import Look at me"
+msgstr "오브젝트 나만 바라보기 포함"
+
+
+msgid "This file has never been saved before."
+msgstr "이 파일은 저장 이력이 없는 파일입니다."
+
+
+msgid "Saving file before rendering is required."
+msgstr "렌더 시작 전 반드시 저장해주세요."
+
+
+msgid "Please select the folder in which the file will be saved."
+msgstr "파일을 저장할 위치를 선택해주세요."
+
+
+msgid "Please select the path in which the rendered images will be saved."
+msgstr "렌더링 이미지를 저장할 위치를 선택해주세요."
 
