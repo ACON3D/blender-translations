@@ -94486,3 +94486,15 @@ msgstr "렌더 진행률"
 msgid "Choose %s data-block to be assigned to this user"
 msgstr "선택한 오브젝트에 할당할 재질을 선택합니다"
 
+msgctxt "abler"
+msgid "Link to ACON3D"
+msgstr "에이콘3D 페이지로 이동합니다"
+
+msgctxt "abler"
+msgid "Search on ACON3D"
+msgstr "에이콘3D 검색창으로 연결됩니다"
+
+msgctxt "abler"
+msgid "Search with keywords"
+msgstr "키워드로 검색합니다"
+
