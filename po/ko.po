@@ -94492,7 +94492,7 @@ msgstr "에이콘3D 페이지로 이동합니다"
 
 msgctxt "abler"
 msgid "Search on ACON3D"
-msgstr "에이콘3D 검색창으로 연결됩니다"
+msgstr "에이콘3D 검색창으로 이동합니다"
 
 msgctxt "abler"
 msgid "Search with keywords"
@@ -94500,9 +94500,9 @@ msgstr "키워드로 검색합니다"
 
 msgctxt "abler"
 msgid "Open Acon3d"
-msgstr "에이콘3d 웹페이지로 이동"
+msgstr "에이콘3d로 가기"
 
 msgctxt "abler"
-msgid "Searh"
+msgid "Search"
 msgstr "검색"
 
