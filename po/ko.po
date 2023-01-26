@@ -94499,7 +94499,7 @@ msgid "Search with keywords"
 msgstr "키워드로 검색합니다"
 
 msgctxt "abler"
-msgid "Open Acon3d"
+msgid "Open ACON3D"
 msgstr "에이콘3d로 가기"
 
 msgctxt "abler"
