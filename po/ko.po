@@ -94498,3 +94498,11 @@ msgctxt "abler"
 msgid "Search with keywords"
 msgstr "키워드로 검색합니다"
 
+msgctxt "abler"
+msgid "Open Acon3d"
+msgstr "에이콘3d 웹페이지로 이동"
+
+msgctxt "abler"
+msgid "Searh"
+msgstr "검색"
+
