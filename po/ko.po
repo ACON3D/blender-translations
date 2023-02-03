@@ -94493,8 +94493,8 @@ msgstr "에이콘3D 에셋스토어"
 msgid "Buy 3D assets"
 msgstr "3D에셋 구매하러 가기"
 
-msgid "Enter search keywords (English only)"
-msgstr "필요한 에셋의 키워드 입력하기 (영문만 가능)"
+msgid "Enter search keywords"
+msgstr "필요한 에셋의 키워드 입력하기"
 
 msgid "Find 3D assets on ACON3D"
 msgstr "에이콘3D 에셋 찾아보기"
