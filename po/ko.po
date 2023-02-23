@@ -94503,3 +94503,9 @@ msgctxt "abler"
 msgid "Search"
 msgstr "검색"
 
+msgid "This file path does not exist"
+msgstr "파일경로가 존재하지 않습니다"
+
+msgid "Please select valid file path"
+msgstr "유효한 파일경로를 선택해주세요"
+
