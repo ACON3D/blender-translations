@@ -94503,9 +94503,22 @@ msgctxt "abler"
 msgid "Search"
 msgstr "검색"
 
+msgid "Invalid Directory Name"
+msgstr "유효하지 않은 디렉토리명"
+
+msgid "Please rewrite your directory name"
+msgstr "디렉토리명을 다시 입력해주세요"
+
+msgid "Please do not edit this node"
+msgstr "이 노드를 수정하지 마세요"
+
+msgid "It may cause unexpected errors"
+msgstr "예상치 못한 에러가 발생할 수 있습니다"
+
 msgid "This file path does not exist"
 msgstr "파일경로가 존재하지 않습니다"
 
 msgid "Please select valid file path"
 msgstr "유효한 파일경로를 선택해주세요"
+
 
