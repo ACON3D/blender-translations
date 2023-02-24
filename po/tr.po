@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: 2012-05-11 14:55+0200\n"
@@ -352,6 +352,10 @@ msgstr "Dosya yolu"
 
 msgid "Image Format"
 msgstr "Arkaplan Resmi"
+
+
+msgid "Extend"
+msgstr "Tahmini Uzat"
 
 
 msgid "Normal Space"
@@ -914,6 +918,10 @@ msgid "Saturation"
 msgstr "Doygunluk"
 
 
+msgid "Active Layer"
+msgstr "Aktif katmana ayarla"
+
+
 msgid "Path"
 msgstr "Yol"
 
@@ -1265,10 +1273,6 @@ msgstr "Giriş"
 
 msgid "Error"
 msgstr "Hata"
-
-
-msgid "Proxy Local"
-msgstr "Yerel Bakış"
 
 
 msgid "Disable"
@@ -2123,10 +2127,6 @@ msgid "Clip Min Y"
 msgstr "Film Klibi"
 
 
-msgid "Extend"
-msgstr "Tahmini Uzat"
-
-
 msgid "Horizontal"
 msgstr "Yatay"
 
@@ -2175,6 +2175,10 @@ msgid "View"
 msgstr "Görünüş"
 
 
+msgid "Radius"
+msgstr "Yarıçap"
+
+
 msgid "Steps"
 msgstr "Adımlar"
 
@@ -2185,10 +2189,6 @@ msgstr "Aktif Kamera"
 
 msgid "Material Index"
 msgstr "Malzeme Endeksi"
-
-
-msgid "Radius"
-msgstr "Yarıçap"
 
 
 msgid "Render"
@@ -3776,6 +3776,22 @@ msgid "Mirror Modifier"
 msgstr "Değiştirici Ekle"
 
 
+msgid "Shrinkwrap Modifier"
+msgstr "Değiştirici Ekle"
+
+
+msgid "Auxiliary Target"
+msgstr "Hedef değişkeni sil"
+
+
+msgid "Project Limit"
+msgstr "Düzenleme Modu"
+
+
+msgid "Mesh target to shrink to"
+msgstr "Örgü verileri bağlarına gözat"
+
+
 msgid "Merge"
 msgstr "Birleştir"
 
@@ -3826,10 +3842,6 @@ msgstr "Izgara Ekle"
 
 msgid "Grid Scale"
 msgstr "Döndürme & Ölçek"
-
-
-msgid "Active Layer"
-msgstr "Aktif katmana ayarla"
 
 
 msgid "R"
@@ -5280,10 +5292,6 @@ msgid "Pose Library"
 msgstr "Poz Ekle..."
 
 
-msgid "Proxy"
-msgstr "Vekil Korumalıdır"
-
-
 msgid "Rigid Body Settings"
 msgstr "Fabrika Ayarlarını Yükle"
 
@@ -6710,6 +6718,10 @@ msgid "Pivot Point"
 msgstr "Nokta Ekle"
 
 
+msgid "Proxy"
+msgstr "Vekil Korumalıdır"
+
+
 msgid "Select Grouped"
 msgstr "Ters Seçim"
 
@@ -7633,22 +7645,6 @@ msgstr "Yatay Eksen"
 
 msgid "Object Screw"
 msgstr "Nesne Kısıtlamaları"
-
-
-msgid "Shrinkwrap Modifier"
-msgstr "Değiştirici Ekle"
-
-
-msgid "Auxiliary Target"
-msgstr "Hedef değişkeni sil"
-
-
-msgid "Project Limit"
-msgstr "Düzenleme Modu"
-
-
-msgid "Mesh target to shrink to"
-msgstr "Örgü verileri bağlarına gözat"
 
 
 msgid "SimpleDeform Modifier"
@@ -8719,6 +8715,10 @@ msgid "Composite"
 msgstr "Birleşik Önizleme..."
 
 
+msgid "To"
+msgstr "Kenardan Kenara"
+
+
 msgid "Crop Image Size"
 msgstr "Arkaplan resminin boyut (genişlik) ayarı"
 
@@ -8829,10 +8829,6 @@ msgstr "Yalnız Kenarlar"
 
 msgid "Ellipse Mask"
 msgstr "Kırpma Kullan"
-
-
-msgid "Sharpen"
-msgstr "Keskinlik"
 
 
 msgid "Shadow"
@@ -9159,6 +9155,10 @@ msgid "Expand from 9 places"
 msgstr "Alttaki değerlere bağlı olarak (DupSta, DupEnd, DupOn, DupOff) nesne, dış hattı (yolu) izleyerek çoğaltılacaktır"
 
 
+msgid "Dot Product"
+msgstr "Noktalı dosyaları gizle (Linuxta, Nokta ile başlayan dosyalar gizli dosyalardır)"
+
+
 msgid "Original"
 msgstr "Orijinali Koru"
 
@@ -9175,12 +9175,8 @@ msgid "Linear interpolation"
 msgstr "Aradeğerleme Modu"
 
 
-msgid "Dot Product"
-msgstr "Noktalı dosyaları gizle (Linuxta, Nokta ile başlayan dosyalar gizli dosyalardır)"
-
-
-msgid "Z Axis"
-msgstr "Z Eks"
+msgid "Edge Angle"
+msgstr "Çevirme Açısı: "
 
 
 msgid "Fill Type"
@@ -9417,6 +9413,10 @@ msgstr "Doku Boyama"
 
 msgid "Vector Math"
 msgstr "Vektör Tutamak"
+
+
+msgid "Z Axis"
+msgstr "Z Eks"
 
 
 msgid "Texture Node"
@@ -11433,10 +11433,6 @@ msgid "Export selected objects only"
 msgstr "Seçili Nesne ve Bilgileri"
 
 
-msgid "Export the active UV layer"
-msgstr "Yeni bir UV doku katmanı Oluştur"
-
-
 msgid "Save the file in ASCII file format"
 msgstr "İşlenen görüntünün kaydedileceği biçimi seç"
 
@@ -11869,6 +11865,10 @@ msgid "Unlink"
 msgstr "Resim bloğunu bağlama (Sil)"
 
 
+msgid "Generic"
+msgstr "NLA Editörü"
+
+
 msgid "Remove from selection"
 msgstr "Tümünü Sil"
 
@@ -12022,14 +12022,6 @@ msgstr "İmleci Merkez al"
 msgctxt "Operator"
 msgid "Snap Selection to Grid"
 msgstr "Nesneleri ızgara birimlerince ölçekle"
-
-
-msgid "Black"
-msgstr "Siyah"
-
-
-msgid "White"
-msgstr "Beyaz"
 
 
 msgctxt "Operator"
@@ -15687,10 +15679,6 @@ msgid "Slider"
 msgstr "Vertex Slide"
 
 
-msgid "Generic"
-msgstr "NLA Editörü"
-
-
 msgid "Chain by Distance"
 msgstr "Falloff Mesafesi"
 
@@ -15947,6 +15935,10 @@ msgstr "Arkaplan Resmi Kullan"
 msgctxt "Operator"
 msgid "Dynamic Topology Toggle"
 msgstr "Vida Aracını çalıştırır"
+
+
+msgid "Sharpen"
+msgstr "Keskinlik"
 
 
 msgctxt "Operator"
@@ -16947,6 +16939,10 @@ msgstr "Seçimi İmlece"
 
 msgid "Select a loop of connected UV vertices"
 msgstr "Bağlantılı başka nokta(lar) seçmelisiniz "
+
+
+msgid "Island selection mode"
+msgstr "Kamera Uçuş Modu"
 
 
 msgctxt "Operator"
@@ -18443,10 +18439,6 @@ msgstr "Fırça Kütüphanesi"
 
 
 msgid "New Handles Type"
-msgstr "Nesne Tipini Değiştir..."
-
-
-msgid "New Interpolation Type"
 msgstr "Nesne Tipini Değiştir..."
 
 
@@ -20038,6 +20030,14 @@ msgid "Outline"
 msgstr "Anahat"
 
 
+msgid "Black"
+msgstr "Siyah"
+
+
+msgid "White"
+msgstr "Beyaz"
+
+
 msgid "Pivot center for rotation/scaling"
 msgstr "Çevirme/Ölçekleme Ekseni (Kısayollar: Virgül, Shift Virgül)"
 
@@ -20560,18 +20560,6 @@ msgstr "İmaj bağlarına gözat"
 
 msgid "Snap to Pixels"
 msgstr "Izgarayı yakala:"
-
-
-msgid "Sticky Selection Mode"
-msgstr "Kamera Uçuş Modu"
-
-
-msgid "Shared Location"
-msgstr "Konum Kısıtlamaları"
-
-
-msgid "Shared Vertex"
-msgstr "Nokta Boyama"
 
 
 msgid "Live Unwrap"
@@ -21494,8 +21482,16 @@ msgid "UV Selection Mode"
 msgstr "Kamera Uçuş Modu"
 
 
-msgid "Island selection mode"
+msgid "Sticky Selection Mode"
 msgstr "Kamera Uçuş Modu"
+
+
+msgid "Shared Location"
+msgstr "Konum Kısıtlamaları"
+
+
+msgid "Shared Vertex"
+msgstr "Nokta Boyama"
 
 
 msgid "Vertex Group Weight"
@@ -21592,10 +21588,6 @@ msgstr "Yatay Eksen"
 
 msgid "Draw Normals"
 msgstr "Normalleri Çiz"
-
-
-msgid "Edge Angle"
-msgstr "Çevirme Açısı: "
 
 
 msgid "Display face normals as lines"
@@ -21725,10 +21717,6 @@ msgstr "Anahtarkare Numaralarını Göster"
 
 msgid "After"
 msgstr "Sonra"
-
-
-msgid "To"
-msgstr "Kenardan Kenara"
 
 
 msgid "+ Non-Grouped Keyframes"
@@ -22559,11 +22547,6 @@ msgstr "Aktif Kamera"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "Kamera"
-
-
-msgctxt "Operator"
 msgid "Align Active Camera to View"
 msgstr "Kamerayı Görüntüye Hizala"
 
@@ -22571,11 +22554,6 @@ msgstr "Kamerayı Görüntüye Hizala"
 msgctxt "Operator"
 msgid "Align Active Camera to Selected"
 msgstr "Aktif Kamerayı Seçilene Hizala"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "Ön"
 
 
 msgctxt "Operator"
@@ -22696,6 +22674,11 @@ msgstr "Yol"
 msgctxt "Operator"
 msgid "Single Bone"
 msgstr "Kemik Kısıtlamaları"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "Kamera"
 
 
 msgctxt "Operator"
@@ -23433,10 +23416,6 @@ msgid "Reset operator defaults"
 msgstr "Kullanıcı ayarlarını (varsayılanı) kaydet"
 
 
-msgid "Proxy Protected"
-msgstr "Vekil Korumalıdır"
-
-
 msgid "Delete the active position"
 msgstr "Aktif pozisyonu sil"
 
@@ -24162,12 +24141,12 @@ msgid "Tilt of curve control points"
 msgstr "Seçili yüzeylerin açılarını düzleştirir"
 
 
-msgid "Depth too large"
-msgstr "Kemik Katmanlarınını Değiştir..."
-
-
 msgid "Cannot fly an object with constraints"
 msgstr "Tüm Nesne Merkezleri"
+
+
+msgid "Depth too large"
+msgstr "Kemik Katmanlarınını Değiştir..."
 
 
 msgid "Auto Keying On"

@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: 2015-03-03 16:21+0530\n"
@@ -1048,12 +1048,16 @@ msgid "View"
 msgstr "दृश्य"
 
 
-msgid "Steps"
-msgstr "कदम"
+msgid "Index"
+msgstr "सूचकांक"
 
 
 msgid "Radius"
 msgstr "त्रिज्या"
+
+
+msgid "Steps"
+msgstr "कदम"
 
 
 msgid "Render"
@@ -1361,10 +1365,6 @@ msgid "Frame"
 msgstr "गठन"
 
 
-msgid "Index"
-msgstr "सूचकांक"
-
-
 msgid "Maximum Distance"
 msgstr "अधिकतम दूरी"
 
@@ -1471,10 +1471,6 @@ msgstr "ध्वनि"
 
 msgid "Text"
 msgstr "पाठ"
-
-
-msgid "Hair"
-msgstr "बाल"
 
 
 msgid "Window Manager"
@@ -1748,6 +1744,10 @@ msgstr "पैना"
 
 msgid "Step"
 msgstr "कदम"
+
+
+msgid "Negative"
+msgstr "नकारात्मक"
 
 
 msgid "Fixed"
@@ -2250,6 +2250,10 @@ msgid "Cube"
 msgstr "घन"
 
 
+msgid "Hair"
+msgstr "बाल"
+
+
 msgid "Edges"
 msgstr "किनारों"
 
@@ -2384,10 +2388,6 @@ msgstr "शिल्प रूप"
 
 msgid "Motion Path"
 msgstr "गति पथ"
-
-
-msgid "Proxy"
-msgstr "प्रॉक्सी"
 
 
 msgid "Rigid Body Constraint"
@@ -2747,6 +2747,22 @@ msgid "Ctrl"
 msgstr "नियंत्रण"
 
 
+msgid "North"
+msgstr "उत्तर"
+
+
+msgid "East"
+msgstr "पूर्व"
+
+
+msgid "South"
+msgstr "दक्षिण"
+
+
+msgid "West"
+msgstr "पश्चिम"
+
+
 msgid "User Modified"
 msgstr "संशोधित प्रयोक्ता"
 
@@ -2765,22 +2781,6 @@ msgstr "प्रेस"
 
 msgid "Click"
 msgstr "क्लिक करें"
-
-
-msgid "North"
-msgstr "उत्तर"
-
-
-msgid "East"
-msgstr "पूर्व"
-
-
-msgid "South"
-msgstr "दक्षिण"
-
-
-msgid "West"
-msgstr "पश्चिम"
 
 
 msgid "Paths"
@@ -2870,6 +2870,10 @@ msgstr "संपादन"
 msgctxt "MovieClip"
 msgid "Clip"
 msgstr "छांटन"
+
+
+msgid "Proxy"
+msgstr "प्रॉक्सी"
 
 
 msgid "Reconstruction"
@@ -3015,10 +3019,6 @@ msgstr "सीवन"
 
 msgid "Ball"
 msgstr "गेंद"
-
-
-msgid "Negative"
-msgstr "नकारात्मक"
 
 
 msgid "Mesh Cache"
@@ -3252,6 +3252,10 @@ msgstr "एस"
 
 msgid "Jpeg"
 msgstr "जेपीईजी"
+
+
+msgid "To"
+msgstr "करने के लिए"
 
 
 msgid "X2"
@@ -3857,14 +3861,6 @@ msgstr "उप विभाजन"
 
 msgid "Modifier"
 msgstr "संशोधक"
-
-
-msgid "Black"
-msgstr "कृष्ण"
-
-
-msgid "White"
-msgstr "श्वेत"
 
 
 msgid "Create a new image"
@@ -5147,6 +5143,14 @@ msgid "Spring Vertex Group"
 msgstr "लचक शिरोबिन्दु समूह"
 
 
+msgid "Black"
+msgstr "कृष्ण"
+
+
+msgid "White"
+msgstr "श्वेत"
+
+
 msgctxt "MovieClip"
 msgid "View"
 msgstr "दृश्य"
@@ -5590,10 +5594,6 @@ msgstr "नियम पुस्तिका"
 
 msgid "After"
 msgstr "के बाद"
-
-
-msgid "To"
-msgstr "करने के लिए"
 
 
 msgctxt "Operator"
@@ -6056,16 +6056,6 @@ msgstr "सक्रिय प्रतिबिंबक"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "प्रतिबिंबक"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "सामने"
-
-
-msgctxt "Operator"
 msgid "Child"
 msgstr "कारक"
 
@@ -6118,6 +6108,11 @@ msgstr "बंदर"
 msgctxt "Operator"
 msgid "Path"
 msgstr "पथ"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "प्रतिबिंबक"
 
 
 msgctxt "Operator"
@@ -6262,10 +6257,6 @@ msgid "Loading '%s' failed: "
 msgstr "उद्भरण में  '%s' विफल: "
 
 
-msgid "Could not open directory '%s'"
-msgstr "निर्देशिका  नहीं खोल सका '%s'"
-
-
 msgid "Not enough free memory"
 msgstr "मुक्त स्मृति पर्याप्त नहीं है"
 
@@ -6349,10 +6340,6 @@ msgstr "गठन लेखन में त्रुटि"
 
 msgid "No valid formats found"
 msgstr "कोई मान्य स्वरूप नहीं मिला"
-
-
-msgid "Error opening output file"
-msgstr "उत्पादित संचिका को खोलने में त्रुटि"
 
 
 msgid "Render width has to be 720 pixels for DV!"

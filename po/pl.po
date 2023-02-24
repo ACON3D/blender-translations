@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: 2017-08-26 11:13+0200\n"
@@ -736,6 +736,10 @@ msgstr "Margines"
 
 msgid "Extends the baked result as a post process filter"
 msgstr "Rozszerzenie marginesów obliczane jako filtr końcowy"
+
+
+msgid "Extend"
+msgstr "Rozszerz"
 
 
 msgid "Normal Space"
@@ -2883,14 +2887,6 @@ msgid "Amount of influence constraint will have on the final solution"
 msgstr "Wielkość wpływu jaki będzie miał ogranicznik na końcowe rozwiązanie"
 
 
-msgid "Proxy Local"
-msgstr "Lokalny proxy"
-
-
-msgid "Constraint was added in this proxy instance (i.e. did not belong to source Armature)"
-msgstr "Ogranicznik został dodany w tej instancji proxy (np. nie należał do źródłowego szkieletu)"
-
-
 msgid "Constraint has valid settings and can be evaluated"
 msgstr "Ogranicznik ma prawidłowe ustawienia i może zostać wyliczony"
 
@@ -4299,10 +4295,6 @@ msgid "Method used for determining the scaling of the X and Z axes of the bones"
 msgstr "Metoda używana do określenia skalowania osi X oraz Z kości"
 
 
-msgid "Don't scale the X and Z axes (Default)"
-msgstr "Nie skaluj osi X i Z (domyślnie)"
-
-
 msgid "Bone Original"
 msgstr "Kość oryginalna"
 
@@ -4599,10 +4591,6 @@ msgid "Clip Min Y"
 msgstr "Przytnij min Y"
 
 
-msgid "Extend"
-msgstr "Rozszerz"
-
-
 msgid "Extrapolate the curve or extend it horizontally"
 msgstr "Ekstrapoluj krzywą lub rozszerz ją poziomo"
 
@@ -4633,6 +4621,10 @@ msgstr "Dla krzywych RGB - jest to kolor na który mapowany jest kolor biały"
 
 msgid "Plane"
 msgstr "Płaszczyzna"
+
+
+msgid "Index"
+msgstr "Indeks"
 
 
 msgid "Scene"
@@ -5037,10 +5029,6 @@ msgstr "Źródła danych wejściowych do określenia w tej zmiennej"
 
 msgid "Single Property"
 msgstr "Pojedyncza właściwość"
-
-
-msgid "Use the value from some RNA property (Default)"
-msgstr "Użyj wartości z jakichś danych RNA (domyślnie)"
 
 
 msgid "Final transformation value of object or bone"
@@ -5680,10 +5668,6 @@ msgid "MPEG-4"
 msgstr "MPEG-4"
 
 
-msgid "Quicktime"
-msgstr "Quicktime"
-
-
 msgid "Ogg"
 msgstr "Ogg"
 
@@ -6056,10 +6040,6 @@ msgid "Scaling (in time) of the noise"
 msgstr "Skalowanie (w czasie) szumu"
 
 
-msgid "Index"
-msgstr "Indeks"
-
-
 msgid "Maximum Distance"
 msgstr "Maksymalna odległość"
 
@@ -6377,16 +6357,16 @@ msgid "Active Track"
 msgstr "Aktywna Ścieżka"
 
 
+msgid "To"
+msgstr "Do"
+
+
 msgid "Remove"
 msgstr "Usuń"
 
 
 msgid "Zoom"
 msgstr "Zbliżenie"
-
-
-msgid "Sharpen"
-msgstr "Wyostrzenie"
 
 
 msgid "Sobel"
@@ -6417,10 +6397,6 @@ msgid "Y Axis"
 msgstr "Oś Y"
 
 
-msgid "Z Axis"
-msgstr "Oś Z"
-
-
 msgid "Layer Weight"
 msgstr "Waga warstwy"
 
@@ -6438,6 +6414,10 @@ msgstr "Oś Y"
 
 
 msgid "Z axis"
+msgstr "Oś Z"
+
+
+msgid "Z Axis"
 msgstr "Oś Z"
 
 
@@ -6517,6 +6497,10 @@ msgstr "Potomek"
 
 msgid "Hinge"
 msgstr "Zawias"
+
+
+msgid "Sharpen"
+msgstr "Wyostrzenie"
 
 
 msgid "Property"
@@ -6633,10 +6617,6 @@ msgid "Active object is not a mesh"
 msgstr "Aktywny obiekt nie jest siatką"
 
 
-msgid "To"
-msgstr "Do"
-
-
 msgctxt "Operator"
 msgid "Remove"
 msgstr "Usuń"
@@ -6674,6 +6654,10 @@ msgstr "Płaskie"
 
 msgid "Layer:"
 msgstr "Warstwa:"
+
+
+msgid "Linking or appending from a very old .blend file format (%d.%d), no animation conversion will be done! You may want to re-save your lib file with current Blender"
+msgstr "Powiązanie lub dołączenie z bardzo starego formatu .blend (%d.%d), dane o animacji nie zostaną przystosowane! Spróbuj zapisać źródłowy plik zawierający bibliotekę w aktualnym formacie pliku .blend"
 
 
 msgid "Const"
@@ -6981,10 +6965,6 @@ msgstr "Błąd zapisu klatki"
 
 msgid "No valid formats found"
 msgstr "Nie odnaleziono poprawnych formatów"
-
-
-msgid "Error opening output file"
-msgstr "Błąd przy otwieraniu pliku docelowego"
 
 
 msgid "Render width has to be 720 pixels for DV!"
@@ -7391,10 +7371,6 @@ msgid "Cannot pose libdata"
 msgstr "Nie można ustawiać póz danych biblioteki"
 
 
-msgid "Undo of hiding can only be done with Reveal Selected"
-msgstr "Cofnięcie ukrywania może być przeprowadzone wyłącznie z Pokaż Zaznaczone"
-
-
 msgid "Add New"
 msgstr "Dodaj Nowy"
 
@@ -7493,10 +7469,6 @@ msgstr "Nie można oddzielić obecnego zaznaczenia"
 
 msgid "Cannot split current selection"
 msgstr "Nie można rozdzielić obecnego zaznaczenia"
-
-
-msgid "Not yet implemented"
-msgstr "Jeszcze nie zaimplementowano"
 
 
 msgid "Too few selections to merge"
@@ -7929,14 +7901,6 @@ msgid "Reset operator defaults"
 msgstr "Resetuj domyślne dla operatora"
 
 
-msgid "Proxy Protected"
-msgstr "Zastępca Chroniony"
-
-
-msgid "Cannot edit Proxy-Protected Constraint"
-msgstr "Nie można edytować ogranicznika zabezpieczonego zastępcą"
-
-
 msgid "Delete the active position"
 msgstr "Usuń aktywną pozycję"
 
@@ -8310,6 +8274,14 @@ msgstr "Nie mogę rozpruć zaznaczonych ścian"
 
 msgid "Cannot rip multiple disconnected vertices"
 msgstr "Nie mogę rozpruć wielu rozłączonych wierzchołków"
+
+
+msgid "Vertex select - Shift-Click for multiple modes, Ctrl-Click contracts selection"
+msgstr "Zaznaczanie wierzchołków - Shift-klik dla trybów mieszanych, Ctrl-klik zawęża wybór"
+
+
+msgid "Face select - Shift-Click for multiple modes, Ctrl-Click expands selection"
+msgstr "Zaznaczanie ścian - Shift-klik dla trybów mieszanych, Ctrl-klik rozszerza wybór"
 
 
 msgid "No face regions selected"
@@ -9266,20 +9238,20 @@ msgid "expected a view3d region & editcurve"
 msgstr "Spodziewany region view3d oraz editcurve"
 
 
-msgid "Image requires 4 color channels to paint: %s"
-msgstr "Obraz wymaga 4 kanałów koloru do malowania: %s"
-
-
-msgid "Packed MultiLayer files cannot be painted: %s"
-msgstr "Spakowany plik MultiLayer nie może być malowany: %s"
-
-
 msgid "Packed MultiLayer files cannot be painted"
 msgstr "Spakowane pliki MultiLayer nie mogą być malowane"
 
 
 msgid "Image requires 4 color channels to paint"
 msgstr "Obraz wymaga 4 kanałów koloru do malowania"
+
+
+msgid "Image requires 4 color channels to paint: %s"
+msgstr "Obraz wymaga 4 kanałów koloru do malowania: %s"
+
+
+msgid "Packed MultiLayer files cannot be painted: %s"
+msgstr "Spakowany plik MultiLayer nie może być malowany: %s"
 
 
 msgid "No active mesh object"
@@ -9322,14 +9294,6 @@ msgid "No active vertex group for painting, aborting"
 msgstr "Brak aktywnej grupy wierzchołków do malowania, rezygnuję"
 
 
-msgid "Object has non-uniform scale, sculpting may be unpredictable"
-msgstr "Obiekt ma niejednolitą skalę, rzeźbienie może dać nieprzewidywalne skutki"
-
-
-msgid "Object has negative scale, sculpting may be unpredictable"
-msgstr "Obiekt ma skalę ujemną, rzeźbienie może dać nieprzewidywalne skutki"
-
-
 msgid "Warning!"
 msgstr "Uwaga!"
 
@@ -9352,6 +9316,14 @@ msgstr "Wykryto Modyfikatory Produktywne!"
 
 msgid "Keeping the modifiers will increase polycount when returning to object mode"
 msgstr "Zachowanie modyfikatorów zwiększy gęstość geometrii przy powrocie do trybu obiektowego"
+
+
+msgid "Object has non-uniform scale, sculpting may be unpredictable"
+msgstr "Obiekt ma niejednolitą skalę, rzeźbienie może dać nieprzewidywalne skutki"
+
+
+msgid "Object has negative scale, sculpting may be unpredictable"
+msgstr "Obiekt ma skalę ujemną, rzeźbienie może dać nieprzewidywalne skutki"
 
 
 msgid "Compiled without sound support"
@@ -9927,16 +9899,20 @@ msgid "Not found: %s"
 msgstr "Nie odnaleziono: %s"
 
 
+msgid "Not yet implemented"
+msgstr "Jeszcze nie zaimplementowano"
+
+
 msgid "Mixed selection"
 msgstr "Zaznaczenie mieszane"
 
 
-msgid "Strip None"
-msgstr "Pasek None"
-
-
 msgid "(empty)"
 msgstr "(pusty)"
+
+
+msgid "Strip None"
+msgstr "Pasek None"
 
 
 msgid "Can't reload with running modal operators"
@@ -10207,18 +10183,6 @@ msgid "fps: %i"
 msgstr "klatkaż: %i"
 
 
-msgid "Depth too large"
-msgstr "Za duża głębia"
-
-
-msgid "Vertex select - Shift-Click for multiple modes, Ctrl-Click contracts selection"
-msgstr "Zaznaczanie wierzchołków - Shift-klik dla trybów mieszanych, Ctrl-klik zawęża wybór"
-
-
-msgid "Face select - Shift-Click for multiple modes, Ctrl-Click expands selection"
-msgstr "Zaznaczanie ścian - Shift-klik dla trybów mieszanych, Ctrl-klik rozszerza wybór"
-
-
 msgid "Cannot fly a camera from an external library"
 msgstr "Nie można oblatywać (fly) kamery z biblioteki zawnętrznej"
 
@@ -10241,6 +10205,10 @@ msgstr "Nie można nawigować gdy przesunięcie widoku jest zablokowane"
 
 msgid "Cannot navigate an object with constraints"
 msgstr "Nie można nawigować obiektem z ogranicznikami"
+
+
+msgid "Depth too large"
+msgstr "Za duża głębia"
 
 
 msgid "No active camera"
@@ -11556,10 +11524,6 @@ msgstr "To nie jest biblioteka"
 
 msgid "Nothing indicated"
 msgstr "Nic nie wskazano"
-
-
-msgid "Linking or appending from a very old .blend file format (%d.%d), no animation conversion will be done! You may want to re-save your lib file with current Blender"
-msgstr "Powiązanie lub dołączenie z bardzo starego formatu .blend (%d.%d), dane o animacji nie zostaną przystosowane! Spróbuj zapisać źródłowy plik zawierający bibliotekę w aktualnym formacie pliku .blend"
 
 
 msgid "ON"

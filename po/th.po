@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: 2019-12-08 17:40+0700\n"
@@ -762,12 +762,12 @@ msgid "View"
 msgstr "มุมมอง"
 
 
-msgid "Segments"
-msgstr "ส่วน"
-
-
 msgid "Radius"
 msgstr "รัศมี"
+
+
+msgid "Segments"
+msgstr "ส่วน"
 
 
 msgid "Viewport"
@@ -1052,10 +1052,6 @@ msgstr "ตามเวลาจริง"
 
 msgid "MPEG-4"
 msgstr "MPEG-4"
-
-
-msgid "Quicktime"
-msgstr "Quicktime"
 
 
 msgid "Ogg"
@@ -2389,6 +2385,10 @@ msgid "S"
 msgstr "S"
 
 
+msgid "To"
+msgstr "ไปยัง"
+
+
 msgid "Remove"
 msgstr "ลบ"
 
@@ -2433,10 +2433,6 @@ msgid "Translate"
 msgstr "เลื่อนขนาน"
 
 
-msgid "Z Axis"
-msgstr "แกน Z"
-
-
 msgid "Object Info"
 msgstr "ข้อมูลวัตถุ"
 
@@ -2450,6 +2446,10 @@ msgstr "ไซเคิล"
 
 
 msgid "Z axis"
+msgstr "แกน Z"
+
+
+msgid "Z Axis"
 msgstr "แกน Z"
 
 
@@ -4158,10 +4158,6 @@ msgid "Frame Numbers"
 msgstr "หมายเลขเฟรม"
 
 
-msgid "To"
-msgstr "ไปยัง"
-
-
 msgid "+ Non-Grouped Keyframes"
 msgstr "+ คีย์เฟรมที่ไม่มีกลุ่ม"
 
@@ -4611,11 +4607,6 @@ msgstr "ดูอนิเมชัน"
 
 
 msgctxt "Operator"
-msgid "Undo History..."
-msgstr "ประวัติการเลิกทำ..."
-
-
-msgctxt "Operator"
 msgid "Repeat History..."
 msgstr "ประวัติการทำซ้ำ..."
 
@@ -4663,11 +4654,6 @@ msgstr "บันทึกเป็น..."
 msgctxt "Operator"
 msgid "General"
 msgstr "ทั่วไป"
-
-
-msgctxt "Operator"
-msgid "Collada (Default) (.dae)"
-msgstr "Collada (ค่าเริ่มต้น) (.dae)"
 
 
 msgctxt "Operator"
@@ -4824,11 +4810,6 @@ msgstr "กล้องที่กำลังใช้งาน"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "กล้อง"
-
-
-msgctxt "Operator"
 msgid "Zoom Region..."
 msgstr "ขอบเขตการซูม..."
 
@@ -4841,11 +4822,6 @@ msgstr "จัดกล้องที่ใช้งานไปยังมุ
 msgctxt "Operator"
 msgid "Align Active Camera to Selected"
 msgstr "จัดกล้องที่ใช้งานไปยังวัตถุที่เลือก"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "หน้า"
 
 
 msgctxt "Operator"
@@ -4951,6 +4927,11 @@ msgstr "เส้นทาง"
 msgctxt "Operator"
 msgid "Single Bone"
 msgstr "กระดูกเดี่ยว"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "กล้อง"
 
 
 msgctxt "Operator"
@@ -5455,6 +5436,14 @@ msgid "Icosphere"
 msgstr "ทรงกลม Ico"
 
 
+msgid "Vertex select - Shift-Click for multiple modes, Ctrl-Click contracts selection"
+msgstr "เลือกจุดยอด"
+
+
+msgid "Face select - Shift-Click for multiple modes, Ctrl-Click expands selection"
+msgstr "เลือกด้าน"
+
+
 msgid "%s %s to %s"
 msgstr "%s %s ไปยัง %s"
 
@@ -5602,14 +5591,6 @@ msgstr "ภาพฉาย"
 
 msgid "User Perspective"
 msgstr "ทัศนมิติ"
-
-
-msgid "Vertex select - Shift-Click for multiple modes, Ctrl-Click contracts selection"
-msgstr "เลือกจุดยอด"
-
-
-msgid "Face select - Shift-Click for multiple modes, Ctrl-Click expands selection"
-msgstr "เลือกด้าน"
 
 
 msgid " along Y axis"

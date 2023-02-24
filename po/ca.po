@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: \n"
@@ -886,6 +886,10 @@ msgid "Saturation"
 msgstr "Esborrar Rotació"
 
 
+msgid "Active Layer"
+msgstr "Moure a Capa"
+
+
 msgid "Path"
 msgstr "Camí"
 
@@ -1293,10 +1297,6 @@ msgstr "Seleccionar fila"
 
 msgid "Lin error"
 msgstr "Seleccionar fila"
-
-
-msgid "Proxy Local"
-msgstr "Pintura Vectorial"
 
 
 msgid "Disable"
@@ -3968,6 +3968,42 @@ msgid "Mirror Modifier"
 msgstr "Esborrar tot"
 
 
+msgid "Shrinkwrap Modifier"
+msgstr "Contreure/Engreixar"
+
+
+msgid "Auxiliary Target"
+msgstr "Afegir Tira"
+
+
+msgid "Distance to keep from the target"
+msgstr "Esborrar"
+
+
+msgid "Project Limit"
+msgstr "Image Displist"
+
+
+msgid "Negative"
+msgstr "Mostrar Tot"
+
+
+msgid "Positive"
+msgstr "Afegir Tira"
+
+
+msgid "Shrink the mesh to the nearest target surface"
+msgstr "Seleccionar connectats"
+
+
+msgid "Shrink the mesh to the nearest target surface along a given axis"
+msgstr "Seleccionar connectats"
+
+
+msgid "Shrink the mesh to the nearest target vertex"
+msgstr "Seleccionar connectats"
+
+
 msgid "Adaptive"
 msgstr "Moure a Capa"
 
@@ -4022,10 +4058,6 @@ msgstr "Dreta"
 
 msgid "Grid Scale"
 msgstr "Desparentar"
-
-
-msgid "Active Layer"
-msgstr "Moure a Capa"
 
 
 msgid "Red"
@@ -5574,10 +5606,6 @@ msgstr "Corba"
 
 msgid "Current pose for armatures"
 msgstr "Començar Joc"
-
-
-msgid "Proxy"
-msgstr "Pintura Vectorial"
 
 
 msgid "Rigid Body Settings"
@@ -7247,6 +7275,10 @@ msgid "Clip"
 msgstr "Esborrar Rotació"
 
 
+msgid "Proxy"
+msgstr "Pintura Vectorial"
+
+
 msgid "Reconstruction"
 msgstr "Esborrar Rotació"
 
@@ -7550,10 +7582,6 @@ msgstr "Duplicar"
 
 msgid "Metaball types"
 msgstr "MetaBall"
-
-
-msgid "Negative"
-msgstr "Mostrar Tot"
 
 
 msgid "UV Project"
@@ -8278,38 +8306,6 @@ msgstr "Esborrar Rotació"
 
 msgid "Object Screw"
 msgstr "Comprimir Dades"
-
-
-msgid "Shrinkwrap Modifier"
-msgstr "Contreure/Engreixar"
-
-
-msgid "Auxiliary Target"
-msgstr "Afegir Tira"
-
-
-msgid "Distance to keep from the target"
-msgstr "Esborrar"
-
-
-msgid "Project Limit"
-msgstr "Image Displist"
-
-
-msgid "Positive"
-msgstr "Afegir Tira"
-
-
-msgid "Shrink the mesh to the nearest target surface"
-msgstr "Seleccionar connectats"
-
-
-msgid "Shrink the mesh to the nearest target surface along a given axis"
-msgstr "Seleccionar connectats"
-
-
-msgid "Shrink the mesh to the nearest target vertex"
-msgstr "Seleccionar connectats"
 
 
 msgid "SimpleDeform Modifier"
@@ -9572,6 +9568,10 @@ msgid "Color Spill"
 msgstr "Desparentar"
 
 
+msgid "To"
+msgstr "Superior"
+
+
 msgid "Crop Image Size"
 msgstr "Image Displist"
 
@@ -9682,10 +9682,6 @@ msgstr "Amagar Seleccionats"
 
 msgid "Ellipse Mask"
 msgstr "Esborrar Pista"
-
-
-msgid "Sharpen"
-msgstr "Desparentar"
 
 
 msgid "Laplace"
@@ -10088,8 +10084,8 @@ msgid "Linear interpolation"
 msgstr "Esborrar Rotació"
 
 
-msgid "Z Axis"
-msgstr "Ampliar"
+msgid "Edge Angle"
+msgstr "Seleccionar fila"
 
 
 msgid "Fill Type"
@@ -10366,6 +10362,10 @@ msgstr "Seleccionar connectats"
 
 msgid "Vector Math"
 msgstr "Tangents lineals"
+
+
+msgid "Z Axis"
+msgstr "Ampliar"
 
 
 msgid "Texture Node"
@@ -12539,10 +12539,6 @@ msgid "Export selected objects only"
 msgstr "Seleccionar connectats"
 
 
-msgid "Export the active UV layer"
-msgstr "Seleccionar fila"
-
-
 msgctxt "Operator"
 msgid "Export STL"
 msgstr "Seleccionar fila"
@@ -13124,14 +13120,6 @@ msgstr "Seleccionar connectats"
 msgctxt "Operator"
 msgid "Snap Selection to Grid"
 msgstr "Seleccionar connectats"
-
-
-msgid "Black"
-msgstr "Negre"
-
-
-msgid "White"
-msgstr "Blanc"
 
 
 msgctxt "Operator"
@@ -17590,6 +17578,10 @@ msgid "Sculpt a stroke into the geometry"
 msgstr "Amagar Seleccionats"
 
 
+msgid "Sharpen"
+msgstr "Desparentar"
+
+
 msgctxt "Operator"
 msgid "Sculpt Mode"
 msgstr "Mode d'Edició"
@@ -18701,6 +18693,14 @@ msgstr "Seleccionar fila"
 
 msgid "Select UVs using lasso selection"
 msgstr "Seleccionar connectats"
+
+
+msgid "Island"
+msgstr "Guardar imatge"
+
+
+msgid "Island selection mode"
+msgstr "Amagar Seleccionats"
 
 
 msgctxt "Operator"
@@ -21856,6 +21856,14 @@ msgid "Outline"
 msgstr "Perfilar"
 
 
+msgid "Black"
+msgstr "Negre"
+
+
+msgid "White"
+msgstr "Blanc"
+
+
 msgid "Length of displaying path, in frames"
 msgstr "Esborrar"
 
@@ -22410,18 +22418,6 @@ msgstr "Afegir Tira"
 
 msgid "Snap to Pixels"
 msgstr "Afegir Tira"
-
-
-msgid "Sticky Selection Mode"
-msgstr "Seleccionar connectats"
-
-
-msgid "Shared Location"
-msgstr "Esborrar Posició"
-
-
-msgid "Shared Vertex"
-msgstr "Moure a Capa"
 
 
 msgid "Bezier Points"
@@ -23520,12 +23516,16 @@ msgid "UV selection and display mode"
 msgstr "Seleccionar connectats"
 
 
-msgid "Island"
-msgstr "Guardar imatge"
+msgid "Sticky Selection Mode"
+msgstr "Seleccionar connectats"
 
 
-msgid "Island selection mode"
-msgstr "Amagar Seleccionats"
+msgid "Shared Location"
+msgstr "Esborrar Posició"
+
+
+msgid "Shared Vertex"
+msgstr "Moure a Capa"
 
 
 msgid "Vertex Group Weight"
@@ -23644,10 +23644,6 @@ msgid "Display UV unwrapping seams"
 msgstr "Mostrar propietats de les arestes"
 
 
-msgid "Edge Angle"
-msgstr "Seleccionar fila"
-
-
 msgid "Display the index numbers of selected vertices, edges, and faces"
 msgstr "Seleccionar connectats"
 
@@ -23761,10 +23757,6 @@ msgstr "Joc"
 
 msgid "Keyframe Numbers"
 msgstr "Joc"
-
-
-msgid "To"
-msgstr "Superior"
 
 
 msgid "+ Non-Grouped Keyframes"
@@ -24529,11 +24521,6 @@ msgstr "Moure a Capa"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "Càmera"
-
-
-msgctxt "Operator"
 msgid "Align Active Camera to View"
 msgstr "Amagar Seleccionats"
 
@@ -24541,11 +24528,6 @@ msgstr "Amagar Seleccionats"
 msgctxt "Operator"
 msgid "Align Active Camera to Selected"
 msgstr "Amagar Seleccionats"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "Frontal"
 
 
 msgctxt "Operator"
@@ -24646,6 +24628,11 @@ msgstr "&gt;Cercle Nurbs"
 msgctxt "Operator"
 msgid "Path"
 msgstr "Camí"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "Càmera"
 
 
 msgctxt "Operator"
@@ -25146,10 +25133,6 @@ msgid "Copy buffer is empty"
 msgstr "Seleccionar connectats"
 
 
-msgid "Not yet implemented"
-msgstr "Encara no s'ha implementat"
-
-
 msgid "Too few selections to merge"
 msgstr "Seleccionar connectats"
 
@@ -25309,10 +25292,6 @@ msgstr "Finestra de Render"
 
 msgid "Reset operator defaults"
 msgstr "Començar Joc"
-
-
-msgid "Proxy Protected"
-msgstr "Comprimir Dades"
 
 
 msgid "Delete the active position"
@@ -25824,6 +25803,10 @@ msgid "Operation requires an active keying set"
 msgstr "Canviar Str"
 
 
+msgid "Not yet implemented"
+msgstr "Encara no s'ha implementat"
+
+
 msgid "Mixed selection"
 msgstr "Seleccionar connectats"
 
@@ -25944,12 +25927,12 @@ msgid "Tilt of curve control points"
 msgstr "Seleccionar connectats"
 
 
-msgid "Depth too large"
-msgstr "Joc"
-
-
 msgid "Cannot fly an object with constraints"
 msgstr "Afegir Tira"
+
+
+msgid "Depth too large"
+msgstr "Joc"
 
 
 msgid "Auto Keying On"

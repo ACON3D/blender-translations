@@ -1,10 +1,10 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
-"PO-Revision-Date: 2021-11-28 21:02+0100\n"
+"PO-Revision-Date: 2021-12-05 20:05+0100\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -698,6 +698,10 @@ msgid "Mode Type"
 msgstr "Type Modus"
 
 
+msgid "Active Layer"
+msgstr "Actieve Laag"
+
+
 msgid "Object Path"
 msgstr "Object Pad"
 
@@ -991,6 +995,10 @@ msgid "View"
 msgstr "Weergave"
 
 
+msgid "Index"
+msgstr "Index"
+
+
 msgid "Segments"
 msgstr "Segmenten"
 
@@ -1070,11 +1078,6 @@ msgstr "Luidspreker"
 msgctxt "ID"
 msgid "Text"
 msgstr "Tekst"
-
-
-msgctxt "ID"
-msgid "Hair"
-msgstr "Haar"
 
 
 msgctxt "ID"
@@ -1300,10 +1303,6 @@ msgid "Value Offset"
 msgstr "Waardeverschuiving"
 
 
-msgid "Index"
-msgstr "Index"
-
-
 msgid "Maximum Distance"
 msgstr "Maximale Afstand"
 
@@ -1442,10 +1441,6 @@ msgstr "Geluid"
 
 msgid "Text"
 msgstr "Tekst"
-
-
-msgid "Hair"
-msgstr "Haar"
 
 
 msgid "World"
@@ -1862,6 +1857,10 @@ msgid "Used Length"
 msgstr "Gebruikte Lengte"
 
 
+msgid "Step"
+msgstr "Stap"
+
+
 msgid "Camera Object"
 msgstr "Camera Object"
 
@@ -1906,10 +1905,6 @@ msgid "Duplicates"
 msgstr "Duplicaten"
 
 
-msgid "Step"
-msgstr "Stap"
-
-
 msgid "Simple"
 msgstr "Simpel"
 
@@ -1924,10 +1919,6 @@ msgstr "Ruimte"
 
 msgid "Lowest"
 msgstr "Laagste"
-
-
-msgid "Active Layer"
-msgstr "Actieve Laag"
 
 
 msgid "R"
@@ -2310,7 +2301,7 @@ msgstr "Grote Y"
 
 
 msgid "Resolution X"
-msgstr "X resolutie"
+msgstr "Resolutie X"
 
 
 msgid "Resolution Y"
@@ -2319,6 +2310,10 @@ msgstr "Y resolutie"
 
 msgid "Cube"
 msgstr "Kubus"
+
+
+msgid "Hair"
+msgstr "Haar"
 
 
 msgid "Roughness"
@@ -2335,6 +2330,10 @@ msgstr "Schaduwmodus"
 
 msgid "Links"
 msgstr "Koppeling"
+
+
+msgid "Undefined"
+msgstr "Niet Gedefinieerd"
 
 
 msgid "Active Material"
@@ -2474,7 +2473,7 @@ msgstr "Snelheid van Geluid"
 
 
 msgid "3D Cursor"
-msgstr "#D Cursor"
+msgstr "3D Cursor"
 
 
 msgid "Current Frame"
@@ -3131,8 +3130,8 @@ msgid "Y Axis"
 msgstr "Y As"
 
 
-msgid "Z Axis"
-msgstr "Z As"
+msgid "Set Position"
+msgstr "Zet Positie"
 
 
 msgid "Layer Weight"
@@ -3149,6 +3148,14 @@ msgstr "Y as"
 
 msgid "Z axis"
 msgstr "Z as"
+
+
+msgid "Sun Rotation"
+msgstr "Rotatie Zon"
+
+
+msgid "Z Axis"
+msgstr "Z As"
 
 
 msgid "Node Socket"
@@ -3509,7 +3516,7 @@ msgstr "(De)selecteer Alles"
 
 msgctxt "Operator"
 msgid "Select Hierarchy"
-msgstr "Selecteer Hiearchie"
+msgstr "Selecteer Hiërarchie"
 
 
 msgid "Select Parent"
@@ -4950,11 +4957,6 @@ msgstr "Kopieer Aanpasser"
 
 
 msgctxt "Operator"
-msgid "Add Hair"
-msgstr "Voeg Haar Toe"
-
-
-msgctxt "Operator"
 msgid "Hide Collection"
 msgstr "Verberg Collectie"
 
@@ -5321,8 +5323,18 @@ msgid "Unlink Action"
 msgstr "Ontkoppel Actie"
 
 
+msgctxt "Operator"
+msgid "Duplicate Collection"
+msgstr "Dupliceer Collectie"
+
+
 msgid "Render the collection"
 msgstr "Render de collectie"
+
+
+msgctxt "Operator"
+msgid "Delete Hierarchy"
+msgstr "Verwijder Hiërarchie"
 
 
 msgid "Delete selected objects and collections"
@@ -5354,7 +5366,7 @@ msgstr "Herlaad alle data van deze bibliotheek"
 
 
 msgid "Select Hierarchy"
-msgstr "Selecteer Hiearchie"
+msgstr "Selecteer Hiërarchie"
 
 
 msgctxt "Operator"
@@ -5362,8 +5374,17 @@ msgid "Unhide All"
 msgstr "Maak Alles Zichtbaar"
 
 
+msgid "Place cursor"
+msgstr "Plaats cursor"
+
+
 msgid "(De)select all"
 msgstr "(De)selecteer alles"
+
+
+msgctxt "Operator"
+msgid "Hide/Show"
+msgstr "Verberg/Toon"
 
 
 msgctxt "Operator"
@@ -5413,6 +5434,10 @@ msgstr "Ontkoppel Poses Bibliotheek"
 msgctxt "Operator"
 msgid "Apply Pose as Rest Pose"
 msgstr "Pas Pose als Rust Pose Toe"
+
+
+msgid "Rotation only"
+msgstr "Alleen Rotatie"
 
 
 msgid "Next Keyframe"
@@ -6104,6 +6129,10 @@ msgid "Pinned"
 msgstr "Vastgeprikt"
 
 
+msgid "Island"
+msgstr "Eiland"
+
+
 msgctxt "Operator"
 msgid "Select Split"
 msgstr "Selecteer Splits"
@@ -6253,6 +6282,10 @@ msgstr "Herlaad Bibliotheek"
 msgctxt "Operator"
 msgid "Memory Statistics"
 msgstr "Geheugen Statistieken"
+
+
+msgid "Object Properties"
+msgstr "Objecteigenschappen"
 
 
 msgid "Open a Blender file"
@@ -6494,6 +6527,16 @@ msgstr "Aangepaste Afstand"
 
 
 msgctxt "Operator"
+msgid "Annotate"
+msgstr "Annotatie"
+
+
+msgctxt "Operator"
+msgid "Cursor"
+msgstr "Cursor"
+
+
+msgctxt "Operator"
 msgid "Scale"
 msgstr "Schalen"
 
@@ -6507,8 +6550,28 @@ msgid "Force Field Settings"
 msgstr "Instellingen Krachtveld"
 
 
+msgid "Type 1"
+msgstr "Type 1"
+
+
+msgid "Type 2"
+msgstr "Type 2"
+
+
+msgid "Structure"
+msgstr "Structuur"
+
+
+msgid "Hair Shape"
+msgstr "Haarvorm"
+
+
 msgid "Springs"
 msgstr "Veren"
+
+
+msgid "Forces"
+msgstr "Krachten"
 
 
 msgid "Sensitivity"
@@ -6567,6 +6630,11 @@ msgid "Tablet"
 msgstr "Tablet"
 
 
+msgctxt "WindowManager"
+msgid "Translation"
+msgstr "Vertaling"
+
+
 msgid "Fly & Walk"
 msgstr "Vliegen & Lopen"
 
@@ -6577,6 +6645,10 @@ msgstr "Lopen"
 
 msgid "Save Preferences"
 msgstr "Sla instellingen Op"
+
+
+msgid "Blend Files"
+msgstr "Blenderbestanden"
 
 
 msgid "Auto Save"
@@ -7039,10 +7111,6 @@ msgid "Collection Properties"
 msgstr "Collectie-eigenschappen"
 
 
-msgid "Object Properties"
-msgstr "Objecteigenschappen"
-
-
 msgid "Bone Properties"
 msgstr "Bot Eigenschappen"
 
@@ -7161,10 +7229,6 @@ msgstr "Alleen Locaties"
 
 msgid "Transform Parents"
 msgstr "Transformeer Ouders"
-
-
-msgid "Island"
-msgstr "Eiland"
 
 
 msgid "All Vertex Groups"
@@ -7572,6 +7636,11 @@ msgstr "Eindpunt"
 
 
 msgctxt "Operator"
+msgid "Custom..."
+msgstr "Aangepast..."
+
+
+msgctxt "Operator"
 msgid "Show All"
 msgstr "Toon Alles"
 
@@ -7603,11 +7672,6 @@ msgstr "Nieuwe Laag"
 msgctxt "Operator"
 msgid "Remove All Groups"
 msgstr "Verwijder Alle Groepen"
-
-
-msgctxt "Operator"
-msgid "Custom..."
-msgstr "Aangepast..."
 
 
 msgctxt "Operator"
@@ -8287,11 +8351,6 @@ msgstr "Bekijk Animatie"
 
 
 msgctxt "Operator"
-msgid "Undo History..."
-msgstr "Maak Geschiedenis Ongedaan..."
-
-
-msgctxt "Operator"
 msgid "Repeat History..."
 msgstr "Herhaal Geschiedenis..."
 
@@ -8455,16 +8514,6 @@ msgstr "Actieve Camera"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "Camera"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "Voorkant"
-
-
-msgctxt "Operator"
 msgid "Child"
 msgstr "Kind"
 
@@ -8557,6 +8606,11 @@ msgstr "Pad"
 msgctxt "Operator"
 msgid "Single Bone"
 msgstr "Eenvoudig Bot"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "Camera"
 
 
 msgctxt "Operator"
@@ -8800,11 +8854,6 @@ msgstr "Rol Rechts"
 
 
 msgctxt "Operator"
-msgid "Hair"
-msgstr "Haar"
-
-
-msgctxt "Operator"
 msgid "Armature"
 msgstr "Skelet"
 
@@ -8960,10 +9009,6 @@ msgid "var"
 msgstr "var"
 
 
-msgid "Undefined"
-msgstr "Niet Gedefinieerd"
-
-
 msgid "%i frames found!"
 msgstr "%i frames gevonden!"
 
@@ -9002,10 +9047,6 @@ msgstr "Teveel punten geselecteerd: %d"
 
 msgid "Replace Existing..."
 msgstr "Vervang Bestaande..."
-
-
-msgid "Not yet implemented"
-msgstr "Nog niet geimplementeerd"
 
 
 msgctxt "Curve"
@@ -9268,11 +9309,6 @@ msgstr "Nieuw"
 
 
 msgctxt "LightProbe"
-msgid "New"
-msgstr "Nieuw"
-
-
-msgctxt "Hair"
 msgid "New"
 msgstr "Nieuw"
 
@@ -9588,18 +9624,6 @@ msgid "Now"
 msgstr "Nu"
 
 
-msgid "Center:"
-msgstr "Midden:"
-
-
-msgid "Speed:"
-msgstr "Snelheid:"
-
-
-msgid "Path:"
-msgstr "Pad:"
-
-
 msgid " (Vector)"
 msgstr " (Punt)"
 
@@ -9607,6 +9631,10 @@ msgstr " (Punt)"
 msgctxt "Action"
 msgid "Group"
 msgstr "Groep"
+
+
+msgid "Not yet implemented"
+msgstr "Nog niet geimplementeerd"
 
 
 msgid "(empty)"
@@ -9674,6 +9702,18 @@ msgstr "Vervang Origineel"
 
 msgid "Crease Edges"
 msgstr "Vouwranden"
+
+
+msgid "Center:"
+msgstr "Midden:"
+
+
+msgid "Path:"
+msgstr "Pad:"
+
+
+msgid "Speed:"
+msgstr "Snelheid:"
 
 
 msgid "Random Roughness"
@@ -9746,16 +9786,16 @@ msgid "unable to open the file"
 msgstr "kan het bestand niet openen"
 
 
+msgid "File Not Found"
+msgstr "Bestand Niet Gevonden"
+
+
 msgid "This may lead to unexpected behavior"
 msgstr "Dit kan leiden tot onverwacht gedrag"
 
 
 msgid "Save changes before closing?"
 msgstr "Wijzigingen opslaan voor sluiten?"
-
-
-msgid "File Not Found"
-msgstr "Bestand Niet Gevonden"
 
 
 msgid "Startup file saved"

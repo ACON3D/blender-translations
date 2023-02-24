@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: 2012-10-31 17:00-0800\n"
@@ -406,6 +406,10 @@ msgstr "ﺭﺍﺩﺮﺑ"
 
 msgid "Image Format"
 msgstr "ﻪﻧﻮﻤﻧ ﺖﻣﺮﻓ"
+
+
+msgid "Extend"
+msgstr "ﺵﺮﺘﺴﮔ"
 
 
 msgid "Object"
@@ -1841,10 +1845,6 @@ msgid "Vector Handle"
 msgstr "ﺭﻮﺘﮐﻭ ﻪٔﺘﺳﺩ"
 
 
-msgid "Extend"
-msgstr "ﺵﺮﺘﺴﮔ"
-
-
 msgid "Horizontal"
 msgstr "ﯽﻘﻓﺍ"
 
@@ -2636,6 +2636,10 @@ msgstr "ﺕﺍﺭﺫ ﺖﻟﺎﺣ"
 
 msgid "Mirror Modifier"
 msgstr "ﺮﮕﺣﻼ﻿ﺻﺍ ﻥﺩﺮﮐ‌ﻪﻓﺎﺿﺍ"
+
+
+msgid "Project Limit"
+msgstr "ﻥﺪﻨﮑﻓﺍ ﮓﻧﺭ"
 
 
 msgid "Smooth Modifier"
@@ -4821,10 +4825,6 @@ msgid "Object Screw"
 msgstr "ءﯽﺷ ﯼﺎﻀﻓ"
 
 
-msgid "Project Limit"
-msgstr "ﻥﺪﻨﮑﻓﺍ ﮓﻧﺭ"
-
-
 msgid "Origin"
 msgstr "ءﺎﺸﻨﻣ"
 
@@ -5577,6 +5577,10 @@ msgid "Combine YCbCrA"
 msgstr "ﻩﺪﺷ ﺐﯿﮐﺮﺗ"
 
 
+msgid "To"
+msgstr "ﻻ﻿ﺎﺑ"
+
+
 msgid "Remove"
 msgstr "ﻑﺬﺣ"
 
@@ -5643,10 +5647,6 @@ msgstr "ﺎﻫ‌ﻪﺒﻟ ﻂﻘﻓ"
 
 msgid "Ellipse Mask"
 msgstr "ﺎﻫﺮﯿﺴﻣ ﻥﺩﺮﮐ‌ﮎﺎﭘ"
-
-
-msgid "Sharpen"
-msgstr "ﯼﺰﯿﺗ"
 
 
 msgid "Laplace"
@@ -5937,10 +5937,6 @@ msgid "Linear interpolation"
 msgstr "ﻡﺎﻏﺩﺍ"
 
 
-msgid "Z Axis"
-msgstr "Z ﺭﻮﺤﻣ"
-
-
 msgid "Fill Type"
 msgstr "ﻥﺩﺮﮐ ﺮﭘ ﻉﻮﻧ"
 
@@ -6123,6 +6119,10 @@ msgstr "ﺭﺍﺩ ﺝﻮﻣ ﺖﻓﺎﺑ"
 
 msgid "Vector Math"
 msgstr "ﯽﻄﺧ"
+
+
+msgid "Z Axis"
+msgstr "Z ﺭﻮﺤﻣ"
 
 
 msgid "Texture Node"
@@ -10422,6 +10422,10 @@ msgid "Sculpt"
 msgstr "ﻥﺩﺮﮐ ﯼﺭﺎﺠﺣ"
 
 
+msgid "Sharpen"
+msgstr "ﯼﺰﯿﺗ"
+
+
 msgctxt "Operator"
 msgid "Sculpt Mode"
 msgstr "ﯼﺭﺎﺠﺣ ﺖﻟﺎﺣ"
@@ -12631,10 +12635,6 @@ msgid "Manual"
 msgstr "ﺎﻤﻨﻫﺍﺭ ﺏﺎﺘﮐ"
 
 
-msgid "To"
-msgstr "ﻻ﻿ﺎﺑ"
-
-
 msgctxt "Operator"
 msgid "Update Paths"
 msgstr "ﺎﻫﺮﯿﺴﻣ ﻥﺩﺮﮐ‌ﺏﺎﺴﺣ"
@@ -13281,16 +13281,6 @@ msgstr "ﻝﺎﻌﻓ ﻦﯿﺑﺭﻭﺩ"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "ﻦﯿﺑﺭﻭﺩ"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "ﻮﻠﺟ"
-
-
-msgctxt "Operator"
 msgid "Child"
 msgstr "ﺪﻧﺯﺮﻓ"
 
@@ -13403,6 +13393,11 @@ msgstr "ﺮﯿﺴﻣ"
 msgctxt "Operator"
 msgid "Single Bone"
 msgstr "ﻥﺍﻮﺨﺘﺳﺍ ﮏﺗ"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "ﻦﯿﺑﺭﻭﺩ"
 
 
 msgctxt "Operator"
@@ -14062,10 +14057,6 @@ msgstr "ﯽﻨﺤﻨﻣ ﯽﻧﺎﺸﻧﺯﺎﺑ"
 
 msgid "Anim Player"
 msgstr "ﻦﺸﯿﻤﯿﻧﺍ ﺮﯿﻠﭘ"
-
-
-msgid "Proxy Protected"
-msgstr "ﻩﺪﺷ ﺖﻇﺎﻔﺣ ﯽﺴﮐﻭﺮﭘ"
 
 
 msgid "Delete the active position"
@@ -14789,12 +14780,12 @@ msgid "Tilt of curve control points"
 msgstr "ﻩﺪﺷ ﺏﺎﺨﺘﻧﺍ ﮓﻧﺭ ﻒﻗﻮﺗ ﺖﯿﻌﻗﻮﻣ ﻢﯿﻈﻨﺗ"
 
 
-msgid "Depth too large"
-msgstr "ﻑﺪﻫ ﻦﯿﯿﻌﺗ"
-
-
 msgid "Cannot fly an object with constraints"
 msgstr "ءﺎﯿﺷﺍ ﯼﺎﻫ‌ﺖﯾﺩﻭﺪﺤﻣ"
+
+
+msgid "Depth too large"
+msgstr "ﻑﺪﻫ ﻦﯿﯿﻌﺗ"
 
 
 msgid "Bone selection count error"

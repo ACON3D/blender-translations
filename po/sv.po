@@ -1,7 +1,7 @@
 
 msgid ""
 msgstr ""
-"Project-Id-Version: Blender 3.0.0 Release Candidate (b'd2e608733507')\n"
+"Project-Id-Version: Blender 3.2.0 Alpha (b'79e74b14861e')\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-01 00:00:00\n"
 "PO-Revision-Date: \n"
@@ -411,6 +411,10 @@ msgstr "Samplingsfrekvens"
 
 msgid "Margin"
 msgstr "Marginal"
+
+
+msgid "Extend"
+msgstr "Utvidga"
 
 
 msgid "Normal Space"
@@ -1085,6 +1089,10 @@ msgid "Saturation"
 msgstr "Mättnad"
 
 
+msgid "Active Layer"
+msgstr "Flytta Till Lager"
+
+
 msgid "Path"
 msgstr "Bana"
 
@@ -1600,10 +1608,6 @@ msgstr "Spegel"
 
 msgid "Influence"
 msgstr "Inflytande"
-
-
-msgid "Proxy Local"
-msgstr "Vektor Måla"
 
 
 msgid "Disable"
@@ -2722,10 +2726,6 @@ msgid "Clip Min Y"
 msgstr "Klippning"
 
 
-msgid "Extend"
-msgstr "Utvidga"
-
-
 msgid "Extrapolated"
 msgstr "Extrapolera"
 
@@ -2762,6 +2762,10 @@ msgid "View"
 msgstr "Visa"
 
 
+msgid "Radius"
+msgstr "Radie"
+
+
 msgid "Steps"
 msgstr "Steg"
 
@@ -2780,10 +2784,6 @@ msgstr "Streckad"
 
 msgid "Material Index"
 msgstr "Spara som"
-
-
-msgid "Radius"
-msgstr "Radie"
 
 
 msgid "Viewport"
@@ -4647,12 +4647,48 @@ msgid "Point Density"
 msgstr "Intensitet"
 
 
+msgid "Step"
+msgstr "Steg"
+
+
 msgid "Mirror Modifier"
 msgstr "Radera Allt"
 
 
-msgid "Step"
-msgstr "Steg"
+msgid "Shrinkwrap Modifier"
+msgstr "Krympa/Förtjocka"
+
+
+msgid "Auxiliary Target"
+msgstr "Driver"
+
+
+msgid "Distance to keep from the target"
+msgstr "Radera"
+
+
+msgid "Project Limit"
+msgstr "Redigera egenskap"
+
+
+msgid "Negative"
+msgstr "Negativ"
+
+
+msgid "Positive"
+msgstr "Lägg till Stripp"
+
+
+msgid "Shrink the mesh to the nearest target surface"
+msgstr "Markera Länkad"
+
+
+msgid "Shrink the mesh to the nearest target surface along a given axis"
+msgstr "Markera Länkad"
+
+
+msgid "Shrink the mesh to the nearest target vertex"
+msgstr "Markera Länkad"
 
 
 msgid "Adaptive"
@@ -4713,10 +4749,6 @@ msgstr "Delningar av rutnät"
 
 msgid "Grid Scale"
 msgstr "Rensa Förälder"
-
-
-msgid "Active Layer"
-msgstr "Flytta Till Lager"
 
 
 msgid "Statistical view of the levels of color in an image"
@@ -6497,10 +6529,6 @@ msgstr "Starta Spel"
 
 msgid "Pose Library"
 msgstr "Pose-bibliotek"
-
-
-msgid "Proxy"
-msgstr "Skapa Förälder"
 
 
 msgid "Rigid Body Settings"
@@ -8478,6 +8506,10 @@ msgid "Pivot Point"
 msgstr "Fast punkt"
 
 
+msgid "Proxy"
+msgstr "Skapa Förälder"
+
+
 msgid "Reconstruction"
 msgstr "Rensa Rotation"
 
@@ -8857,10 +8889,6 @@ msgstr "Klot"
 
 msgid "Ellipsoid"
 msgstr "Ellipsoid"
-
-
-msgid "Negative"
-msgstr "Negativ"
 
 
 msgid "UV Project"
@@ -9649,38 +9677,6 @@ msgstr "Iterationer"
 
 msgid "Object Screw"
 msgstr "Packa Data"
-
-
-msgid "Shrinkwrap Modifier"
-msgstr "Krympa/Förtjocka"
-
-
-msgid "Auxiliary Target"
-msgstr "Driver"
-
-
-msgid "Distance to keep from the target"
-msgstr "Radera"
-
-
-msgid "Project Limit"
-msgstr "Redigera egenskap"
-
-
-msgid "Positive"
-msgstr "Lägg till Stripp"
-
-
-msgid "Shrink the mesh to the nearest target surface"
-msgstr "Markera Länkad"
-
-
-msgid "Shrink the mesh to the nearest target surface along a given axis"
-msgstr "Markera Länkad"
-
-
-msgid "Shrink the mesh to the nearest target vertex"
-msgstr "Markera Länkad"
 
 
 msgid "SimpleDeform Modifier"
@@ -11031,6 +11027,10 @@ msgid "Composite"
 msgstr "Komponering"
 
 
+msgid "To"
+msgstr "Ovan"
+
+
 msgid "Crop Image Size"
 msgstr "Bild Displist"
 
@@ -11153,10 +11153,6 @@ msgstr "Göm Markerad"
 
 msgid "Ellipse Mask"
 msgstr "Använd maximum"
-
-
-msgid "Sharpen"
-msgstr "Hårdhet"
 
 
 msgid "Laplace"
@@ -11591,8 +11587,8 @@ msgid "Linear interpolation"
 msgstr "Extrapoleringsmetod"
 
 
-msgid "Z Axis"
-msgstr "Zooma In"
+msgid "Edge Angle"
+msgstr "Kantvinkel"
 
 
 msgid "Fill Type"
@@ -11901,6 +11897,10 @@ msgstr "Klibbig texturkoordinat för meshvertex"
 
 msgid "Vector Math"
 msgstr "Vektor Handtag"
+
+
+msgid "Z Axis"
+msgstr "Zooma In"
 
 
 msgid "Texture Node"
@@ -14515,10 +14515,6 @@ msgid "Export selected objects only"
 msgstr "Markera Länkad"
 
 
-msgid "Export the active UV layer"
-msgstr "Rendera endast aktivt lager"
-
-
 msgctxt "Operator"
 msgid "Export STL"
 msgstr "Exportera"
@@ -15194,14 +15190,6 @@ msgstr "Markerade till markör"
 msgctxt "Operator"
 msgid "Snap Selection to Grid"
 msgstr "Markera Länkad"
-
-
-msgid "Black"
-msgstr "Svart"
-
-
-msgid "White"
-msgstr "Vitt"
 
 
 msgctxt "Operator"
@@ -20359,6 +20347,10 @@ msgid "Ignore Background Click"
 msgstr "Spara Bild"
 
 
+msgid "Sharpen"
+msgstr "Hårdhet"
+
+
 msgctxt "Operator"
 msgid "Sculpt Mode"
 msgstr "Redigerings Läge"
@@ -21741,6 +21733,14 @@ msgstr "Markera Länkad"
 
 msgid "Select a loop of connected UV vertices"
 msgstr "Markera Länkad"
+
+
+msgid "Island"
+msgstr "Ö"
+
+
+msgid "Island selection mode"
+msgstr "Göm Markerad"
 
 
 msgctxt "Operator"
@@ -25305,6 +25305,14 @@ msgid "Outline"
 msgstr "Kontur"
 
 
+msgid "Black"
+msgstr "Svart"
+
+
+msgid "White"
+msgstr "Vitt"
+
+
 msgid "Length of displaying path, in frames"
 msgstr "Längd i antal rutor:"
 
@@ -25891,18 +25899,6 @@ msgstr "Lägg till Stripp"
 
 msgid "Snap to Pixels"
 msgstr "Lägg till Stripp"
-
-
-msgid "Sticky Selection Mode"
-msgstr "Markera Länkad"
-
-
-msgid "Shared Location"
-msgstr "Rensa Placering"
-
-
-msgid "Shared Vertex"
-msgstr "Flytta Till Lager"
 
 
 msgid "Bezier Points"
@@ -27033,12 +27029,16 @@ msgid "UV selection and display mode"
 msgstr "Markera Länkad"
 
 
-msgid "Island"
-msgstr "Ö"
+msgid "Sticky Selection Mode"
+msgstr "Markera Länkad"
 
 
-msgid "Island selection mode"
-msgstr "Göm Markerad"
+msgid "Shared Location"
+msgstr "Rensa Placering"
+
+
+msgid "Shared Vertex"
+msgstr "Flytta Till Lager"
 
 
 msgid "Vertex Group Weight"
@@ -27147,10 +27147,6 @@ msgstr "Visa ytors normaler som linjer"
 
 msgid "Display UV unwrapping seams"
 msgstr "Visa inställningar för kant"
-
-
-msgid "Edge Angle"
-msgstr "Kantvinkel"
 
 
 msgid "Indices"
@@ -27288,10 +27284,6 @@ msgstr "Animationsnyckel-nummer"
 
 msgid "After"
 msgstr "Efter"
-
-
-msgid "To"
-msgstr "Ovan"
 
 
 msgid "+ Non-Grouped Keyframes"
@@ -28222,11 +28214,6 @@ msgstr "Flytta Till Lager"
 
 
 msgctxt "Operator"
-msgid "Camera"
-msgstr "Kamera"
-
-
-msgctxt "Operator"
 msgid "Align Active Camera to View"
 msgstr "Kamera"
 
@@ -28234,11 +28221,6 @@ msgstr "Kamera"
 msgctxt "Operator"
 msgid "Align Active Camera to Selected"
 msgstr "Kamera"
-
-
-msgctxt "Operator"
-msgid "Front"
-msgstr "Fram"
 
 
 msgctxt "Operator"
@@ -28364,6 +28346,11 @@ msgstr "Bana"
 msgctxt "Operator"
 msgid "Single Bone"
 msgstr "Enstaka ben"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "Kamera"
 
 
 msgctxt "Operator"
@@ -29065,10 +29052,6 @@ msgid "Reset operator defaults"
 msgstr "Förvalt övertoning"
 
 
-msgid "Proxy Protected"
-msgstr "Packa Data"
-
-
 msgid "Delete the active position"
 msgstr "Rensa Rotation"
 
@@ -29746,16 +29729,16 @@ msgid "Tilt of curve control points"
 msgstr "Markera Länkad"
 
 
-msgid "Depth too large"
-msgstr "Omfång"
-
-
 msgid "Cannot fly a camera from an external library"
 msgstr "Markera Länkad"
 
 
 msgid "Cannot fly an object with constraints"
 msgstr "Objektbegränsningar"
+
+
+msgid "Depth too large"
+msgstr "Omfång"
 
 
 msgid "Auto Keying On"
