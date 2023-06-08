@@ -94573,3 +94573,19 @@ msgid "Please select valid file path"
 msgstr "유효한 파일경로를 선택해주세요"
 
 
+msgctxt "abler"
+msgid "Create Layer"
+msgstr "레이어 생성"
+
+
+msgid "Create a new layer and link objects to a layer"
+msgstr "새 레이어를 생성하고 오브젝트를 레이어에 연결합니다"
+
+
+msgid "Layer Name"
+msgstr "레이어 이름"
+
+
+msgid "Write layer name"
+msgstr "생성할 레이어 이름을 입력하세요"
+
