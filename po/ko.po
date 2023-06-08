@@ -91980,6 +91980,30 @@ msgid "Don't have an ACON3D account?"
 msgstr "에이콘3D 계정이 없으신가요?"
 
 
+msgid "ABLER feature Walkthrough"
+msgstr "에이콘3D 보정예시"
+
+
+msgid "Link to ABLER feature Walkthrough"
+msgstr "에이콘3D 보정예시 보러가기"
+
+
+msgid "ABLER Instruction"
+msgstr "에이블러 기능상세"
+
+
+msgid "Link to ABLER Instruction"
+msgstr "에이블러 기능상세 보러가기"
+
+
+msgid "Operating ABLER"
+msgstr "에이블러 조작법"
+
+
+msgid "Link to Operating ABLER"
+msgstr "에이블러 조작법 보러가기"
+
+
 msgid "Link to ABLER service notice"
 msgstr "에이블러의 공지사항을 확인합니다"
 
@@ -93107,6 +93131,47 @@ msgstr "태양의 방향(방위각)을 조정합니다"
 msgctxt "abler"
 msgid "Shadow / Shading"
 msgstr "그림자 및 음영"
+
+
+msgctxt "abler"
+msgid "Lights"
+msgstr "조명"
+
+
+msgid "Add Light"
+msgstr "조명 추가"
+
+
+msgid "Energy"
+msgstr "에너지"
+
+
+msgid "Toggle Light"
+msgstr "조명 토글"
+
+
+msgid "Adjust light color"
+msgstr "조명 색상을 조절합니다"
+
+
+msgid "Adjust light energy"
+msgstr "조명 에너지을 조절합니다"
+
+
+msgid "Adjust light diffuse"
+msgstr "조명 난반사 값을 조절합니다"
+
+
+msgid "Adjust light specular"
+msgstr "조명 반사 값을 조절합니다"
+
+
+msgid "Adjust light volume"
+msgstr "조명 볼륨 값을 조절합니다"
+
+
+msgid "Toggle selected light"
+msgstr "선택된 조명을 토글합니다"
 
 
 msgid "Express shadow and shading"
