@@ -93142,6 +93142,37 @@ msgid "Add Light"
 msgstr "조명 추가"
 
 
+msgid "Add Point Light"
+msgstr "포인트 조명을 추가합니다"
+
+
+msgid "Add Area Light"
+msgstr "영역 조명을 추가합니다"
+
+
+msgid "Add Spot Light"
+msgstr "스폿 조명을 추가합니다"
+
+
+msgid "Remove Selected Light"
+msgstr "선택한 조명을 제거합니다"
+
+
+msgctxt "abler"
+msgid "Point"
+msgstr "포인트"
+
+
+msgctxt "abler"
+msgid "Area"
+msgstr "영역"
+
+
+msgctxt "abler"
+msgid "Spot"
+msgstr "스폿"
+
+
 msgid "Energy"
 msgstr "에너지"
 
