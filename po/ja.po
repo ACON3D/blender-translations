@@ -120808,3 +120808,84 @@ msgid "Search"
 msgstr "検索"
 
 
+# 0.3.5에 들어가는 항목
+# msgid "ABLER feature Walkthrough"
+# msgstr "에이콘3D 보정예시"
+
+
+# msgid "Link to ABLER feature Walkthrough"
+# msgstr "에이콘3D 보정예시 보러가기"
+
+
+# msgid "ABLER Instruction"
+# msgstr "에이블러 기능상세"
+
+
+# msgid "Link to ABLER Instruction"
+# msgstr "에이블러 기능상세 보러가기"
+
+
+# msgid "Operating ABLER"
+# msgstr "에이블러 조작법"
+
+
+# msgid "Link to Operating ABLER"
+# msgstr "에이블러 조작법 보러가기"
+
+
+# msgctxt "abler"
+# msgid "Lights"
+# msgstr "조명"
+
+
+# msgid "Add Light"
+# msgstr "조명 추가"
+
+
+# msgid "Energy"
+# msgstr "에너지"
+
+
+# msgid "Toggle Light"
+# msgstr "조명 토글"
+
+
+# msgid "Adjust light color"
+# msgstr "조명 색상을 조절합니다"
+
+
+# msgid "Adjust light energy"
+# msgstr "조명 에너지을 조절합니다"
+
+
+# msgid "Adjust light diffuse"
+# msgstr "조명 난반사 값을 조절합니다"
+
+
+# msgid "Adjust light specular"
+# msgstr "조명 반사 값을 조절합니다"
+
+
+# msgid "Adjust light volume"
+# msgstr "조명 볼륨 값을 조절합니다"
+
+
+# msgid "Toggle selected light"
+# msgstr "선택된 조명을 토글합니다"
+
+
+# msgctxt "abler"
+# msgid "Create Layer"
+# msgstr "레이어 생성"
+
+
+# msgid "Create a new layer and link objects to a layer"
+# msgstr "새 레이어를 생성하고 오브젝트를 레이어에 연결합니다"
+
+
+# msgid "Layer Name"
+# msgstr "레이어 이름"
+
+
+# msgid "Write layer name"
+# msgstr "생성할 레이어 이름을 입력하세요"
