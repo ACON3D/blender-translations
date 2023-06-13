@@ -117238,3 +117238,3573 @@ msgstr "進行中"
 msgid "Starting"
 msgstr "開始"
 
+msgid "Name"
+msgstr "名前"
+
+
+msgid "Color"
+msgstr "カラー"
+
+
+msgid "Colors"
+msgstr "カラー"
+
+
+msgid "Password"
+msgstr "パスワード"
+
+
+msgid "Nothing"
+msgstr "なし"
+
+
+msgid "Line"
+msgstr "線"
+
+
+msgid "File Path"
+msgstr "ファイルパス"
+
+
+msgid "None"
+msgstr "なし"
+
+
+msgid "Diffuse"
+msgstr "乱反射"
+
+
+msgid "Cameras"
+msgstr "カメラ"
+
+
+msgid "Filename"
+msgstr "ファイル名"
+
+
+msgid "Materials"
+msgstr "テクスチャ"
+
+
+msgid "Scenes"
+msgstr "シーン"
+
+
+msgid "Volumes"
+msgstr "ボリューム"
+
+
+msgid "Strength"
+msgstr "強度"
+
+
+msgid "Average"
+msgstr "中央"
+
+
+msgid "Volume"
+msgstr "ボリューム"
+
+
+msgid "Active"
+msgstr "アクティブ"
+
+
+msgid "Material"
+msgstr "テクスチャ"
+
+
+msgid "Threshold"
+msgstr "しきい値"
+
+
+msgid "Hue"
+msgstr "色調"
+
+
+msgid "Saturation"
+msgstr "彩度"
+
+
+msgid "Background Image"
+msgstr "背景イメージ"
+
+
+msgid "Opacity"
+msgstr "不透明度"
+
+
+msgid "Image opacity to blend the image against the background color"
+msgstr "背景イメージの透明度を設定"
+
+
+msgid "Stretch"
+msgstr "拡大"
+
+
+msgid "Fit"
+msgstr "縮小"
+
+
+msgid "Crop"
+msgstr "切り取り"
+
+
+msgid "Offset"
+msgstr "オフセット"
+
+
+msgid "Rotation"
+msgstr "回転"
+
+
+msgid "Scale"
+msgstr "サイズ調整"
+
+
+msgid "Flip the background image horizontally"
+msgstr "背景イメージを左右に反転"
+
+
+msgid "Flip the background image vertically"
+msgstr "背景イメージを上下に反転"
+
+
+msgid "Background Images"
+msgstr "背景イメージ"
+
+
+msgid "Blur objects at a certain distance using the values set below"
+msgstr "以下で設定した値を使用して特定の距離にあるオブジェクトをぼやかします。"
+
+
+msgid "F-Stop"
+msgstr "Fストップ"
+
+
+msgid "Focus Distance"
+msgstr "焦点距離"
+
+
+msgid "Center"
+msgstr "中心"
+
+
+msgid "Exposure"
+msgstr "露光量"
+
+
+msgid "Gamma"
+msgstr "ガンマ補正"
+
+
+msgid "Brightness"
+msgstr "明るさ"
+
+
+msgid "Contrast"
+msgstr "コントラスト"
+
+
+msgid "Near"
+msgstr "最短距離"
+
+
+msgid "Input"
+msgstr "入力"
+
+
+msgid "Transformation"
+msgstr "変換"
+
+
+msgid "Default"
+msgstr "標準値"
+
+
+msgid "Camera"
+msgstr "カメラ"
+
+
+msgid "Preset"
+msgstr "プリセット"
+
+
+msgid "Radius"
+msgstr "半径"
+
+
+msgid "Render"
+msgstr "レンダリング"
+
+
+msgid "Scene"
+msgstr "シーン"
+
+
+msgid "Shading"
+msgstr "陰影"
+
+
+msgid "Transform"
+msgstr "変換"
+
+
+msgid "Name Filter"
+msgstr "名前フィルター"
+
+
+msgid "Show Hidden"
+msgstr "非表示の項目を表示"
+
+
+msgctxt "ID"
+msgid "Camera"
+msgstr "カメラ"
+
+
+msgctxt "ID"
+msgid "Material"
+msgstr "テクスチャ"
+
+
+msgctxt "ID"
+msgid "Scene"
+msgstr "シーン"
+
+
+msgid "Proximity"
+msgstr "最短距離"
+
+
+msgctxt "Sound"
+msgid "Volume"
+msgstr "ボリューム"
+
+
+msgid "Size"
+msgstr "サイズ"
+
+
+msgid "Save"
+msgstr "保存"
+
+
+msgid "Directory"
+msgstr "ディレクトリ"
+
+
+msgid "Display Size"
+msgstr "アイコンのサイズ"
+
+
+msgid "Tiny"
+msgstr "非常に小さい"
+
+
+msgid "Small"
+msgstr "小さい"
+
+
+msgid "Regular"
+msgstr "普通"
+
+
+msgid "Large"
+msgstr "大きい"
+
+
+msgid "Display Mode"
+msgstr "表示モード"
+
+
+msgid "File Name"
+msgstr "ファイル名"
+
+
+msgid "Filter by name, supports '*' wildcard"
+msgstr "名前でフィルターする (ワイルドカード文字 "*")"
+
+
+msgid "List only current directory's content, with no recursion"
+msgstr "現在のディレクトリの内容だけを羅列"
+
+
+msgid "One Level"
+msgstr "1段階"
+
+
+msgid "List all sub-directories' content, one level of recursion"
+msgstr "1段階下のディレクトリの内容までを羅列"
+
+
+msgid "Two Levels"
+msgstr "2段階"
+
+
+msgid "List all sub-directories' content, two levels of recursion"
+msgstr "2段階下のディレクトリの内容までを羅列"
+
+
+msgid "Three Levels"
+msgstr "3段階"
+
+
+msgid "List all sub-directories' content, three levels of recursion"
+msgstr "3段階下のディレクトリの内容までを羅列"
+
+
+msgid "Sort the file list alphabetically"
+msgstr "名前の順にファイルを整列"
+
+
+msgid "Extension"
+msgstr "拡張子"
+
+
+msgid "Sort the file list by extension/type"
+msgstr "拡張子、類型別にファイルを整列"
+
+
+msgid "Modified Date"
+msgstr "更新日時"
+
+
+msgid "Sort the file list by modification time"
+msgstr "更新日時の順にファイルを整列"
+
+
+msgid "Sort the file list by size"
+msgstr "サイズの順にファイルを整列"
+
+
+msgid "Filter Files"
+msgstr "ファイルフィルター"
+
+
+msgid "Show folders"
+msgstr "フォルダを表示"
+
+
+msgid "Reverse Sorting"
+msgstr "逆順に整列"
+
+
+msgid "Reverse the order of the list"
+msgstr "項目の順序を逆に整列"
+
+
+msgid "End"
+msgstr "終了"
+
+
+msgid "Start"
+msgstr "開始"
+
+
+msgid "Finish"
+msgstr "完了"
+
+
+msgid "Time Span"
+msgstr "所要時間"
+
+
+msgid "Delete"
+msgstr "削除"
+
+
+msgid "Averaged"
+msgstr "中央"
+
+
+msgid "Layer Exclude"
+msgstr "レイアーの表示 / 非表示"
+
+
+msgid "Layer Lock"
+msgstr "レイアーのロック / 解除"
+
+
+msgid "Grid"
+msgstr "格子"
+
+
+msgid "Window"
+msgstr "ウインドウ"
+
+
+msgid "Red"
+msgstr "赤"
+
+
+msgid "Green"
+msgstr "緑"
+
+
+msgid "Blue"
+msgstr "青"
+
+
+msgid "Save this data-block even if it has no users"
+msgstr "ユーザーがいない場合にも、このデータブロックを保存します。"
+
+
+msgid "Clamp"
+msgstr "クランプ"
+
+
+msgid "Rotate"
+msgstr "回転"
+
+
+msgid "Focal Length"
+msgstr "焦点距離"
+
+
+msgid "Dimensions"
+msgstr "サイズ"
+
+
+msgid "Flush"
+msgstr "縮小"
+
+
+msgid "Plain"
+msgstr "一般"
+
+
+msgid "Mean"
+msgstr "中央"
+
+
+msgid "Resolution X"
+msgstr "レンダリングサイズX"
+
+
+msgid "Resolution Y"
+msgstr "レンダリングサイズ Y"
+
+
+msgid "Intensity"
+msgstr "強度"
+
+
+msgid "Specular"
+msgstr "反射"
+
+
+msgid "Inputs"
+msgstr "入力"
+
+
+msgid "Tweak"
+msgstr "ねじり"
+
+
+msgid "Rotations"
+msgstr "回転"
+
+
+msgid "Show Status Bar"
+msgstr "ステータスバーを表示"
+
+
+msgid "Show status bar"
+msgstr "ステータスバーを下部に表示"
+
+
+msgid "Search"
+msgstr "検索"
+
+
+msgctxt "Operator"
+msgid "Support"
+msgstr "問い合わせ"
+
+
+msgid "Open ACON3D web support"
+msgstr "ACON3D 1:1 問い合わせページに移動"
+
+
+msgid "Windows"
+msgstr "ウインドウ"
+
+
+msgid "Icon Size"
+msgstr "アイコンのサイズ"
+
+
+msgid "Custom Image"
+msgstr "ユーザーイメージ"
+
+
+msgid "Items"
+msgstr "項目"
+
+
+msgid "Flip"
+msgstr "反転"
+
+
+msgid "Edit"
+msgstr "編集"
+
+
+msgid "Clean Up"
+msgstr "クリーンアップ"
+
+
+msgid "Snap"
+msgstr "スナップ"
+
+
+msgid "Bookmarks Specials"
+msgstr "ブックマーク移動メニュー"
+
+
+msgid "System"
+msgstr "システム"
+
+
+msgid "File"
+msgstr "ファイル"
+
+
+msgid "Export"
+msgstr "エクスポート"
+
+
+msgid "Import"
+msgstr "インポート"
+
+
+msgid "Recover"
+msgstr "修復"
+
+
+msgid "Help"
+msgstr "ヘルプ"
+
+
+msgid "Presets"
+msgstr "プリセット"
+
+
+msgid "Names"
+msgstr "名前"
+
+
+msgid "New"
+msgstr "新規作成"
+
+
+msgid "Color Correction"
+msgstr "カラー補正"
+
+
+msgid "Shadow"
+msgstr "影"
+
+
+msgid "Background"
+msgstr "背景"
+
+
+msgid "Reflection"
+msgstr "反射"
+
+
+msgid "Emission"
+msgstr "発光"
+
+
+msgid "Tooltip"
+msgstr "ヘルプ"
+
+
+msgid "Default Value"
+msgstr "標準値"
+
+
+msgctxt "Operator"
+msgid "New Action"
+msgstr "新規作成"
+
+
+msgctxt "Operator"
+msgid "Box Select"
+msgstr "ボックス選択"
+
+
+msgctxt "Operator"
+msgid "Circle Select"
+msgstr "楕円選択"
+
+
+msgctxt "Operator"
+msgid "Lasso Select"
+msgstr "なげなわ選択"
+
+
+msgid "Move"
+msgstr "移動"
+
+
+msgctxt "Operator"
+msgid "Logout"
+msgstr "ログアウト"
+
+
+msgctxt "Operator"
+msgid "Preset"
+msgstr "プリセット"
+
+
+msgid "Files"
+msgstr "ファイル"
+
+
+msgctxt "Operator"
+msgid "Delete"
+msgstr "削除"
+
+
+msgid "Language"
+msgstr "言語"
+
+
+msgid "Resize"
+msgstr "サイズ調整"
+
+
+msgctxt "Operator"
+msgid "Redo"
+msgstr "再試行"
+
+
+msgid "Redo previous action"
+msgstr "前の作業を再試行"
+
+
+msgctxt "Operator"
+msgid "Undo"
+msgstr "実行キャンセル"
+
+
+msgid "Undo previous action"
+msgstr "前の作業実行をキャンセル"
+
+
+msgid "Redo specific action in history"
+msgstr "作業履歴から指定の作業を再試行"
+
+
+msgid "Item"
+msgstr "項目"
+
+
+msgid "General"
+msgstr "一般"
+
+
+msgid "Object settings"
+msgstr "オブジェクト設定"
+
+
+msgctxt "Operator"
+msgid "Add Bookmark"
+msgstr "ブックマークに追加"
+
+
+msgctxt "Operator"
+msgid "Cleanup Bookmarks"
+msgstr "ブックマークをクリーンアップ"
+
+
+msgid "Delete all invalid bookmarks"
+msgstr "削除したブックマークをすべて消去"
+
+
+msgctxt "Operator"
+msgid "Delete Bookmark"
+msgstr "ブックマークを削除"
+
+
+msgid "Delete selected bookmark"
+msgstr "指定したブックマークを削除"
+
+
+msgctxt "Operator"
+msgid "Move Bookmark"
+msgstr "ブックマークに移動"
+
+
+msgid "Move the active bookmark up/down in the list"
+msgstr "リストのアクティブブックマークを上下に移動"
+
+
+msgid "Open"
+msgstr "ファイルを開く"
+
+
+msgctxt "Operator"
+msgid "Next Folder"
+msgstr "次のフォルダ"
+
+
+msgctxt "Operator"
+msgid "Parent File"
+msgstr "親ディレクトリ"
+
+
+msgctxt "Operator"
+msgid "Previous Folder"
+msgstr "前のフォルダ"
+
+
+msgctxt "Operator"
+msgid "Reset Recent"
+msgstr "最近のフォルダを再設定"
+
+
+msgid "Style"
+msgstr "スタイル"
+
+
+msgid "Median"
+msgstr "中央"
+
+
+msgid "Exit"
+msgstr "終了"
+
+
+msgid "Centers"
+msgstr "中心"
+
+
+msgid "Filepath"
+msgstr "ファイルパス"
+
+
+msgctxt "ID"
+msgid "Flip"
+msgstr "反転"
+
+
+msgctxt "ID"
+msgid "Shadow"
+msgstr "影"
+
+
+msgid "Clear all data-blocks that are existing in file but not used"
+msgstr "ファイルに含まれるすべての未使用データブロックを消去"
+
+
+msgctxt "Operator"
+msgid "Refresh"
+msgstr "再読み込み"
+
+
+msgid "Take a snapshot of the active viewport"
+msgstr "画面の表示範囲だけを高速レンダリングする"
+
+
+msgctxt "Operator"
+msgid "Render"
+msgstr "レンダリング"
+
+
+msgid "Generic"
+msgstr "一般"
+
+
+msgctxt "Operator"
+msgid "Delete Scene"
+msgstr "シーンの削除"
+
+
+msgid "Display parameters for last action performed"
+msgstr "直前に修正した作業の調整値を表示"
+
+
+msgctxt "Operator"
+msgid "Toggle Region"
+msgstr "右パネル切替"
+
+
+msgid "Hide or unhide the region"
+msgstr "右パネルを非表示もしくは表示
+ ショートカットキー: N"
+
+
+msgid "Display menu for previous actions performed"
+msgstr "直前の作業を再試行するためにマニュアルを表示"
+
+
+msgctxt "Operator"
+msgid "Repeat Last"
+msgstr "再試行"
+
+
+msgid "Repeat last action"
+msgstr "直前の作業を再試行"
+
+
+msgid "Edit user preferences and system settings"
+msgstr "ユーザー環境とシステムを設定"
+
+
+msgid "Editing"
+msgstr "編集"
+
+
+msgid "File Paths"
+msgstr "ファイルパス"
+
+
+msgctxt "Operator"
+msgid "Save"
+msgstr "保存"
+
+
+msgctxt "Operator"
+msgid "Resize"
+msgstr "サイズ調整"
+
+
+msgctxt "Operator"
+msgid "Rotate"
+msgstr "回転"
+
+
+msgctxt "Operator"
+msgid "Transform"
+msgstr "変換"
+
+
+msgctxt "Operator"
+msgid "Move"
+msgstr "移動"
+
+
+msgid "Add a new background image"
+msgstr "新しい背景イメージを追加"
+
+
+msgid "Select items using box selection"
+msgstr "ボックス選択で項目を選択"
+
+
+msgid "Select items using circle selection"
+msgstr "楕円選択で項目を選択"
+
+
+msgid "Select items using lasso selection"
+msgstr "なげなわ選択で項目を選択"
+
+
+msgid "Object Name"
+msgstr "オブジェクト名"
+
+
+msgctxt "Operator"
+msgid "Open"
+msgstr "開く"
+
+
+msgctxt "Operator"
+msgid "Quit Blender"
+msgstr "BLENDERを終了"
+
+
+msgid "Quit Blender"
+msgstr "BLENDERを終了"
+
+
+msgid "Open default file (Do not save current file)"
+msgstr "基本ファイルを開く(このファイルは保存されません)"
+
+
+msgid "Open automatically saved file to recover"
+msgstr "自動保存のファイルを開き修復"
+
+
+msgid "Open the last closed file"
+msgstr "直前に閉じたファイルを開く"
+
+
+msgid "Save Copy..."
+msgstr "コピーを保存"
+
+
+msgctxt "Operator"
+msgid "Splash Screen"
+msgstr "スプラッシュ画面"
+
+
+msgid "Open the splash screen with release info"
+msgstr "リリース情報と同時にスプラッシュ画面を開く"
+
+
+msgctxt "Operator"
+msgid "Save System Info"
+msgstr "システム情報を保存"
+
+
+msgid "Generate system information, saved into a text file"
+msgstr "システム情報を作成、テキストファイルに保存"
+
+
+msgctxt "Operator"
+msgid "Add Workspace"
+msgstr "ワークスペースの追加"
+
+
+msgid "Transforms"
+msgstr "変換"
+
+
+msgid "Transparent"
+msgstr "透明"
+
+
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+
+msgid "Recent"
+msgstr "最近使用"
+
+
+msgid "Extensions"
+msgstr "拡張子"
+
+
+msgctxt "Operator"
+msgid "Tweak"
+msgstr "ねじり"
+
+
+msgctxt "Operator"
+msgid "Select Box"
+msgstr "ボックス選択"
+
+
+msgctxt "Operator"
+msgid "Select Circle"
+msgstr "楕円選択"
+
+
+msgctxt "Operator"
+msgid "Select Lasso"
+msgstr "なげなわ選択"
+
+
+msgctxt "Operator"
+msgid "Scale"
+msgstr "サイズ調整"
+
+
+msgid "Strengths"
+msgstr "強度"
+
+
+msgid "Shadows"
+msgstr "影"
+
+
+msgid "Styles"
+msgstr "スタイル"
+
+
+msgctxt "abler"
+msgid "Style"
+msgstr "スタイル"
+
+
+msgctxt "Operator"
+msgid "Scale Cage"
+msgstr "ケージ調整"
+
+
+msgctxt "Operator"
+msgid "Radius"
+msgstr "半径"
+
+
+msgctxt "Operator"
+msgid "Average"
+msgstr "中央"
+
+
+msgctxt "Operator"
+msgid "Strength"
+msgstr "強度"
+
+
+msgid "Manual"
+msgstr "マニュアル"
+
+
+msgid "Automatic (Automatic)"
+msgstr "自動 (Automatic)"
+
+
+msgid "Tooltips"
+msgstr "ヘルプ"
+
+
+msgid "Languages"
+msgstr "言語"
+
+
+msgid "Knee"
+msgstr "変曲点"
+
+
+msgctxt "Sequence"
+msgid "Scene"
+msgstr "シーン"
+
+
+msgctxt "Sequence"
+msgid "Transform"
+msgstr "変換"
+
+
+msgctxt "Sequence"
+msgid "Color"
+msgstr "カラー"
+
+
+msgid "Bright"
+msgstr "明るさ"
+
+
+msgid "Outline"
+msgstr "エッジ"
+
+
+msgid "Active Bookmark"
+msgstr "アクティブブックマーク"
+
+
+msgid "Active Recent Folder"
+msgstr "アクティブな最近のフォルダ"
+
+
+msgid "Active System Bookmark"
+msgstr "アクティブシステムブックマーク"
+
+
+msgid "Active System Folder"
+msgstr "アクティブシステムフォルダ"
+
+
+msgid "Show filtering options"
+msgstr "フィルタリングオプションを表示"
+
+
+msgctxt "WindowManager"
+msgid "Window"
+msgstr "ウインドウ"
+
+
+msgctxt "Operator"
+msgid "Volume"
+msgstr "ボリューム"
+
+
+msgctxt "Operator"
+msgid "Export"
+msgstr "エクスポート"
+
+
+msgctxt "Operator"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Operator"
+msgid "Open..."
+msgstr "開く"
+
+
+msgid "Open..."
+msgstr "開く"
+
+
+msgctxt "Operator"
+msgid "Manual"
+msgstr "マニュアル"
+
+
+msgid "Focus on Object"
+msgstr "オブジェクトにフォーカス"
+
+
+msgctxt "Operator"
+msgid "Move to Top"
+msgstr "一番上に移動"
+
+
+msgctxt "Operator"
+msgid "Move to Bottom"
+msgstr "一番下に移動"
+
+
+msgctxt "Operator"
+msgid "None"
+msgstr "なし"
+
+
+msgid "Date"
+msgstr "日付"
+
+
+msgid "Dimension"
+msgstr "サイズ"
+
+
+msgctxt "Operator"
+msgid "Snap"
+msgstr "スナップ"
+
+
+msgid "Folders"
+msgstr "フォルダ"
+
+
+msgctxt "Operator"
+msgid "Cleanup"
+msgstr "クリーンアップ"
+
+
+msgctxt "Operator"
+msgid "Save As..."
+msgstr "別名で保存"
+
+
+msgctxt "Operator"
+msgid "Save a Copy..."
+msgstr "コピーを保存"
+
+
+msgctxt "Operator"
+msgid "Fit"
+msgstr "縮小"
+
+
+msgctxt "Operator"
+msgid "Color"
+msgstr "カラー"
+
+
+msgctxt "Operator"
+msgid "Rotation"
+msgstr "回転"
+
+
+msgctxt "Operator"
+msgid "Scene"
+msgstr "シーン"
+
+
+msgctxt "Operator"
+msgid "Quit"
+msgstr "終了"
+
+
+msgctxt "Operator"
+msgid "Last Session"
+msgstr "直前のセッション"
+
+
+msgctxt "Operator"
+msgid "Auto Save..."
+msgstr "自動保存"
+
+
+msgctxt "Operator"
+msgid "Undo History..."
+msgstr "作業履歴"
+
+
+msgctxt "Operator"
+msgid "Repeat History..."
+msgstr "繰り返し実行"
+
+
+msgctxt "Operator"
+msgid "Adjust Last Operation..."
+msgstr "直前の調整値"
+
+
+msgctxt "Operator"
+msgid "Preferences..."
+msgstr "環境設定"
+
+
+msgctxt "Operator"
+msgid "Save Copy..."
+msgstr "コピーを保存"
+
+
+msgctxt "Operator"
+msgid "General"
+msgstr "一般"
+
+
+msgid "Splash Screen"
+msgstr "スプラッシュ画面"
+
+
+msgctxt "Operator"
+msgid "Camera"
+msgstr "カメラ"
+
+
+msgctxt "Operator"
+msgid "Grid"
+msgstr "格子"
+
+
+msgctxt "Operator"
+msgid "Background"
+msgstr "背景"
+
+
+msgctxt "Operator"
+msgid "Materials"
+msgstr "テクスチャ"
+
+
+msgctxt "Operator"
+msgid "Clean"
+msgstr "クリーンアップ"
+
+
+msgctxt "Operator"
+msgid "Flip"
+msgstr "反転"
+
+
+msgctxt "Operator"
+msgid "Close"
+msgstr "閉じる"
+
+
+msgid "Redo"
+msgstr "再試行"
+
+
+msgctxt "Scene"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Object"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Mesh"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Curve"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Metaball"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Material"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Texture"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Image"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Lattice"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Light"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Camera"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "World"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Screen"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Text"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Speaker"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Sound"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Armature"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Action"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "NodeTree"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Brush"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "ParticleSettings"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "GPencil"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "FreestyleLineStyle"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "WorkSpace"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "LightProbe"
+msgid "New"
+msgstr "新規作成"
+
+
+msgctxt "Mesh"
+msgid "Grid"
+msgstr "格子"
+
+
+msgid "No objects selected"
+msgstr "指定したオブジェクトが見つかりません。"
+
+
+msgid "OK"
+msgstr "OK"
+
+
+msgid "File path"
+msgstr "ファイルパス"
+
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+
+msgid "File name"
+msgstr "ファイル名"
+
+
+msgid "Date Modified"
+msgstr "更新日時"
+
+
+msgid "Value:"
+msgstr "値:"
+
+
+msgid "Open Recent"
+msgstr "最新のファイルを開く"
+
+
+msgid "Conversion"
+msgstr "変換"
+
+
+msgctxt "Sequence"
+msgid "Color Balance"
+msgstr "カラーバランス"
+
+
+msgid "English (English)"
+msgstr "英語 (English)"
+
+
+msgid "Japanese (日本語)"
+msgstr "日本語 (Japanese)"
+
+
+msgid "Simplified Chinese (简体中文)"
+msgstr "中国語 (簡体字)"
+
+
+msgid "Traditional Chinese (繁體中文)"
+msgstr "中国語 (繁体字)"
+
+
+msgid "Korean (한국 언어)"
+msgstr "韓国語 (Korean)"
+
+
+msgid "Complete"
+msgstr "完了"
+
+
+msgid "Starting"
+msgstr "開始"
+
+
+msgid "File Control"
+msgstr "ファイル"
+
+
+msgid "Toon Style"
+msgstr "漫画スタイル"
+
+
+msgid "Min Line Width"
+msgstr "線の太さ (極細)"
+
+
+msgid "Max Line Width"
+msgstr "線の太さ (極太)"
+
+
+msgid "Toon Color Depth"
+msgstr "色の表現数"
+
+
+msgid "Object Control"
+msgstr "オブジェクト設定"
+
+
+msgid "Brightness / Contrast"
+msgstr "明るさ / コントラスト"
+
+
+msgid "Color Balance"
+msgstr "カラーバランス"
+
+
+msgid "Hue / Saturation"
+msgstr "色調 / 彩度"
+
+
+msgid "Camera Control"
+msgstr "カメラ"
+
+
+msgid "F-stop"
+msgstr "Fストップ"
+
+
+msgid "Quick Render"
+msgstr "レンダリングを速くする"
+
+
+msgid "Line Render"
+msgstr "線のレンダリング"
+
+
+msgid "Shadow Render"
+msgstr "影のレンダリング"
+
+
+msgid "Altitude"
+msgstr "高度"
+
+
+msgid "Azimuth"
+msgstr "方位角"
+
+
+msgid "Remember Username"
+msgstr "IDを保存"
+
+
+msgid "Username"
+msgstr "ID"
+
+
+msgid "See ACON3D models!"
+msgstr "ACON3Dに移動"
+
+
+msgid "Don't have an ACON3D account?"
+msgstr "ACON3Dのアカウントがない場合、作成"
+
+
+msgid "Link to ABLER service notice"
+msgstr "ABLERからのお知らせを確認"
+
+
+msgid "Blender Release Notes"
+msgstr "BLENDERリリースノート"
+
+
+msgid "Blender Development Fund"
+msgstr "BLENDERを支援する"
+
+
+msgid "Welcome!"
+msgstr "ようこそ！"
+
+
+msgid "Please click outside the popup box to start ABLER."
+msgstr "ログインウインドウの外側をクリックしてABLERを開始
+"
+
+
+msgid "Brightness 1"
+msgstr "明るさ1"
+
+
+msgid "Brightness 2"
+msgstr "明るさ2"
+
+
+msgid "Import file according to the current settings (.skp, .fbx, .blend)"
+msgstr "現在の設定でファイルをインポート (.skp ファイル, .fbx ファイル, .blendファイル)"
+
+
+msgctxt "abler"
+msgid "SKP (.skp)"
+msgstr "SKPファイル (.skp)"
+
+
+msgid "FBX File (.fbx)"
+msgstr "FBXファイル (.fbx)"
+
+
+msgctxt "abler"
+msgid "FBX (.fbx)"
+msgstr "FBXファイル (.fbx)"
+
+
+msgid "Import Blender file according to the current settings"
+msgstr "現在の設定でBLENDERファイルをインポート"
+
+
+msgid "Import FBX file according to the current settings"
+msgstr "現在の設定でFBXファイルをインポート"
+
+
+msgid "Import SKP file according to the current settings"
+msgstr "現在の設定でSKPファイルをインポート"
+
+
+msgid "Change number of colors used for shading"
+msgstr "漫画スタイルの陰影表現で使用する色の数を調整します。"
+
+
+msgid "Change shading brightness (Range: 0 ~ 10)"
+msgstr "陰影の明るさを調整します (範囲: 0 ~ 10)"
+
+
+msgid "Adjust color balance (Range: 0 ~ 2)"
+msgstr "カラーバランスを調整します (範囲: 0 ~ 2)"
+
+
+msgid "Adjust hue (Range: 0 ~ 1)"
+msgstr "色調を調整します (範囲: 0 ~ 1)"
+
+
+msgid "Adjust saturation (Range: 0 ~ 2)"
+msgstr "彩度を調整します (範囲: 0 ~ 2)"
+
+
+msgid "Render according to the set pixel"
+msgstr "設定したピクセルでレンダリング"
+
+
+msgid "Renders only lines according to the set pixel"
+msgstr "設定したピクセルに合わせて線のみレンダリング"
+
+
+msgid "Renders only shadow according to the set pixel"
+msgstr "設定したピクセルに合わせて影のみレンダリング"
+
+
+msgctxt "Operator"
+msgid "Clone Material"
+msgstr "テクスチャーをコピー"
+
+
+msgid "Clone selected material"
+msgstr "指定したテクスチャーをコピーします。"
+
+
+msgctxt "Operator"
+msgid "About ABLER"
+msgstr "ABLER情報ウインドウ"
+
+
+msgid "Open a window with information about ABLER"
+msgstr "ABLER情報ウインドウを開く"
+
+
+msgctxt "abler"
+msgid "Camera View"
+msgstr "レンダリング領域をあわす"
+
+
+msgid "Fit render region to viewport"
+msgstr "レンダリング領域を画面サイズにあわせて調整"
+
+
+msgid "Indoor Daytime"
+msgstr "室内: 一般"
+
+
+msgid "Indoor Sunset"
+msgstr "室外: 夕焼け"
+
+
+msgid "Indoor Nighttime"
+msgstr "室内: 夜"
+
+
+msgid "Outdoor Daytime"
+msgstr "室外: 一般"
+
+
+msgid "Outdoor Sunset"
+msgstr "室外: 夕焼け"
+
+
+msgid "Outdoor Nighttime"
+msgstr "室外: 夜"
+
+
+msgid "File Open"
+msgstr "ファイルを開く"
+
+
+msgid "Open new file"
+msgstr "新しいファイルを開く"
+
+
+msgid "Use Current Scene Settings"
+msgstr "現在のシーンの設定を維持"
+
+
+msgid "Look at me"
+msgstr "正面に合わせる"
+
+
+msgid "Render Queue Finished"
+msgstr "レンダリングがすべて終了"
+
+
+msgid "Rendered images are saved in:"
+msgstr "別の場所に保存:"
+
+
+msgid "Snip Render"
+msgstr "レンダリングを切り取る"
+
+
+msgid "Group Navigation"
+msgstr "グループナビゲーション"
+
+
+msgid "Group Navigate Top"
+msgstr "最上位グループ"
+
+
+msgid "Group Navigate Up"
+msgstr "上位グループ"
+
+
+msgid "Group Navigate Down"
+msgstr "下位グループ"
+
+
+msgid "Group Navigate Bottom"
+msgstr "最下位グループ"
+
+
+msgid "Save As..."
+msgstr "別名で保存"
+
+
+msgid "Logout user account"
+msgstr "現在使用中のアカウントのみログアウト"
+
+
+msgid "Log Out"
+msgstr "ログアウト"
+
+
+msgid "No selected object"
+msgstr "指定されたエンティティがありません。"
+
+
+msgid "Show ABLER Starts"
+msgstr "ABLER実行時に表示"
+
+
+msgid "Open ABLER Guide"
+msgstr "ABLERガイドを実行
+"
+
+
+msgid "Mouse Mode"
+msgstr "マウスモード"
+
+
+msgid "Fly Mode"
+msgstr "フライモード"
+
+
+msgid "Scene Control"
+msgstr "操作する"
+
+
+msgctxt "Operator"
+msgid "ABLER Guide"
+msgstr "ガイドを見る"
+
+
+msgid "Default Image"
+msgstr "基本イメージ"
+
+
+msgid "Open Default Background Image"
+msgstr "基本の背景イメージを開く"
+
+
+msgid "Adjust the overall gamma value and light up indoor space along with exposure (range: 0 ~ 5)"
+msgstr "全体的なガンマ補正値を校正します。露光量とともに室内で使用できます (範囲: 0 ~ 5)"
+
+
+msgid "Update ABLER"
+msgstr "ABLERアップデート"
+
+
+msgid "Check for Updates"
+msgstr "アップデートを確認"
+
+
+msgid "Latest version found for ABLER. Do you want to update?"
+msgstr "最新バージョンのABLERがあります。アップデートしますか。"
+
+
+msgid "Import Failure"
+msgstr "インポートに失敗しました。"
+
+
+msgid "Cannot import exact same file from same directory."
+msgstr "同じディレクトリ内のファイルはインポートできません。"
+
+
+msgid "Cannot import selected file."
+msgstr "指定したファイルはインポートできません。"
+
+
+msgid "Close ABLER"
+msgstr "ABLERを閉じる"
+
+
+msgid "Open Files"
+msgstr "ファイルを開く"
+
+
+msgid "Save .blend Files"
+msgstr ".blendファイルを保存"
+
+
+msgid "Open Image Files"
+msgstr "イメージファイルを開く"
+
+
+msgid "Save Image Files"
+msgstr "イメージファイルを保存"
+
+
+msgctxt "abler"
+msgid "Quick Start Guide"
+msgstr "操作チュートリアルを見る"
+
+
+msgid "Show tutorial guide"
+msgstr "チュートリアルガイドを開く"
+
+
+msgctxt "abler"
+msgid "Open"
+msgstr "開く"
+
+
+msgctxt "abler"
+msgid "Open..."
+msgstr "開く"
+
+
+msgid "Open new file"
+msgstr "新しいファイルを開く"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "インポート"
+
+
+msgid "Import file according to the current settings (.skp, .fbx, .blend)"
+msgstr "現在の設定でファイルをインポート (.skp ファイル, .fbx ファイル, .blendファイル)"
+
+
+msgid "Finish importing file"
+msgstr "インポート完了"
+
+
+msgctxt "abler"
+msgid "Save"
+msgstr "保存"
+
+
+msgid "Save the current Blender file"
+msgstr "このBLENDERファイルを保存"
+
+
+msgid "Save the current file in the desired location"
+msgstr "別名でこのファイルを保存"
+
+
+msgctxt "abler"
+msgid "Language"
+msgstr "言語"
+
+
+msgid "Language used for translation"
+msgstr "ABLERの言語を設定"
+
+
+msgid "Automatically choose system's defined language if available, or fall-back to English"
+msgstr "OSの言語に自動設定もしくは基本言語の英語に設定"
+
+
+msgctxt "abler"
+msgid "English (English)"
+msgstr "英語 (English)"
+
+
+msgctxt "abler"
+msgid "Korean (한국어)"
+msgstr "韓国語 (Korean)"
+
+
+msgctxt "abler"
+msgid "Japanese (日本語)"
+msgstr "日本語 (Japanese)"
+
+
+msgctxt "abler"
+msgid "Fly with WASD (shift + `)"
+msgstr "フライモード (WASD)"
+
+
+msgid "Move around the scene using WASD, QE, and mouse like FPS games"
+msgstr "WASDキーを使用して画面を移動"
+
+
+msgctxt "abler"
+msgid "Camera Control"
+msgstr "カメラ設定"
+
+
+msgctxt "abler"
+msgid "Focal Length"
+msgstr "焦点距離"
+
+
+msgid "Adjust perspective camera lens value in millimeters (Range: 1~100)"
+msgstr "焦点距離が短くなると撮影範囲が広がり、長くなると撮影範囲が狭くなって被写体は大きくなります (範囲: 1~100)"
+
+
+msgctxt "abler"
+msgid "Depth of Field"
+msgstr "被写界深度 (DOF)"
+
+
+msgid "Blur objects at a certain distance using the values set below"
+msgstr "以下で設定した値を使用して特定の距離にあるオブジェクトをぼやかします。"
+
+
+msgctxt "abler"
+msgid "Focus on Object"
+msgstr "オブジェクトにフォーカス"
+
+
+msgid "Use this object to define the depth of field focal point"
+msgstr "スポイトで選択したオブジェクトに焦点を当てます。 解除する場合、右側のX印を押してください。"
+
+
+msgctxt "Operator"
+msgid "Object Picker"
+msgstr "オブジェクトピッカー"
+
+
+msgid "Select object to focus on"
+msgstr "焦点になるオブジェクトを選択します。"
+
+
+msgctxt "abler"
+msgid "Focus Distance"
+msgstr "焦点距離"
+
+
+msgid "Adjust distance to the focus point for depth of field"
+msgstr "被写界深度を適用する距離を調整します。"
+
+
+msgid "Adjust F-stop ratio (lower numbers give more defocus, higher numbers give a sharper image)"
+msgstr "絞りを調整してアウトフォーカスの程度を調整します。
+ 低いほどぼやけます。"
+
+
+msgctxt "abler"
+msgid "Background"
+msgstr "背景"
+
+
+msgctxt "abler"
+msgid "Background Images"
+msgstr "背景イメージ"
+
+
+msgctxt "abler"
+msgid "Add Image"
+msgstr "イメージ追加"
+
+
+msgid "Add a new background image"
+msgstr "新しい背景イメージを追加"
+
+
+msgctxt "abler"
+msgid "Not Set"
+msgstr "未設定"
+
+
+msgctxt "abler"
+msgid "Remove background image"
+msgstr "削除"
+
+
+msgid "Remove current background image"
+msgstr "現在の背景イメージを削除"
+
+
+msgctxt "abler"
+msgid "Default Image"
+msgstr "基本イメージ"
+
+
+msgid "Open default background image"
+msgstr "基本の背景イメージを開く"
+
+
+msgctxt "abler"
+msgid "Custom Image"
+msgstr "ユーザーイメージ"
+
+
+msgid "Open custom background image"
+msgstr "ユーザーのディレクトリで背景イメージを探す"
+
+
+msgctxt "abler"
+msgid "Opacity"
+msgstr "不透明度"
+
+
+msgid "Adjust image opacity to blend the image against the background color"
+msgstr "背景イメージの透明度を設定"
+
+
+msgid "Back"
+msgstr "背面"
+
+
+msgid "Front"
+msgstr "前面"
+
+
+msgctxt "abler"
+msgid "Stretch"
+msgstr "拡大"
+
+
+msgctxt "abler"
+msgid "Fit"
+msgstr "縮小"
+
+
+msgctxt "abler"
+msgid "Crop"
+msgstr "切り取り"
+
+
+msgctxt "abler"
+msgid "Offset"
+msgstr "オフセット"
+
+
+msgid "Move image according to x-axis and y-axis"
+msgstr "イメージをx軸とy軸の方向に移動"
+
+
+msgctxt "abler"
+msgid "Rotation"
+msgstr "回転"
+
+
+msgid "Rotate background image"
+msgstr "背景イメージを回転"
+
+
+msgctxt "abler"
+msgid "Scale"
+msgstr "サイズ調整"
+
+
+msgid "Scale background image"
+msgstr "背景イメージのサイズを調整"
+
+
+msgctxt "abler"
+msgid "Flip"
+msgstr "反転"
+
+
+msgid "Flip X-axis"
+msgstr "左右反転"
+
+
+msgid "Flip the background image horizontally"
+msgstr "背景イメージを左右に反転"
+
+
+msgid "Flip Y-axis"
+msgstr "上下反転"
+
+
+msgid "Flip the background image vertically"
+msgstr "背景イメージを上下に反転"
+
+
+msgctxt "abler"
+msgid "Scene"
+msgstr "シーン"
+
+
+msgctxt "abler"
+msgid "Scenes"
+msgstr "シーン"
+
+
+msgid "Click to apply and double click to rename"
+msgstr "クリックで適用、ダブルクリックで名前を変更"
+
+
+msgctxt "abler"
+msgid "Add New Scene"
+msgstr "シーンの追加"
+
+
+msgid "Create a new scene with current viewport"
+msgstr "現在のviewportに新しいシーンを追加"
+
+
+msgctxt "abler"
+msgid "Name"
+msgstr "名前"
+
+
+msgid "Write scene name"
+msgstr "シーン名を入力"
+
+
+msgctxt "abler"
+msgid "Preset"
+msgstr "プリセット"
+
+
+msgid "Select scene preset"
+msgstr "プリセットを選択"
+
+
+msgctxt "abler"
+msgid "Remove Scene"
+msgstr "シーンの削除"
+
+
+msgid "Remove current scene from this file"
+msgstr "ファイル内で現在のシーンを削除"
+
+
+msgctxt "abler"
+msgid "Object Control"
+msgstr "オブジェクト設定"
+
+
+msgctxt "abler"
+msgid "Look At Me"
+msgstr "正面に合わせる"
+
+
+msgid "Set object to look camera"
+msgstr "指定したオブジェクトをカメラに向けます。"
+
+
+msgctxt "abler"
+msgid "Group Navigation"
+msgstr "グループナビゲーション"
+
+
+msgctxt "abler"
+msgid "No selected object"
+msgstr "指定したオブジェクトが見つかりません。"
+
+
+msgctxt "abler"
+msgid "Object Name"
+msgstr "オブジェクト名"
+
+
+msgid "$(Object name)"
+msgstr "$(オブジェクト名)"
+
+
+msgctxt "abler"
+msgid "Top Group"
+msgstr "最上位グループ"
+
+
+msgid "Move to top group"
+msgstr "最上位グループに移動"
+
+
+msgctxt "abler"
+msgid "Upper Group"
+msgstr "上位グループ"
+
+
+msgid "Move to upper group"
+msgstr "上位グループに移動"
+
+
+msgctxt "abler"
+msgid "Lower Group"
+msgstr "下位グループ"
+
+
+msgid "Move to lower group"
+msgstr "下位グループに移動"
+
+
+msgctxt "abler"
+msgid "Bottom Group"
+msgstr "最下位グループ"
+
+
+msgid "Move to bottom group/object"
+msgstr "最上位グループに移動"
+
+
+msgctxt "abler"
+msgid "Layer Exclude"
+msgstr "レイアーの表示 / 非表示"
+
+
+msgid "Choose if the objects in the current layer visible in the viewport or not"
+msgstr "指定したレイアー内のオブジェクトを表示もしくは非表示にする"
+
+
+msgctxt "abler"
+msgid "Layer Lock"
+msgstr "レイアーのロック / 解除"
+
+
+msgid "Choose if the objects in the current layer lock in the viewport or not"
+msgstr "指定したレイアー内のオブジェクトをロックもしくは解除する"
+
+
+msgctxt "abler"
+msgid "Texture"
+msgstr "テクスチャ"
+
+
+msgid "Express material texture"
+msgstr "チェックすると、面のテクスチャが表示されます。"
+
+
+msgctxt "abler"
+msgid "Line"
+msgstr "線"
+
+
+msgid "Express toon style line profile"
+msgstr "モデルの線を漫画スタイルで表現します。"
+
+
+msgctxt "abler"
+msgid "Min Line Width"
+msgstr "線の太さ (極細)"
+
+
+msgid "Adjust the thickness of minimum depth edges (Range: 0 ~ 5)"
+msgstr "最も深度が浅い線の太さを調整します (範囲: 0 ~ 5)"
+
+
+msgctxt "abler"
+msgid "Max Line Width"
+msgstr "線の太さ (極太)"
+
+
+msgid "Adjust the thickness of maximum depth edges (Range: 0 ~ 5)"
+msgstr "最も深度が深い線の太さを調整します (範囲: 0 ~ 5)"
+
+
+msgid "Line Detail"
+msgstr "線の詳細"
+
+
+msgid "Adjust amount of edges to be shown (Range: 0 ~ 20, Recommended: 1.2)"
+msgstr "見える線の度合いを調整します (範囲: 0 ~ 20, 推奨: 1.2)"
+
+
+msgctxt "abler"
+msgid "Sunlight"
+msgstr "自然光"
+
+
+msgid "Express sunlight"
+msgstr "チェックすると、自然光が表示されます。"
+
+
+msgctxt "abler"
+msgid "Strength"
+msgstr "明るさ"
+
+
+msgid "Control the strength of sunlight (Range: 0 ~ 10)"
+msgstr "自然光の明るさを調整します (範囲: 0 ~ 10)"
+
+
+msgctxt "abler"
+msgid "Altitude"
+msgstr "高度"
+
+
+msgid "Adjust sun altitude"
+msgstr "自然光の高度を調整します。"
+
+
+msgctxt "abler"
+msgid "Azimuth"
+msgstr "方位角"
+
+
+msgid "Adjust sun azimuth"
+msgstr "太陽の方向(方位角)を調整します。"
+
+
+msgctxt "abler"
+msgid "Shadow / Shading"
+msgstr "影 / 陰影"
+
+
+msgid "Express shadow and shading"
+msgstr "チェックすると、影と陰影が表示されます。"
+
+
+msgctxt "abler"
+msgid "Shadow"
+msgstr "影"
+
+
+msgid "Express shadow"
+msgstr "チェックすると、影が表示されます。"
+
+
+msgctxt "abler"
+msgid "Toon Style Shading"
+msgstr "漫画スタイル"
+
+
+msgid "Express toon style face"
+msgstr "チェックすると、モデルの面が漫画スタイルで表現されます。"
+
+
+msgctxt "abler"
+msgid "Toon Color Depth"
+msgstr "色の表現数"
+
+
+msgid "Change number of colors used for shading"
+msgstr "漫画スタイルの陰影表現で使用する色の数を調整します。"
+
+
+msgctxt "abler"
+msgid "Brightness1"
+msgstr "明るさ1"
+
+
+msgid "Change shading brightness (Range: 0 ~ 10)"
+msgstr "陰影の明るさを調整します (範囲: 0 ~ 10)"
+
+
+msgctxt "abler"
+msgid "Brightness2"
+msgstr "明るさ2"
+
+
+msgctxt "abler"
+msgid "Object Properties"
+msgstr "オブジェクト属性"
+
+
+msgid "Exclude shadow of selected object"
+msgstr "指定したオブジェクトの影を除外"
+
+
+msgid "Exclude shading of selected object"
+msgstr "指定したオブジェクトの陰影を除外"
+
+
+msgid "Exclude line of selected object"
+msgstr "指定したオブジェクトの線を除外"
+
+
+msgid "Active Material List"
+msgstr "指定したオブジェクトのテクスチャーリスト"
+
+
+msgctxt "abler"
+msgid "Material Type"
+msgstr "テクスチャータイプ"
+
+
+msgid "Material Type Strength"
+msgstr "テクスチャータイプの強度"
+
+
+msgid "Adjust material type strength (Range: 0 ~ 1)"
+msgstr "テクスチャータイプの強度を設定します (範囲: 0 ~ 1)"
+
+
+msgid "See all material list included in the file"
+msgstr "ファイルに含まれるすべてのテクスチャーを確認"
+
+
+msgid "Show name of selected material or search another material"
+msgstr "現在指定したテクスチャーの名前を表示もしくは他のテクスチャーを選択します。"
+
+
+msgctxt "abler"
+msgid "Number of Users"
+msgstr "テクスチャーの使用回数"
+
+
+msgid "Display number of users of this data (click to make a single-user copy)"
+msgstr "指定したデータが何回使用されたか表示します (クリックで指定したデータをコピーします)"
+
+
+msgid "Fake User"
+msgstr "適用オブジェクトなしでテクスチャーを保存"
+
+
+msgctxt "abler"
+msgid "Clone Material"
+msgstr "テクスチャーをコピー"
+
+
+msgid "Copy selected material"
+msgstr "指定したテクスチャーをコピーします。"
+
+
+msgctxt "abler"
+msgid "Bloom"
+msgstr "ブルーム効果"
+
+
+msgid "Create a shining effect with high luminance pixels"
+msgstr "ブルーム効果を適用"
+
+
+msgid "Filter out pixels under this level of brightness (Range: 0 ~ 10)"
+msgstr "ブルーム効果のしきい値を変更します。しきい値が小さいほど光がより拡散します (範囲: 0 ~ 10)"
+
+
+msgctxt "abler"
+msgid "Knee"
+msgstr "変曲点"
+
+
+msgid "Make transition between under/over-threshold (Range: 0 ~ 1)"
+msgstr "しきい値前後の値をより自然に変化させます (範囲: 0 ~ 1)"
+
+
+msgctxt "abler"
+msgid "Radius"
+msgstr "半径"
+
+
+msgid "Adjust spreading distance of bloom effect (Range: 0 ~ 10)"
+msgstr "ブルーム効果が広がる距離を調整します (範囲: 0 ~ 10)"
+
+
+msgctxt "abler"
+msgid "Color"
+msgstr "カラー"
+
+
+msgid "Select color of bloom effect"
+msgstr "ブルーム効果で適用するカラーを選択します。"
+
+
+msgctxt "abler"
+msgid "Intensity"
+msgstr "強度"
+
+
+msgid "Change bloom intensity (Range: 0 ~ 1)"
+msgstr "ブルーム効果の強度を調整します (範囲: 0 ~ 1)"
+
+
+msgctxt "abler"
+msgid "Clamp"
+msgstr "クランプ"
+
+
+msgid "Adjust maximum intensity of bloom effect that each pixel can have (0 to disable) (Range: 0 ~ 1000)"
+msgstr "ブルーム効果で各ピクセルが表せる最大の明るさを調整します (範囲: 0 ~ 1000)"
+
+
+msgctxt "abler"
+msgid "Color Adjustment"
+msgstr "カラー補正"
+
+
+msgctxt "abler"
+msgid "Brightness / Contrast"
+msgstr "明るさ / コントラスト"
+
+
+msgctxt "abler"
+msgid "Brightness"
+msgstr "明るさ"
+
+
+msgctxt "abler"
+msgid "Contrast"
+msgstr "コントラスト"
+
+
+msgctxt "abler"
+msgid "Color Balance"
+msgstr "カラーバランス"
+
+
+msgctxt "abler"
+msgid "Red"
+msgstr "赤"
+
+
+msgid "Adjust color balance (Range: 0 ~ 2)"
+msgstr "カラーバランスを調整します (範囲: 0 ~ 2)"
+
+
+msgctxt "abler"
+msgid "Green"
+msgstr "緑"
+
+
+msgctxt "abler"
+msgid "Blue"
+msgstr "青"
+
+
+msgctxt "abler"
+msgid "Hue / Saturation"
+msgstr "色調 / 彩度"
+
+
+msgctxt "abler"
+msgid "Hue"
+msgstr "色調"
+
+
+msgid "Adjust hue (Range: 0 ~ 1)"
+msgstr "色調を調整します (範囲: 0 ~ 1)"
+
+
+msgctxt "abler"
+msgid "Saturation"
+msgstr "彩度"
+
+
+msgid "Adjust saturation (Range: 0 ~ 2)"
+msgstr "彩度を調整します (範囲: 0 ~ 2)"
+
+
+msgctxt "abler"
+msgid "Exposure"
+msgstr "露光量"
+
+
+msgctxt "abler"
+msgid "Gamma"
+msgstr "ガンマ補正"
+
+
+msgid "Adjust the overall gamma value and light up indoor space along with exposure (range: 0 ~ 5)"
+msgstr "全体的なガンマ補正値を校正します。露光量とともに室内で使用できます (範囲: 0 ~ 5)"
+
+
+msgctxt "abler"
+msgid "High-Quality Render"
+msgstr "高品質レンダリング"
+
+
+msgid "Fit render region to viewport"
+msgstr "レンダリング領域を画面サイズにあわせて調整"
+
+
+msgid "Set number of horizontal pixels in the rendered image"
+msgstr "レンダリングしたイメージの水平ピクセルの数を設定"
+
+
+msgid "Set number of vertical pixels in the rendered image"
+msgstr "レンダリングしたイメージの垂直ピクセルの数を設定"
+
+
+msgctxt "abler"
+msgid "Full Render"
+msgstr "フルレンダリング"
+
+
+msgid "Render according to the set pixel"
+msgstr "設定したピクセルに合わせて全体のイメージをレンダリング"
+
+
+msgctxt "abler"
+msgid "Texture Render"
+msgstr "テクスチャーのレンダリング"
+
+
+msgid "Render only textures according to the set pixel"
+msgstr "設定したピクセルに合わせてテクスチャーのみレンダリング"
+
+
+msgctxt "abler"
+msgid "Line Render"
+msgstr "線のレンダリング"
+
+
+msgid "Render only lines according to the set pixel"
+msgstr "設定したピクセルに合わせて線のみレンダリング"
+
+
+msgctxt "abler"
+msgid "Shadow Render"
+msgstr "影のレンダリング"
+
+
+msgid "Render only shadow according to the set pixel"
+msgstr "設定したピクセルに合わせて影のみレンダリング"
+
+
+msgid "Scene List"
+msgstr "シーンリスト"
+
+
+msgid "Select scene to render"
+msgstr "レンダリングするシーンを選択"
+
+
+msgctxt "abler"
+msgid "Render Selected Scenes"
+msgstr "指定したシーンをレンダリング"
+
+
+msgid "Render with high quality according to the set pixel"
+msgstr "設定したピクセルでレンダリング"
+
+
+msgid "Total Rendering Progress"
+msgstr "フルレンダリングの進行状況"
+
+
+msgctxt "abler"
+msgid "Start"
+msgstr "レンダリング開始
+"
+
+
+msgctxt "abler"
+msgid "Finish"
+msgstr "レンダリング完了"
+
+
+msgctxt "abler"
+msgid "Time Span"
+msgstr "レンダリング所要時間"
+
+
+msgid "Finish render and close render progress module"
+msgstr "レンダリングを完了し、進行状況モジュールを閉じる"
+
+
+msgid "Save and render with high quality according to the set pixel"
+msgstr "保存後、設定したピクセルでレンダリング"
+
+
+msgctxt "abler"
+msgid "Quick Render"
+msgstr "レンダリングを速くする"
+
+
+msgctxt "abler"
+msgid "Render Viewport"
+msgstr "レンダリングする"
+
+
+msgid "Take a snapshot of the active viewport"
+msgstr "画面の表示範囲だけを高速レンダリングする"
+
+
+msgctxt "abler"
+msgid "Snip Render"
+msgstr "レンダリングを切り取る"
+
+
+msgid "Render selected objects isolatedly from background"
+msgstr "指定したオブジェクトを切り取り、レンダリングイメージに保存"
+
+
+msgctxt "abler"
+msgid "Box Select"
+msgstr "ボックス選択"
+
+
+msgid "Select items using box selection"
+msgstr "ボックス選択で項目を選択"
+
+
+msgctxt "abler"
+msgid "Tweak"
+msgstr "ねじり"
+
+
+msgid "Select and activate item(s)"
+msgstr "項目を選択およびアクティブ化"
+
+
+msgctxt "abler"
+msgid "Circle Select"
+msgstr "楕円選択"
+
+
+msgid "Select items using circle selection"
+msgstr "楕円選択で項目を選択"
+
+
+msgctxt "abler"
+msgid "Lasso Select"
+msgstr "なげなわ選択"
+
+
+msgid "Select items using lasso selection"
+msgstr "なげなわ選択で項目を選択"
+
+
+msgctxt "abler"
+msgid "Move"
+msgstr "移動"
+
+
+msgid "Move selected items"
+msgstr "指定した項目を移動"
+
+
+msgctxt "abler"
+msgid "Rotate"
+msgstr "回転"
+
+
+msgid "Rotate selected items"
+msgstr "指定した項目を回転"
+
+
+msgid "Scale (resize) selected items"
+msgstr "指定した項目のサイズを調整"
+
+
+msgctxt "abler"
+msgid "Transform"
+msgstr "変換"
+
+
+msgid "Support any combination of grab, rotate, and scale at once"
+msgstr "指定したオブジェクトを変換 (移動 / 回転 / サイズ調整)"
+
+
+msgid "Display active workspace showing in the window"
+msgstr "現在作業中のワークスペースを表示"
+
+
+msgid "Add new workspace"
+msgstr "新しいワークスペースを追加"
+
+
+msgid "Snap"
+msgstr "スナップ"
+
+
+msgid "Snap selected element to another"
+msgstr "指定した要素を他の要素にスナップ
+"
+
+
+msgid "Snap To"
+msgstr "スナップ位置"
+
+
+msgid "Increment"
+msgstr "格子"
+
+
+msgid "Snap to increment of grid"
+msgstr "格子単位でオブジェクトをスナップ"
+
+
+msgid "Vertex"
+msgstr "頂点"
+
+
+msgid "Snap to vertex"
+msgstr "オブジェクトの頂点にスナップ"
+
+
+msgid "Edge"
+msgstr "エッジ"
+
+
+msgid "Snap to edge"
+msgstr "オブジェクトのエッジにスナップ"
+
+
+msgid "Face"
+msgstr "面"
+
+
+msgid "Snap to face"
+msgstr "オブジェクトの面上にスナップ"
+
+
+msgid "Volume"
+msgstr "ボリューム"
+
+
+msgid "Snap to volume"
+msgstr "オブジェクトのボリュームにスナップ"
+
+
+msgid "Edge Center"
+msgstr "エッジの中央"
+
+
+msgid "Snap to the middle of edge"
+msgstr "エッジの中央にスナップ"
+
+
+msgid "Edge Perpendicular"
+msgstr "エッジに垂直"
+
+
+msgid "Snap to the nearest point of edge"
+msgstr "エッジに垂直にスナップ"
+
+
+msgid "Absolute Grid Snap"
+msgstr "絶対座標系の格子でスナップ"
+
+
+msgid "Snap to increment of absolute grid"
+msgstr "絶対座標系の中心を基準にスナップ"
+
+
+msgid "Snap With"
+msgstr "スナップ方法"
+
+
+msgid "Closest"
+msgstr "最短距離"
+
+
+msgid "Snap closest point onto target"
+msgstr "最も近いポイントを対象にスナップ"
+
+
+msgid "Center"
+msgstr "中心"
+
+
+msgid "Snap transformation center onto target"
+msgstr "中心に向かってスナップ"
+
+
+msgid "Median"
+msgstr "中央"
+
+
+msgid "Snap median onto target"
+msgstr "中点に向かってスナップ"
+
+
+msgid "Active"
+msgstr "アクティブ"
+
+
+msgid "Snap active onto target"
+msgstr "アクティブ化した部分を対象にスナップ"
+
+
+msgid "Backface Culling"
+msgstr "背面除外"
+
+
+msgid "Exclude back facing geometry from snapping"
+msgstr "スナップ対象の背面をスナップ対象から除外"
+
+
+msgid "Align Rotation to Target"
+msgstr "スナップ対象と回転整列"
+
+
+msgid "Align rotation with the snapping target"
+msgstr "スナップ対象とスナップするオブジェクトの回転を整列"
+
+
+msgid "Project Individual Elements"
+msgstr "すべての要素をスナップ"
+
+
+msgid "Project individual elements on the surface of other objects"
+msgstr "指定したオブジェクトのすべての要素をスナップ"
+
+
+msgid "Snap Peel Object"
+msgstr "オブジェクトの集合をスナップ"
+
+
+msgid "Consider objects as whole when finding volume center"
+msgstr "指定した複数のオブジェクトを単一オブジェクトに認識して中心を指定"
+
+
+msgid "Affect"
+msgstr "スナップ範囲"
+
+
+msgid "Apply snap setting when moving object"
+msgstr "オブジェクトの移動時にスナップ"
+
+
+msgid "Apply snap setting when rotating object"
+msgstr "オブジェクトの回転時にスナップ"
+
+
+msgid "Apply snap setting when scaling object"
+msgstr "オブジェクトのサイズ調整時にスナップ"
+
+
+msgid "Save the current file in the desired location but do not make the saved file active"
+msgstr "このファイルを指定した場所にコピーして保存"
+
+
+msgctxt "abler"
+msgid "Cancel"
+msgstr "キャンセル"
+
+
+msgid "Import selected file"
+msgstr "指定したファイルをviewportにインポート"
+
+
+msgctxt "abler"
+msgid "Username"
+msgstr "ID"
+
+
+msgid "Insert username"
+msgstr "IDを入力"
+
+
+msgctxt "abler"
+msgid "Password"
+msgstr "パスワード"
+
+
+msgid "Insert password"
+msgstr "パスワードを入力"
+
+
+msgid "Show Password"
+msgstr "パスワード表示"
+
+
+msgid "Show password (Use only in private environment)"
+msgstr "パスワードを表示"
+
+
+msgctxt "abler"
+msgid "Submit"
+msgstr "入力"
+
+
+msgid "Click to login"
+msgstr "ログイン"
+
+
+msgctxt "abler"
+msgid "Remember Username"
+msgstr "IDを保存"
+
+
+msgid "Autofill this username next time"
+msgstr "次回ログインからID入力を省略"
+
+
+msgid "Link to ACON3D"
+msgstr "ACON3Dに移動"
+
+
+msgid "Sign up for ACON3D"
+msgstr "ACON3Dの会員登録ページに移動"
+
+
+msgid "Link to Blender Foundation and check release notes"
+msgstr "BLENDERファウンデーションに移動してリリースノートを確認"
+
+
+msgid "Link to Blender development donation program to support maintenance and improvements"
+msgstr "BLENDERファウンデーションに移動してメンテナンスを支援"
+
+
+msgid "Link to ABLER service notice"
+msgstr "ABLERからのお知らせを確認"
+
+
+msgctxt "abler"
+msgid "Mouse Mode"
+msgstr "マウスモード"
+
+
+msgid "Explain how to navigate with mouse control"
+msgstr "ABLERのマウス操作を説明します。"
+
+
+msgctxt "abler"
+msgid "Fly Mode"
+msgstr "フライモード"
+
+
+msgid "Explain how to navigate with WASD+QE"
+msgstr "ABLERのWASD+QE操作を説明します。"
+
+
+msgctxt "abler"
+msgid "Scene Control"
+msgstr "操作する"
+
+
+msgid "Explain how to control object and viewport"
+msgstr "viewportのオブジェクト操作を説明します。"
+
+
+msgctxt "abler"
+msgid "ABLER Guide"
+msgstr "ガイドを見る"
+
+
+msgid "Link to official ABLER guide"
+msgstr "ABLERガイドに移動"
+
+
+msgid "Close tutorial guide"
+msgstr "操作案内を終了"
+
+
+msgid "Always Show"
+msgstr "ABLER実行時に表示"
+
+
+msgid "Always show tutorial guide when starting ABLER"
+msgstr "ABLER実行時に常に表示"
+
+
+msgctxt "abler"
+msgid "Active System Folder"
+msgstr "アクティブシステムフォルダ"
+
+
+msgid "Click to apply and double click to rename"
+msgstr "クリックで適用、ダブルクリックで名前を変更"
+
+
+msgctxt "abler"
+msgid "Active System Bookmark"
+msgstr "アクティブシステムブックマーク"
+
+
+msgctxt "abler"
+msgid "Active Bookmark"
+msgstr "アクティブブックマーク"
+
+
+msgctxt "abler"
+msgid "Add Bookmark"
+msgstr "ブックマークに追加"
+
+
+msgid "Add a bookmark for the selected/active directory"
+msgstr "指定したアクティブディレクトリにブックマークを追加"
+
+
+msgctxt "abler"
+msgid "Delete Bookmark"
+msgstr "ブックマークを削除"
+
+
+msgid "Delete selected bookmark"
+msgstr "指定したブックマークを削除"
+
+
+msgid "Show menu for bookmark"
+msgstr "ブックマーク移動メニューを表示"
+
+
+msgctxt "abler"
+msgid "Cleanup"
+msgstr "ブックマークをクリーンアップ"
+
+
+msgid "Delete all invalid bookmarks"
+msgstr "削除したブックマークをすべて消去"
+
+
+msgctxt "abler"
+msgid "Move Bookmark"
+msgstr "ブックマークに移動"
+
+
+msgid "Move the active bookmark up/down in the list"
+msgstr "リストのアクティブブックマークを上下に移動"
+
+
+msgctxt "abler"
+msgid "Active Recent Folder"
+msgstr "アクティブな最近のフォルダ"
+
+
+msgctxt "abler"
+msgid "Reset Recent"
+msgstr "最近のフォルダを再設定"
+
+
+msgid "Reset recent files directory list"
+msgstr "最近のファイルリストを削除"
+
+
+msgctxt "abler"
+msgid "Previous Folder"
+msgstr "前のフォルダ"
+
+
+msgid "Move to previous folder"
+msgstr "前のフォルダに移動"
+
+
+msgctxt "abler"
+msgid "Next Folder"
+msgstr "次のフォルダ"
+
+
+msgid "Move to next folder"
+msgstr "次のフォルダに移動"
+
+
+msgid "Parent File"
+msgstr "上位ディレクトリ"
+
+
+msgid "Move to parent directory"
+msgstr "上位ディレクトリに移動"
+
+
+msgctxt "Operator"
+msgid "Refresh File List"
+msgstr "再読み込み"
+
+
+msgid "Refresh the file list"
+msgstr "新しいリストを読み込む"
+
+
+msgctxt "Operator"
+msgid "Create New Directory"
+msgstr "新しいディレクトリを作成"
+
+
+msgid "Create a new directory"
+msgstr "新しいディレクトリを作成する"
+
+
+msgctxt "abler"
+msgid "Directory"
+msgstr "ディレクトリ"
+
+
+msgid "File Path"
+msgstr "ファイルパス"
+
+
+msgctxt "abler"
+msgid "Name Filter"
+msgstr "名前フィルター"
+
+
+msgid "Filter by name, supports '*' wildcard."
+msgstr "名前でフィルターする (ワイルドカード文字 "*")"
+
+
+msgctxt "abler"
+msgid "Display Mode"
+msgstr "表示モード"
+
+
+msgid "Display Settings"
+msgstr "ファイル表示設定"
+
+
+msgid "Enable filtering of files"
+msgstr "ファイルのフィルタリングを使用"
+
+
+msgid "Filter Settings"
+msgstr "フィルター設定"
+
+
+msgctxt "abler"
+msgid "File Name"
+msgstr "ファイル名"
+
+
+msgid "File name"
+msgstr "ファイル名を入力"
+
+
+msgctxt "abler"
+msgid "Open Files"
+msgstr "ファイルを開く"
+
+
+msgctxt "abler"
+msgid "Cancel"
+msgstr "キャンセル"
+
+
+msgctxt "abler"
+msgid "Import Files"
+msgstr "ファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "インポート"
+
+
+msgctxt "abler"
+msgid "Save .blend Files"
+msgstr ".blendファイルを保存"
+
+
+msgctxt "abler"
+msgid "Save As..."
+msgstr "別名で保存"
+
+
+msgctxt "abler"
+msgid "Open Image Files"
+msgstr "イメージファイルを開く"
+
+
+msgctxt "abler"
+msgid "Default Image"
+msgstr "基本イメージ"
+
+
+msgctxt "abler"
+msgid "Custom Image"
+msgstr "ユーザーイメージ"
+
+
+msgctxt "abler"
+msgid "Save Image Files"
+msgstr "イメージファイルを保存"
+
+
+msgctxt "abler"
+msgid "Render"
+msgstr "レンダリング"
+
+
+msgctxt "abler"
+msgid "Save"
+msgstr "保存"
+
+
+msgctxt "abler"
+msgid "Save Copy..."
+msgstr "コピーを保存"
+
+
+msgctxt "abler"
+msgid "Import SKP"
+msgstr "SKPファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import FBX"
+msgstr "FBXファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import BLEND"
+msgstr "BLENDファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import Failure"
+msgstr "インポートに失敗しました。"
+
+
+msgctxt "abler"
+msgid "Cannot import the exact same file from the same directory."
+msgstr "同じディレクトリ内のファイルはインポートできません。"
+
+
+msgctxt "abler"
+msgid "Import Selected File"
+msgstr "指定したファイルをviewportにインポート"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "インポート"
+
+
+msgid "Import selected file"
+msgstr "指定したファイルをviewportにインポート"
+
+
+msgctxt "abler"
+msgid "Import Failure"
+msgstr "インポートに失敗しました。"
+
+
+msgctxt "abler"
+msgid "Cannot import the exact same file from the same directory."
+msgstr "同じディレクトリ内のファイルはインポートできません。"
+
+
+msgctxt "abler"
+msgid "Import Selected File"
+msgstr "指定したファイルをviewportにインポート"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "インポート"
+
+
+msgid "Import selected file"
+msgstr "指定したファイルをviewportにインポート"
+
+
+msgctxt "abler"
+msgid "Cancel"
+msgstr "キャンセル"
+
+
+msgid "Cancel executing selected file"
+msgstr "指定したファイルの実行をキャンセル"
+
+
+msgid "Render Selected Scenes?"
+msgstr "指定したシーンをレンダリングしますか。"
+
+
+msgid "High quality render may take a long time to be finished."
+msgstr "容量が大きいため、レンダリングに時間がかかります。"
+
+
+msgid "Selected Scenes: $(sceneCount)"
+msgstr "指定したシーン: $(sceneCount)"
+
+
+msgctxt "abler"
+msgid "Save and Render"
+msgstr "保存後、レンダリング"
+
+
+msgctxt "abler"
+msgid "Render"
+msgstr "レンダリング"
+
+
+msgctxt "abler"
+msgid "Render Queue Finished"
+msgstr "レンダリングがすべて終了"
+
+
+msgctxt "abler"
+msgid "Rendered images are saved in :"
+msgstr "別の場所に保存:"
+
+
+msgctxt "abler"
+msgid "Latest version found for ABLER. Do you want to update?"
+msgstr "最新バージョンのABLERがあります。アップデートしますか。"
+
+
+msgctxt "abler"
+msgid "When using an older version of ABLER, some features may not work properly."
+msgstr "旧バージョンのABLERを使用時、一部機能がサポートされない場合があります。"
+
+
+msgid "Close"
+msgstr "閉じる"
+
+
+msgctxt "abler"
+msgid "Close"
+msgstr "閉じる"
+
+
+msgctxt "Operator"
+msgid "Menu Search..."
+msgstr "メニュー検索"
+
+
+msgid "Pop-up a search over all menus in the current context"
+msgstr "実行可能なモードメニューを検索"
+
+
+msgctxt "Operator"
+msgid "Unused Data-Blocks"
+msgstr "使用しないデータを消去"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Data-Blocks"
+msgstr "未使用のコピーデータを消去"
+
+
+msgctxt "Operator"
+msgid "Unused Linked Data-Blocks"
+msgstr "未使用のリンクデータを消去"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Linked Data-Blocks"
+msgstr "未使用のコピーデータ、リンクデータを消去"
+
+
+msgctxt "Operator"
+msgid "Unused Local Data-Blocks"
+msgstr "未使用のローカルデータを消去"
+
+
+msgctxt "Operator"
+msgid "Recursive Unused Local Data-Blocks"
+msgstr "未使用のコピーされたローカルデータを消去"
+
+
+msgid "File not found"
+msgstr "ファイルが見つかりません"
+
+
+msgid "Import Files"
+msgstr "ファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import"
+msgstr "インポート"
+
+
+msgctxt "abler"
+msgid "Save .blend Files"
+msgstr ".blendファイルを保存"
+
+
+msgctxt "abler"
+msgid "Save As..."
+msgstr "別名で保存"
+
+
+msgctxt "abler"
+msgid "Open Image Files"
+msgstr "イメージファイルを開く"
+
+
+msgctxt "abler"
+msgid "Default Image"
+msgstr "基本イメージ"
+
+
+msgctxt "abler"
+msgid "Custom Image"
+msgstr "ユーザーイメージ"
+
+
+msgctxt "abler"
+msgid "Save Image Files"
+msgstr "イメージファイルを保存"
+
+
+msgctxt "abler"
+msgid "Render"
+msgstr "レンダリング"
+
+
+msgctxt "abler"
+msgid "Save"
+msgstr "保存"
+
+
+msgctxt "abler"
+msgid "Save Copy..."
+msgstr "コピーして保存"
+
+
+msgctxt "abler"
+msgid "Import SKP"
+msgstr "SKPファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import FBX"
+msgstr "FBXファイルをインポート"
+
+
+msgctxt "abler"
+msgid "Import BLEND"
+msgstr "BLENDファイルをインポート"
+
+
+msgid "Columns"
+msgstr "項目"
+
+
+msgid "Show a column listing the size of each file"
+msgstr "ファイルにサイズ列を追加"
+
+
+msgid "Show a column listing the date and time of modification for each file"
+msgstr "ファイルに更新日時列を追加"
+
+
+msgid "Recursions"
+msgstr "フォルダの整列設定"
+
+
+msgid "Sort By"
+msgstr "整列基準"
+
+
+msgid "Show hidden folders or files"
+msgstr "非表示のフォルダやファイルを表示"
+
+
+msgctxt "abler"
+msgid "F-stop"
+msgstr "Fストップ"
+
+
+msgid "Import Look at me"
+msgstr "オブジェクトを正面に合わせるに含む"
+
+
+msgctxt "abler"
+msgid "Import Progress"
+msgstr "インポート進行状況"
+
+
+msgctxt "abler"
+msgid "Render Progress"
+msgstr "レンダリングの進行状況"
+
+
+msgid "Choose %s data-block to be assigned to this user"
+msgstr "指定したオブジェクトに適用するテクスチャーを選択"
+
+
+msgid "Find 3D assets on ACON3D"
+msgstr "ACON3Dアセットを探す"
+
+
+msgctxt "abler"
+msgid "Search"
+msgstr "検索"
+
+
