@@ -84774,7 +84774,7 @@ msgid "The file extension used for saving renders"
 msgstr "レンダリング画像保存に使用するファイル拡張子"
 
 
-msgid "Directory/name to save animations, # characters defines the position and length of frame numbers"
+msgid "Directory/name to save animations, characters defines the position and length of frame numbers"
 msgstr "アニメーションの保存先ディレクトリ"
 
 
@@ -88999,11 +88999,11 @@ msgid "Alter spring length to shrink/blow up (unit %) 0 to disable"
 msgstr "スプリングを伸縮させる長さを変更します (％単位) 0で無効"
 
 
-msgid "Maximal # solver steps/frame"
+msgid "Maximal solver steps/frame"
 msgstr "フレーム毎の最大ソルバーステップ"
 
 
-msgid "Minimal # solver steps/frame"
+msgid "Minimal solver steps/frame"
 msgstr "フレーム毎の最小ソルバーステップ"
 
 
@@ -120830,100 +120830,99 @@ msgid "2 depth"
 msgstr "2個"
 
 
-# 0.3.5에 들어가는 항목
-# msgid "ABLER feature Walkthrough"
-# msgstr "에이콘3D 보정예시"
+msgid "ABLER feature Walkthrough"
+msgstr "ACON3D補正例"
 
 
-# msgid "Link to ABLER feature Walkthrough"
-# msgstr "에이콘3D 보정예시 보러가기"
+msgid "Link to ABLER feature Walkthrough"
+msgstr "ACON3D補正例を見る"
 
 
-# msgid "ABLER Instruction"
-# msgstr "에이블러 기능상세"
+msgid "ABLER Instruction"
+msgstr "ABLER機能説明"
 
 
-# msgid "Link to ABLER Instruction"
-# msgstr "에이블러 기능상세 보러가기"
+msgid "Link to ABLER Instruction"
+msgstr "ABLER機能説明を見る"
 
 
-# msgid "Operating ABLER"
-# msgstr "에이블러 조작법"
+msgid "Operating ABLER"
+msgstr "ABLER操作方法"
 
 
-# msgid "Link to Operating ABLER"
-# msgstr "에이블러 조작법 보러가기"
+msgid "Link to Operating ABLER"
+msgstr "ABLER操作方法を見る"
 
 
-# msgctxt "abler"
-# msgid "Lights"
-# msgstr "조명"
+msgctxt "abler"
+msgid "Lights"
+msgstr "照明"
 
 
-# msgid "Add Light"
-# msgstr "조명 추가"
+msgid "Add Light"
+msgstr "照明の追加"
 
 
-# msgid "Energy"
-# msgstr "에너지"
+msgid "Energy"
+msgstr "エネルギー"
 
 
-# msgid "Toggle Light"
-# msgstr "조명 토글"
+msgid "Toggle Light"
+msgstr "照明のオン/オフ"
 
 
-# msgid "Adjust light color"
-# msgstr "조명 색상을 조절합니다"
+msgid "Adjust light color"
+msgstr "照明の色を調整します"
 
 
-# msgid "Adjust light energy"
-# msgstr "조명 에너지을 조절합니다"
+msgid "Adjust light energy"
+msgstr "照明のエネルギーを調整します"
 
 
-# msgid "Adjust light diffuse"
-# msgstr "조명 난반사 값을 조절합니다"
+msgid "Adjust light diffuse"
+msgstr "照明の乱反射値を調整します"
 
 
-# msgid "Adjust light specular"
-# msgstr "조명 반사 값을 조절합니다"
+msgid "Adjust light specular"
+msgstr "照明の反射値を調整します"
 
 
-# msgid "Adjust light volume"
-# msgstr "조명 볼륨 값을 조절합니다"
+msgid "Adjust light volume"
+msgstr "照明の光量値を調整します"
 
 
-# msgid "Toggle selected light"
-# msgstr "선택된 조명을 토글합니다"
+msgid "Toggle selected light"
+msgstr "選択した照明を切り替えます"
 
 
-# msgctxt "abler"
-# msgid "Create Layer"
-# msgstr "레이어 생성"
+msgctxt "abler"
+msgid "Create Layer"
+msgstr "レイヤー作成"
 
 
-# msgid "Create a new layer and link objects to a layer"
-# msgstr "새 레이어를 생성하고 오브젝트를 레이어에 연결합니다"
+msgid "Create a new layer and link objects to a layer"
+msgstr "新しいレイヤーを作成し、オブジェクトをレイヤーに接続します"
 
 
-# msgid "Layer Name"
-# msgstr "레이어 이름"
+msgid "Layer Name"
+msgstr "レイヤー名"
 
 
-# msgid "Write layer name"
-# msgstr "생성할 레이어 이름을 입력하세요"
+msgid "Write layer name"
+msgstr "作成するレイヤー名を入力してください"
 
 
-# msgid "Import files onto the viewport."
-# msgstr "파일을 대지 위에 불러옵니다."
+msgid "Import files onto the viewport."
+msgstr "ファイルを大地の上に読み込みます。"
 
 
 msgid "Sketchup File (.skp)"
-msgstr "스케치업 파일 (.skp)"
+msgstr "Sketchupファイル (.skp)"
 
 
 msgid "FBX File (.fbx)"
-msgstr "FBX 파일 (.fbx)"
+msgstr "FBXファイル (.fbx)"
 
 
 msgid "Blender File (.blend)"
-msgstr "블렌더 파일 (.blend)"
+msgstr "Blenderファイル (.blend)"
