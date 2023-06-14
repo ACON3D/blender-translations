@@ -120911,3 +120911,19 @@ msgstr "2個"
 
 # msgid "Write layer name"
 # msgstr "생성할 레이어 이름을 입력하세요"
+
+
+# msgid "Import files onto the viewport."
+# msgstr "파일을 대지 위에 불러옵니다."
+
+
+msgid "Sketchup File (.skp)"
+msgstr "스케치업 파일 (.skp)"
+
+
+msgid "FBX File (.fbx)"
+msgstr "FBX 파일 (.fbx)"
+
+
+msgid "Blender File (.blend)"
+msgstr "블렌더 파일 (.blend)"
