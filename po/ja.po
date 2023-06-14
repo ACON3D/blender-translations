@@ -75460,12 +75460,12 @@ msgstr "内部で使用します (プロパティのデータパスを編集)"
 
 
 msgctxt "Operator"
-msgid "Quit Blender"
-msgstr "Blenderを終了"
+msgid "Quit ABLER"
+msgstr "ABLERを終了"
 
 
-msgid "Quit Blender"
-msgstr "Blenderを終了"
+msgid "Quit ABLER"
+msgstr "ABLERを終了"
 
 
 msgctxt "Operator"
@@ -120806,6 +120806,28 @@ msgstr "ACON3Dアセットを探す"
 msgctxt "abler"
 msgid "Search"
 msgstr "検索"
+
+
+msgctxt "abler"
+msgid "Layers"
+msgstr "レイアー"
+
+
+msgctxt "abler"
+msgid "ACON3D Asset Store"
+msgstr "ACON3Dアセットストア"
+
+
+msgid "Buy 3D assets"
+msgstr "3Dアセット購入"
+
+
+msgid "3 depth"
+msgstr "3個"
+
+
+msgid "2 depth"
+msgstr "2個"
 
 
 # 0.3.5에 들어가는 항목
