@@ -120929,7 +120929,7 @@ msgstr "Blenderファイル (.blend)"
 
 
 msgid "Add Point Light"
-msgstr "포인트 조명을 추가합니다"
+msgstr "ポイント照明を追加します"
 
 
 msgid "Add Area Light"
