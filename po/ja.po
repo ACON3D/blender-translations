@@ -120926,3 +120926,34 @@ msgstr "FBXファイル (.fbx)"
 
 msgid "Blender File (.blend)"
 msgstr "Blenderファイル (.blend)"
+
+
+msgid "Add Point Light"
+msgstr "포인트 조명을 추가합니다"
+
+
+msgid "Add Area Light"
+msgstr "エリア照明を追加します"
+
+
+msgid "Add Spot Light"
+msgstr "スポット照明を追加します"
+
+
+msgid "Remove Selected Light"
+msgstr "選択した照明を削除します"
+
+
+msgctxt "abler"
+msgid "Point"
+msgstr "ポイント"
+
+
+msgctxt "abler"
+msgid "Area"
+msgstr "エリア"
+
+
+msgctxt "abler"
+msgid "Spot"
+msgstr "スポット"
