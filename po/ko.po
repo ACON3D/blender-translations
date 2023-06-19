@@ -60720,12 +60720,12 @@ msgstr "내부 사용 (data_path를 속성 편집)"
 
 
 msgctxt "Operator"
-msgid "Quit Blender"
-msgstr "블렌더를 종료합니다"
+msgid "Quit ABLER"
+msgstr "에이블러를 종료합니다"
 
 
-msgid "Quit Blender"
-msgstr "블렌더를 종료합니다"
+msgid "Quit ABLER"
+msgstr "에이블러를 종료합니다"
 
 
 msgctxt "Operator"
@@ -91980,6 +91980,30 @@ msgid "Don't have an ACON3D account?"
 msgstr "에이콘3D 계정이 없으신가요?"
 
 
+msgid "ABLER feature Walkthrough"
+msgstr "에이콘3D 보정예시"
+
+
+msgid "Link to ABLER feature Walkthrough"
+msgstr "에이콘3D 보정예시 보러가기"
+
+
+msgid "ABLER Instruction"
+msgstr "에이블러 기능상세"
+
+
+msgid "Link to ABLER Instruction"
+msgstr "에이블러 기능상세 보러가기"
+
+
+msgid "Operating ABLER"
+msgstr "에이블러 조작법"
+
+
+msgid "Link to Operating ABLER"
+msgstr "에이블러 조작법 보러가기"
+
+
 msgid "Link to ABLER service notice"
 msgstr "에이블러의 공지사항을 확인합니다"
 
@@ -93107,6 +93131,78 @@ msgstr "태양의 방향(방위각)을 조정합니다"
 msgctxt "abler"
 msgid "Shadow / Shading"
 msgstr "그림자 및 음영"
+
+
+msgctxt "abler"
+msgid "Lights"
+msgstr "조명"
+
+
+msgid "Add Light"
+msgstr "조명 추가"
+
+
+msgid "Add Point Light"
+msgstr "포인트 조명을 추가합니다"
+
+
+msgid "Add Area Light"
+msgstr "영역 조명을 추가합니다"
+
+
+msgid "Add Spot Light"
+msgstr "스폿 조명을 추가합니다"
+
+
+msgid "Remove Selected Light"
+msgstr "선택한 조명을 제거합니다"
+
+
+msgctxt "abler"
+msgid "Point"
+msgstr "포인트"
+
+
+msgctxt "abler"
+msgid "Area"
+msgstr "영역"
+
+
+msgctxt "abler"
+msgid "Spot"
+msgstr "스폿"
+
+
+msgid "Energy"
+msgstr "에너지"
+
+
+msgid "Toggle Light"
+msgstr "조명 토글"
+
+
+msgid "Adjust light color"
+msgstr "조명 색상을 조절합니다"
+
+
+msgid "Adjust light energy"
+msgstr "조명 에너지을 조절합니다"
+
+
+msgid "Adjust light diffuse"
+msgstr "조명 난반사 값을 조절합니다"
+
+
+msgid "Adjust light specular"
+msgstr "조명 반사 값을 조절합니다"
+
+
+msgid "Adjust light volume"
+msgstr "조명 볼륨 값을 조절합니다"
+
+
+msgid "Toggle selected light"
+msgstr "선택된 조명을 토글합니다"
 
 
 msgid "Express shadow and shading"
@@ -94507,4 +94603,28 @@ msgstr "파일경로가 존재하지 않습니다"
 msgid "Please select valid file path"
 msgstr "유효한 파일경로를 선택해주세요"
 
+
+msgctxt "abler"
+msgid "Create Layer"
+msgstr "레이어 생성"
+
+
+msgid "Create a new layer and link objects to a layer"
+msgstr "새 레이어를 생성하고 오브젝트를 레이어에 연결합니다"
+
+
+msgid "Layer Name"
+msgstr "레이어 이름"
+
+
+msgid "Write layer name"
+msgstr "생성할 레이어 이름을 입력하세요"
+
+
+msgid "3 depth"
+msgstr "3 가지"
+
+
+msgid "2 depth"
+msgstr "2 가지"
 
