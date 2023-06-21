@@ -118763,12 +118763,20 @@ msgid "Azimuth"
 msgstr "方位角"
 
 
+msgid "Please login with your ACON3D account."
+msgstr "Acon3Dアカウントでログインしてください。"
+
+
 msgid "Remember Username"
 msgstr "IDを保存"
 
 
 msgid "Username"
 msgstr "ID"
+
+
+msgid "  Submit"
+msgstr "    入力"
 
 
 msgid "See ACON3D models!"
