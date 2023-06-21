@@ -120980,3 +120980,15 @@ msgstr "継続"
 msgctxt "abler"
 msgid "Quit"
 msgstr "終了"
+
+
+msgid "Click and drag to zoom in/out in the view"
+msgstr "画面を拡大 / 縮小する。"
+
+
+msgid "Click and drag to move the view"
+msgstr "画面を移動する。"
+
+
+msgid "Drag to rotate the view"
+msgstr "画面を回転する。"
