@@ -120969,7 +120969,7 @@ msgstr "スポット"
 
 msgctxt "abler"
 msgid "Shader node changes may occur when working in ABLER, and this is at your own risk."
-msgstr "Ablerで作業する場合、シェーダーノードの変更が発生する可能性があり、これはユーザーの責任です。"
+msgstr "ABLERで作業する場合、シェーダーノードの変更が発生する可能性があり、これはユーザーの責任です。"
 
 
 msgctxt "abler"
@@ -120992,3 +120992,19 @@ msgstr "画面を移動する。"
 
 msgid "Drag to rotate the view"
 msgstr "画面を回転する。"
+
+
+msgid "This file was created in a older version of ABLER ($(fileVer))"
+msgstr "このファイルは旧バージョンのABLERで作成されています。(バージョン: $(fileVer))"
+
+
+msgid "If you save in the current version ($(clientVer)), you will not be able to load this file from older version of ABLER."
+msgstr "新しいバージョン($(clientVer))でファイルを保存する場合、旧バージョンのABLERではファイルを読み込むことができません"
+
+
+msgid "Don't show this message again"
+msgstr "今後、このメッセージを表示しない"
+
+
+msgid "Close"
+msgstr "閉じる"
