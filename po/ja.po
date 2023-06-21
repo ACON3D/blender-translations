@@ -118744,7 +118744,7 @@ msgstr "Fストップ"
 
 
 msgid "Quick Render"
-msgstr "レンダリングを速くする"
+msgstr "クイックレンダリング"
 
 
 msgid "Line Render"
@@ -118946,7 +118946,7 @@ msgstr "別の場所に保存:"
 
 
 msgid "Snip Render"
-msgstr "レンダリングを切り取る"
+msgstr "切り取りレンダリング"
 
 
 msgid "Group Navigation"
@@ -119909,7 +119909,7 @@ msgstr "保存後、設定したピクセルでレンダリング"
 
 msgctxt "abler"
 msgid "Quick Render"
-msgstr "レンダリングを速くする"
+msgstr "クイックレンダリング"
 
 
 msgctxt "abler"
@@ -119923,7 +119923,7 @@ msgstr "画面の表示範囲だけを高速レンダリングする"
 
 msgctxt "abler"
 msgid "Snip Render"
-msgstr "レンダリングを切り取る"
+msgstr "切り取りレンダリング"
 
 
 msgid "Render selected objects isolatedly from background"
