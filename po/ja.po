@@ -119027,6 +119027,10 @@ msgid "Open Default Background Image"
 msgstr "基本の背景イメージを開く"
 
 
+msgid "Adjust the overall exposure and light up indoor space along with gamma (range: -10 ~ 10)"
+msgstr "全体的な露光量を調整します。ガンマ補正ととも室内で使用できます (範囲: -10 ~ 10)"
+
+
 msgid "Adjust the overall gamma value and light up indoor space along with exposure (range: 0 ~ 5)"
 msgstr "全体的なガンマ補正値を校正します。露光量とともに室内で使用できます (範囲: 0 ~ 5)"
 
@@ -119297,6 +119301,10 @@ msgstr "縮小"
 msgctxt "abler"
 msgid "Crop"
 msgstr "切り取り"
+
+
+msgid "Select how image fits in the camera frame"
+msgstr "背景イメージをカメラ領域に合わせて選択"
 
 
 msgctxt "abler"
@@ -119751,9 +119759,17 @@ msgid "Brightness"
 msgstr "明るさ"
 
 
+msgid "Adjust the overall brightness (Range: -1 ~ 1)"
+msgstr "全体的な明るさを調整します (範囲: -1 ~ 1)"
+
+
 msgctxt "abler"
 msgid "Contrast"
 msgstr "コントラスト"
+
+
+msgid "Adjust the overall contrast (Range: -1 ~ 1)"
+msgstr "全体的なコントラストを調整します (範囲: -1 ~ 1)"
 
 
 msgctxt "abler"
