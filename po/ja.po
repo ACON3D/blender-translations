@@ -118764,7 +118764,7 @@ msgstr "方位角"
 
 
 msgid "Please login with your ACON3D account."
-msgstr "Acon3Dアカウントでログインしてください。"
+msgstr "ACON3Dアカウントでログインしてください。"
 
 
 msgid "Remember Username"
