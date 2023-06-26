@@ -118744,7 +118744,7 @@ msgstr "Fストップ"
 
 
 msgid "Quick Render"
-msgstr "レンダリングを速くする"
+msgstr "クイックレンダリング"
 
 
 msgid "Line Render"
@@ -118763,12 +118763,20 @@ msgid "Azimuth"
 msgstr "方位角"
 
 
+msgid "Please login with your ACON3D account."
+msgstr "ACON3Dアカウントでログインしてください。"
+
+
 msgid "Remember Username"
 msgstr "IDを保存"
 
 
 msgid "Username"
 msgstr "ID"
+
+
+msgid "  Submit"
+msgstr "    入力"
 
 
 msgid "See ACON3D models!"
@@ -118946,7 +118954,7 @@ msgstr "別の場所に保存:"
 
 
 msgid "Snip Render"
-msgstr "レンダリングを切り取る"
+msgstr "切り取りレンダリング"
 
 
 msgid "Group Navigation"
@@ -119017,6 +119025,10 @@ msgstr "基本イメージ"
 
 msgid "Open Default Background Image"
 msgstr "基本の背景イメージを開く"
+
+
+msgid "Adjust the overall exposure and light up indoor space along with gamma (range: -10 ~ 10)"
+msgstr "全体的な露光量を調整します。ガンマ補正ととも室内で使用できます (範囲: -10 ~ 10)"
 
 
 msgid "Adjust the overall gamma value and light up indoor space along with exposure (range: 0 ~ 5)"
@@ -119289,6 +119301,10 @@ msgstr "縮小"
 msgctxt "abler"
 msgid "Crop"
 msgstr "切り取り"
+
+
+msgid "Select how image fits in the camera frame"
+msgstr "背景イメージをカメラ領域に合わせて選択"
 
 
 msgctxt "abler"
@@ -119743,9 +119759,17 @@ msgid "Brightness"
 msgstr "明るさ"
 
 
+msgid "Adjust the overall brightness (Range: -1 ~ 1)"
+msgstr "全体的な明るさを調整します (範囲: -1 ~ 1)"
+
+
 msgctxt "abler"
 msgid "Contrast"
 msgstr "コントラスト"
+
+
+msgid "Adjust the overall contrast (Range: -1 ~ 1)"
+msgstr "全体的なコントラストを調整します (範囲: -1 ~ 1)"
 
 
 msgctxt "abler"
@@ -119909,7 +119933,7 @@ msgstr "保存後、設定したピクセルでレンダリング"
 
 msgctxt "abler"
 msgid "Quick Render"
-msgstr "レンダリングを速くする"
+msgstr "クイックレンダリング"
 
 
 msgctxt "abler"
@@ -119923,7 +119947,7 @@ msgstr "画面の表示範囲だけを高速レンダリングする"
 
 msgctxt "abler"
 msgid "Snip Render"
-msgstr "レンダリングを切り取る"
+msgstr "切り取りレンダリング"
 
 
 msgid "Render selected objects isolatedly from background"
@@ -120957,3 +120981,46 @@ msgstr "エリア"
 msgctxt "abler"
 msgid "Spot"
 msgstr "スポット"
+
+
+msgctxt "abler"
+msgid "Shader node changes may occur when working in ABLER, and this is at your own risk."
+msgstr "ABLERで作業する場合、シェーダーノードの変更が発生する可能性があり、これはユーザーの責任です。"
+
+
+msgctxt "abler"
+msgid "Continue"
+msgstr "継続"
+
+
+msgctxt "abler"
+msgid "Quit"
+msgstr "終了"
+
+
+msgid "Click and drag to zoom in/out in the view"
+msgstr "画面を拡大 / 縮小する。"
+
+
+msgid "Click and drag to move the view"
+msgstr "画面を移動する。"
+
+
+msgid "Drag to rotate the view"
+msgstr "画面を回転する。"
+
+
+msgid "This file was created in a older version of ABLER ($(fileVer))"
+msgstr "このファイルは旧バージョンのABLERで作成されています。(バージョン: $(fileVer))"
+
+
+msgid "If you save in the current version ($(clientVer)), you will not be able to load this file from older version of ABLER."
+msgstr "新しいバージョン($(clientVer))でファイルを保存する場合、旧バージョンのABLERではファイルを読み込むことができません"
+
+
+msgid "Don't show this message again"
+msgstr "今後、このメッセージを表示しない"
+
+
+msgid "Close"
+msgstr "閉じる"

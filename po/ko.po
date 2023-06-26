@@ -94628,3 +94628,17 @@ msgstr "3 가지"
 msgid "2 depth"
 msgstr "2 가지"
 
+
+msgctxt "abler"
+msgid "Shader node changes may occur when working in ABLER, and this is at your own risk."
+msgstr "에이블러에서 작업 시 쉐이더 노드 변경이 발생할 수 있으며, 이는 사용자의 책임입니다."
+
+
+msgctxt "abler"
+msgid "Continue"
+msgstr "계속"
+
+
+msgctxt "abler"
+msgid "Quit"
+msgstr "종료"
