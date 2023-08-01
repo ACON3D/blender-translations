@@ -120968,6 +120968,10 @@ msgid "Remove Selected Light"
 msgstr "選択した照明を削除します"
 
 
+msgid "Spawn light on 3D cursor"
+msgstr "3Dカーソル位置に照明を生成します"
+
+
 msgctxt "abler"
 msgid "Point"
 msgstr "ポイント"
