@@ -93158,6 +93158,10 @@ msgid "Remove Selected Light"
 msgstr "선택한 조명을 제거합니다"
 
 
+msgid "Spawn light on 3D cursor"
+msgstr "3D 커서 위치에 조명을 생성합니다"
+
+
 msgctxt "abler"
 msgid "Point"
 msgstr "포인트"
