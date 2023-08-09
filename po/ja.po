@@ -120855,11 +120855,11 @@ msgstr "2個"
 
 
 msgid "ABLER feature Walkthrough"
-msgstr "ACON3D補正例"
+msgstr "ABLER補正例"
 
 
 msgid "Link to ABLER feature Walkthrough"
-msgstr "ACON3D補正例を見る"
+msgstr "ABLER補正例を見る"
 
 
 msgid "ABLER Instruction"
