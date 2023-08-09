@@ -91981,11 +91981,11 @@ msgstr "에이콘3D 계정이 없으신가요?"
 
 
 msgid "ABLER feature Walkthrough"
-msgstr "에이콘3D 보정예시"
+msgstr "에이블러 보정예시"
 
 
 msgid "Link to ABLER feature Walkthrough"
-msgstr "에이콘3D 보정예시 보러가기"
+msgstr "에이블러 보정예시 보러가기"
 
 
 msgid "ABLER Instruction"
