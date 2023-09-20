@@ -91996,6 +91996,14 @@ msgid "Link to ABLER Instruction"
 msgstr "에이블러 기능상세 보러가기"
 
 
+msgid "ABLER User Guide"
+msgstr "에이블러 가이드"
+
+
+msgid "Link to ABLER Guide"
+msgstr "에이블러 가이드 보러가기"
+
+
 msgid "Operating ABLER"
 msgstr "에이블러 조작법"
 

@@ -120870,6 +120870,14 @@ msgid "Link to ABLER Instruction"
 msgstr "ABLER機能説明を見る"
 
 
+msgid "ABLER User Guide"
+msgstr "ABLERガイド"
+
+
+msgid "Link to ABLER Guide"
+msgstr "ABLERガイドを見る"
+
+
 msgid "Operating ABLER"
 msgstr "ABLER操作方法"
 
