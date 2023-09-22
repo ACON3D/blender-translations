@@ -120855,11 +120855,11 @@ msgstr "2個"
 
 
 msgid "ABLER feature Walkthrough"
-msgstr "ACON3D補正例"
+msgstr "ABLER補正例"
 
 
 msgid "Link to ABLER feature Walkthrough"
-msgstr "ACON3D補正例を見る"
+msgstr "ABLER補正例を見る"
 
 
 msgid "ABLER Instruction"
@@ -120868,6 +120868,14 @@ msgstr "ABLER機能説明"
 
 msgid "Link to ABLER Instruction"
 msgstr "ABLER機能説明を見る"
+
+
+msgid "ABLER User Guide"
+msgstr "ABLERガイド"
+
+
+msgid "Link to ABLER Guide"
+msgstr "ABLERガイドを見る"
 
 
 msgid "Operating ABLER"
@@ -120966,6 +120974,10 @@ msgstr "スポット照明を追加します"
 
 msgid "Remove Selected Light"
 msgstr "選択した照明を削除します"
+
+
+msgid "Spawn light on 3D cursor"
+msgstr "3Dカーソル位置に照明を生成します"
 
 
 msgctxt "abler"
