@@ -118799,11 +118799,11 @@ msgid "Blender Development Fund"
 msgstr "BLENDERを支援する"
 
 
-msgid "With the release and update of Abler 2.0,"
+msgid "With the release and update of version 2.0,"
 msgstr "Abler 2.0のリリースおよびアップデートに伴い、"
 
 
-msgid "we have officially ended the operation of Abler 1.0 as of April 15, 2024."
+msgid "we have officially ended the operation of version 1.0 as of April 15, 2024."
 msgstr "2024年4月15日をもってAbler 1.0の運営を正式に終了しました。"
 
 

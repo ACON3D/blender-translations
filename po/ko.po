@@ -92032,11 +92032,11 @@ msgid "Login failed. Please try again."
 msgstr "로그인에 실패하였습니다. 아이디 혹은 비밀번호를 확인해주세요."
 
 
-msgid "With the release and update of Abler 2.0,"
+msgid "With the release and update of version 2.0,"
 msgstr "에이블러2.0 출시 및 업데이트에 따라 2024년 4월 15일부로"
 
 
-msgid "we have officially ended the operation of Abler 1.0 as of April 15, 2024."
+msgid "we have officially ended the operation of version 1.0 as of April 15, 2024."
 msgstr "현재 보고 계신 에이블러1.0 버전의 운영이 공식적으로 종료되었습니다."
 
 
